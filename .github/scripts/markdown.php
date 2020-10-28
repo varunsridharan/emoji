@@ -24,9 +24,10 @@ if ( ! empty( $result ) ) {
 HTML;
 
 		$emoji_unicode[] = <<<HTML
-<td align="center"> :$id:
+<td> :$id:
 
-<code>$id</code> </td>
+<code>$id</code> 
+</td>
 
 HTML;
 
