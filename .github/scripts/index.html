@@ -47,6 +47,16 @@ You can also download emojis image file from images/ in our repository">
 			cursor: pointer;
 		}
 	</style>
+	<script src="https://unpkg.com/@github/clipboard-copy-element@latest" defer></script>
+	<script>
+		document.addEventListener('clipboard-copy', function(event) {
+			const notice = event.target.querySelector('.notice')
+			notice.hidden = false
+			setTimeout(function() {
+				notice.hidden = true
+			}, 1000)
+		})
+	</script>
 </head>
 
 <body class="py-4">
@@ -64,5 +74,6 @@ You can also download emojis image file from images/ in our repository">
 		<a href="https://en.wikipedia.org/wiki/India"><img src="https://cdn.svarun.dev/flag-india-flat.svg" width="20px"/></a>
 	</p>
 </div>
+
 </body>
 </html>

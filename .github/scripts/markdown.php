@@ -20,7 +20,9 @@ if ( ! empty( $result ) ) {
 			$emoji_html[] = '</tr><tr valign="top">';
 		}
 
-		$emoji_html[]    = "<td class='emoji $id'><a href=\"$emoji\"><img src=\"$emoji\" /></a></td> <td class='emoji-id'><code>:$id:</code> </td>";
+		#$emoji_html[]    = "<td class='emoji $id'><a href=\"$emoji\"><img src=\"$emoji\" /></a></td> <td class='emoji-id'><code>:$id:</code> </td>";
+		$emoji_html[] = "<td class='emoji $id'><a href=\"$emoji\"><img src=\"$emoji\" /></a></td> <td class='emoji-id'><clipboard-copy value=\":$id:\"> <code>:$id:</code> <span class=\"notice\" hidden>Copied!</span> </clipboard-copy></td>";
+
 		$emoji_unicode[] = "<td >:$id:</td><td><code>:$id:</code></td>";
 		$i++;
 	}
