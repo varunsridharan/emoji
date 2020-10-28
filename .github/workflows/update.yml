@@ -5,7 +5,9 @@ on:
   push:
     paths: 
       - .github/scripts/markdown.php
-    branches: 
+      - .github/scripts/index.html
+      - .github/scripts/readme.md
+    branches:
       - main
 
 jobs:
