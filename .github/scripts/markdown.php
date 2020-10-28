@@ -40,6 +40,6 @@ if ( ! empty( $result ) ) {
 	 * Generate HTML Image.md
 	 */
 	$_ex = file_get_contents( __DIR__ . '/index.html' );
-	$_ex = str_replace( '{{ list }}', $emoji_unicode, $_ex );
-	file_put_contents( __DIR__ . '/../../index.html', $_ex );
+	$_ex = str_replace( '{{ list }}', $emoji_html, $_ex );
+	file_put_contents( __DIR__ . '/../../index.html	', $_ex );
 }
