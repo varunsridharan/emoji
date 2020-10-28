@@ -16,18 +16,18 @@ if ( ! empty( $result ) ) {
 			$emoji_unicode[] = '</tr><tr valign="top">';
 		}
 
-		if ( 0 !== $i && 0 === $i % 2 ) {
+		if ( 0 !== $i && 0 === $i % 5 ) {
 			$emoji_html[] = '</tr><tr valign="top">';
 		}
 
-		$emoji_html[]    = "<td align=\"center\"><a href=\"$emoji\"><img src=\"$emoji\" width=\"15%\"/></a></td> <td><code>:$id:</code> </td>";
-		$emoji_unicode[] = "<td>:$id:</td><td><code>:$id:</code></td>";
+		$emoji_html[]    = "<td class='emoji $id'><a href=\"$emoji\"><img src=\"$emoji\" /></a></td> <td class='emoji-id'><code>:$id:</code> </td>";
+		$emoji_unicode[] = "<td >:$id:</td><td><code>:$id:</code></td>";
 		$i++;
 	}
 	$emoji_html[]    = '</tr>';
 	$emoji_unicode[] = '</tr>';
 	$emoji_unicode   = '<table>' . implode( '', $emoji_unicode ) . '</table>';
-	$emoji_html      = '<table>' . implode( '', $emoji_html ) . '</table>';
+	$emoji_html      = '<table class="table  table-sm">' . implode( '', $emoji_html ) . '</table>';
 
 	/**
 	 * Generate README.md
@@ -41,5 +41,5 @@ if ( ! empty( $result ) ) {
 	 */
 	$_ex = file_get_contents( __DIR__ . '/index.html' );
 	$_ex = str_replace( '{{ list }}', $emoji_html, $_ex );
-	file_put_contents( __DIR__ . '/../../index.html	', $_ex );
+	file_put_contents( __DIR__ . '/../../index.html', $_ex );
 }
