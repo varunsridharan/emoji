@@ -7,6 +7,7 @@ on:
       - .github/scripts/markdown.php
       - .github/scripts/index.html
       - .github/scripts/readme.md
+      - .github/scripts/downloader.php
     branches:
       - main
 
@@ -24,12 +25,16 @@ jobs:
           php-version: '7.4'
       - name: Render Markdown   
         run: php .github/scripts/markdown.php
+      - name: Downloads Images
+        run: php .github/scripts/downloader.php
       - name: Push To Github
         run: |
           git config --global user.email "githubactionbot@gmail.com"
           git config --global user.name "Github Action Bot"
           git add README.md -f
           git add index.html -f
+          git add emojis/** -f
+
           if [ "$(git status --porcelain)" != "" ]; then
             git commit -m "💬 - Emoji Updated"
           fi
