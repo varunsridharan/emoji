@@ -13,11 +13,11 @@ if ( ! empty( $result ) ) {
 	$emoji_unicode = [ '<tr valign="top">' . PHP_EOL ];
 	foreach ( $result as $id => $emoji ) {
 
-		if ( $i !== 0 && $i % 5 == 0 ) {
+		if ( $i !== 0 && $i % 2 == 0 ) {
 			$emoji_unicode[] = PHP_EOL . '</tr>' . PHP_EOL . PHP_EOL . '<tr valign="top">' . PHP_EOL;
 		}
 
-		if ( $i !== 0 && $i % 5 == 0 ) {
+		if ( $i !== 0 && $i % 2 == 0 ) {
 			$emoji_html[] = PHP_EOL . '</tr>' . PHP_EOL . PHP_EOL . '<tr valign="top">' . PHP_EOL;
 		}
 
