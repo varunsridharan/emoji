@@ -15,8 +15,14 @@ if ( ! empty( $result ) ) {
 
 		if ( $i !== 0 && $i % 5 == 0 ) {
 			$emoji_html[]    = PHP_EOL . '</tr>' . PHP_EOL . PHP_EOL . '<tr>' . PHP_EOL;
+			#$emoji_unicode[] = PHP_EOL . '</tr>' . PHP_EOL . PHP_EOL . '<tr>' . PHP_EOL;
+		}
+
+		if ( $i !== 0 && $i % 3 == 0 ) {
+			#$emoji_html[]    = PHP_EOL . '</tr>' . PHP_EOL . PHP_EOL . '<tr>' . PHP_EOL;
 			$emoji_unicode[] = PHP_EOL . '</tr>' . PHP_EOL . PHP_EOL . '<tr>' . PHP_EOL;
 		}
+
 		$emoji_html[] = <<<HTML
 <td align="center"> <a href="$emoji"><img src="$emoji" width="15%"/></a>
 <br/>
