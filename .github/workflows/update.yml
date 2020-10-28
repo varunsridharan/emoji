@@ -6,7 +6,7 @@ on:
 jobs:
   readme_generator:
     name: "Emoji Readme Generator"
-    runs-on: "ubunut-latest"
+    runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@master
