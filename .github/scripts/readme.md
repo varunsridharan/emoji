@@ -8,22 +8,3 @@
 
 ## Emojis
 {{ List }}
-
-<table border="5">
-    <tr  valign="top">
-        <td  style="width:40%">:adult:</td>
-        <td  style="width:40%"><code>adult</code></td>
-        <td  style="width:40%">:adult:</td>
-        <td  style="width:40%"><code>adult</code></td>
-        <td  style="width:40%">:adult:</td>
-        <td  style="width:40%"><code>adult</code></td>
-    </tr>
-    <tr  valign="top">
-            <td  style="width:40%">:adult:</td>
-            <td  style="width:40%"><code>adult</code></td>
-            <td  style="width:40%">:adult:</td>
-            <td  style="width:40%"><code>adult</code></td>
-            <td  style="width:40%">:adult:</td>
-            <td  style="width:40%"><code>adult</code></td>
-        </tr>
-</table>
