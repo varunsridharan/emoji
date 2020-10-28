@@ -7,4 +7,4 @@
 > You can also download emojis image file from `images/` Folder
 
 ## Emojis
-{{ List }}
+{{ list }}
