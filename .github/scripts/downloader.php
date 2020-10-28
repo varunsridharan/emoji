@@ -23,7 +23,7 @@ if ( ! empty( $result ) ) {
 	$result        = json_decode( $result, true );
 	$emoji_html    = [ '<tr valign="top">' ];
 	$emoji_unicode = [ '<tr valign="top">' ];
-	@mkdir( __DIR__ . '/../../emojis/', 777, true );
+	@mkdir( __DIR__ . '/../../emojis/', 0777, true );
 	foreach ( $result as $id => $emoji ) {
 		$paths      = parse_url( $emoji );
 		$query      = $paths['query'];
@@ -32,7 +32,7 @@ if ( ! empty( $result ) ) {
 		$local_path = __DIR__ . '/../../emojis/' . $query . '/' . $path;
 		if ( ! file_exists( $local_path ) ) {
 			$data = file_get_contents_curl( $emoji );
-			@mkdir( __DIR__ . '/../../emojis/' . $query, 777, true );
+			@mkdir( __DIR__ . '/../../emojis/' . $query, 0777, true );
 			file_put_contents( $local_path, $data );
 		}
 	}
