@@ -2,6 +2,11 @@ name: "Emoji List Updater"
 
 on:
   workflow_dispatch:
+  push:
+    paths: 
+      - .github/scripts/markdown.php
+    branches: 
+      - main
 
 jobs:
   readme_generator:
