@@ -17,3 +17,16 @@ jobs:
           php-version: '7.4'
       - name: Render Markdown   
         run: php .github/scripts/markdown.php
+      - name: Push To Github
+        run: |
+          git config --global user.email "githubactionbot@gmail.com"
+          git config --global user.name "Github Action Bot"
+          git add unicode.md -f
+          git add images.md -f
+          if [ "$(git status --porcelain)" != "" ]; then
+            git commit -m "💬 - Emoji Updated"
+          fi
+        
+          git push "https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
