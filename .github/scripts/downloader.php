@@ -23,6 +23,7 @@ if ( ! empty( $result ) ) {
 	$result        = json_decode( $result, true );
 	$emoji_html    = [ '<tr valign="top">' ];
 	$emoji_unicode = [ '<tr valign="top">' ];
+	@mkdir( __DIR__ . '/../../emojis/', 777, true );
 	foreach ( $result as $id => $emoji ) {
 		$paths      = parse_url( $emoji );
 		$query      = $paths['query'];
