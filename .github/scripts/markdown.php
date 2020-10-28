@@ -36,6 +36,7 @@ if ( ! empty( $result ) ) {
 	 */
 	$_ex = file_get_contents( __DIR__ . '/readme.md' );
 	$_ex = str_replace( '{{ list }}', $emoji_unicode, $_ex );
+	$_ex = str_replace( '{{ last_updated }}', date( 'D d-M-Y h:i: a' ), $_ex );
 	file_put_contents( __DIR__ . '/../../README.md', $_ex );
 
 	/**
@@ -43,5 +44,6 @@ if ( ! empty( $result ) ) {
 	 */
 	$_ex = file_get_contents( __DIR__ . '/index.html' );
 	$_ex = str_replace( '{{ list }}', $emoji_html, $_ex );
+	$_ex = str_replace( '{{ last_updated }}', date( 'D d-M-Y h:i: a' ), $_ex );
 	file_put_contents( __DIR__ . '/../../index.html', $_ex );
 }

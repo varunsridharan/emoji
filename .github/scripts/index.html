@@ -49,13 +49,13 @@ You can also download emojis image file from images/ in our repository">
 	</style>
 	<script src="https://unpkg.com/@github/clipboard-copy-element@latest" defer></script>
 	<script>
-		document.addEventListener('clipboard-copy', function(event) {
-			const notice = event.target.querySelector('.notice')
+		document.addEventListener( 'clipboard-copy', function( event ) {
+			const notice  = event.target.querySelector( '.notice' )
 			notice.hidden = false
-			setTimeout(function() {
+			setTimeout( function() {
 				notice.hidden = true
-			}, 1000)
-		})
+			}, 1000 )
+		} )
 	</script>
 </head>
 
@@ -64,14 +64,17 @@ You can also download emojis image file from images/ in our repository">
 	<h1>Github Emoji Lists</h1>
 	<p>Lists All Emoji & Its Name That Github Supports. This list is auto updated using Github Emoji API.
 		You can also download emojis image file from images/ in our repository</p>
-	<p class="text-center"><img src="https://cdn.svarun.dev/gh/varunsridharan/emoji/quote.png"/> </p>
+	<p class="text-center"><img src="https://cdn.svarun.dev/gh/varunsridharan/emoji/quote.png"/></p>
 </div>
 <div class="container-fluid">{{ list }}</div>
 <div class="container">
 	<hr/>
 	<p class="text-center">
 		Built With ♥ By <a href="https://sva.onl/twitter">Varun Sridharan</a>
-		<a href="https://en.wikipedia.org/wiki/India"><img src="https://cdn.svarun.dev/flag-india-flat.svg" width="20px"/></a>
+		<a href="https://en.wikipedia.org/wiki/India"><img src="https://cdn.svarun.dev/flag-india-flat.svg"
+														   width="20px"/></a>
+		<br/>
+		<small>Last Updated : {{ last_updated }}</small>
 	</p>
 </div>
 
