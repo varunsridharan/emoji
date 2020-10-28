@@ -1,10795 +1,5398 @@
 <table>
 <tr>
 
-<td> :+1:
+<td> :+1: <code>+1</code> </td>
 
-<code>+1</code> 
-</td>
+<td> :-1: <code>-1</code> </td>
 
-<td> :-1:
+<td> :100: <code>100</code> </td>
 
-<code>-1</code> 
-</td>
+<td> :1234: <code>1234</code> </td>
 
-<td> :100:
+<td> :1st_place_medal: <code>1st_place_medal</code> </td>
 
-<code>100</code> 
-</td>
 
-<td> :1234:
-
-<code>1234</code> 
-</td>
-
-<td> :1st_place_medal:
-
-<code>1st_place_medal</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :2nd_place_medal:
-
-<code>2nd_place_medal</code> 
-</td>
-
-<td> :3rd_place_medal:
-
-<code>3rd_place_medal</code> 
-</td>
-
-<td> :8ball:
-
-<code>8ball</code> 
-</td>
-
-<td> :a:
-
-<code>a</code> 
-</td>
-
-<td> :ab:
-
-<code>ab</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :abacus:
-
-<code>abacus</code> 
-</td>
-
-<td> :abc:
-
-<code>abc</code> 
-</td>
-
-<td> :abcd:
-
-<code>abcd</code> 
-</td>
-
-<td> :accept:
-
-<code>accept</code> 
-</td>
-
-<td> :adhesive_bandage:
-
-<code>adhesive_bandage</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :adult:
-
-<code>adult</code> 
-</td>
-
-<td> :aerial_tramway:
-
-<code>aerial_tramway</code> 
-</td>
-
-<td> :afghanistan:
-
-<code>afghanistan</code> 
-</td>
-
-<td> :airplane:
-
-<code>airplane</code> 
-</td>
-
-<td> :aland_islands:
-
-<code>aland_islands</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :alarm_clock:
-
-<code>alarm_clock</code> 
-</td>
-
-<td> :albania:
-
-<code>albania</code> 
-</td>
-
-<td> :alembic:
-
-<code>alembic</code> 
-</td>
-
-<td> :algeria:
-
-<code>algeria</code> 
-</td>
-
-<td> :alien:
-
-<code>alien</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :ambulance:
-
-<code>ambulance</code> 
-</td>
-
-<td> :american_samoa:
-
-<code>american_samoa</code> 
-</td>
-
-<td> :amphora:
-
-<code>amphora</code> 
-</td>
-
-<td> :anchor:
-
-<code>anchor</code> 
-</td>
-
-<td> :andorra:
-
-<code>andorra</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :angel:
-
-<code>angel</code> 
-</td>
-
-<td> :anger:
-
-<code>anger</code> 
-</td>
-
-<td> :angola:
-
-<code>angola</code> 
-</td>
-
-<td> :angry:
-
-<code>angry</code> 
-</td>
-
-<td> :anguilla:
-
-<code>anguilla</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :anguished:
-
-<code>anguished</code> 
-</td>
-
-<td> :ant:
-
-<code>ant</code> 
-</td>
-
-<td> :antarctica:
-
-<code>antarctica</code> 
-</td>
-
-<td> :antigua_barbuda:
-
-<code>antigua_barbuda</code> 
-</td>
-
-<td> :apple:
-
-<code>apple</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :aquarius:
-
-<code>aquarius</code> 
-</td>
-
-<td> :argentina:
-
-<code>argentina</code> 
-</td>
-
-<td> :aries:
-
-<code>aries</code> 
-</td>
-
-<td> :armenia:
-
-<code>armenia</code> 
-</td>
-
-<td> :arrow_backward:
-
-<code>arrow_backward</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :arrow_double_down:
-
-<code>arrow_double_down</code> 
-</td>
-
-<td> :arrow_double_up:
-
-<code>arrow_double_up</code> 
-</td>
-
-<td> :arrow_down:
-
-<code>arrow_down</code> 
-</td>
-
-<td> :arrow_down_small:
-
-<code>arrow_down_small</code> 
-</td>
-
-<td> :arrow_forward:
-
-<code>arrow_forward</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :arrow_heading_down:
-
-<code>arrow_heading_down</code> 
-</td>
-
-<td> :arrow_heading_up:
-
-<code>arrow_heading_up</code> 
-</td>
-
-<td> :arrow_left:
-
-<code>arrow_left</code> 
-</td>
-
-<td> :arrow_lower_left:
-
-<code>arrow_lower_left</code> 
-</td>
-
-<td> :arrow_lower_right:
-
-<code>arrow_lower_right</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :arrow_right:
-
-<code>arrow_right</code> 
-</td>
-
-<td> :arrow_right_hook:
-
-<code>arrow_right_hook</code> 
-</td>
-
-<td> :arrow_up:
-
-<code>arrow_up</code> 
-</td>
-
-<td> :arrow_up_down:
-
-<code>arrow_up_down</code> 
-</td>
-
-<td> :arrow_up_small:
-
-<code>arrow_up_small</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :arrow_upper_left:
-
-<code>arrow_upper_left</code> 
-</td>
-
-<td> :arrow_upper_right:
-
-<code>arrow_upper_right</code> 
-</td>
-
-<td> :arrows_clockwise:
-
-<code>arrows_clockwise</code> 
-</td>
-
-<td> :arrows_counterclockwise:
-
-<code>arrows_counterclockwise</code> 
-</td>
-
-<td> :art:
-
-<code>art</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :articulated_lorry:
-
-<code>articulated_lorry</code> 
-</td>
-
-<td> :artificial_satellite:
-
-<code>artificial_satellite</code> 
-</td>
-
-<td> :artist:
-
-<code>artist</code> 
-</td>
-
-<td> :aruba:
-
-<code>aruba</code> 
-</td>
-
-<td> :ascension_island:
-
-<code>ascension_island</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :asterisk:
-
-<code>asterisk</code> 
-</td>
-
-<td> :astonished:
-
-<code>astonished</code> 
-</td>
-
-<td> :astronaut:
-
-<code>astronaut</code> 
-</td>
-
-<td> :athletic_shoe:
-
-<code>athletic_shoe</code> 
-</td>
-
-<td> :atm:
-
-<code>atm</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :atom:
-
-<code>atom</code> 
-</td>
-
-<td> :atom_symbol:
-
-<code>atom_symbol</code> 
-</td>
-
-<td> :australia:
-
-<code>australia</code> 
-</td>
-
-<td> :austria:
-
-<code>austria</code> 
-</td>
-
-<td> :auto_rickshaw:
-
-<code>auto_rickshaw</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :avocado:
-
-<code>avocado</code> 
-</td>
-
-<td> :axe:
-
-<code>axe</code> 
-</td>
-
-<td> :azerbaijan:
-
-<code>azerbaijan</code> 
-</td>
-
-<td> :b:
-
-<code>b</code> 
-</td>
-
-<td> :baby:
-
-<code>baby</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :baby_bottle:
-
-<code>baby_bottle</code> 
-</td>
-
-<td> :baby_chick:
-
-<code>baby_chick</code> 
-</td>
-
-<td> :baby_symbol:
-
-<code>baby_symbol</code> 
-</td>
-
-<td> :back:
-
-<code>back</code> 
-</td>
-
-<td> :bacon:
-
-<code>bacon</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :badger:
-
-<code>badger</code> 
-</td>
-
-<td> :badminton:
-
-<code>badminton</code> 
-</td>
-
-<td> :bagel:
-
-<code>bagel</code> 
-</td>
-
-<td> :baggage_claim:
-
-<code>baggage_claim</code> 
-</td>
-
-<td> :baguette_bread:
-
-<code>baguette_bread</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bahamas:
-
-<code>bahamas</code> 
-</td>
-
-<td> :bahrain:
-
-<code>bahrain</code> 
-</td>
-
-<td> :balance_scale:
-
-<code>balance_scale</code> 
-</td>
-
-<td> :bald_man:
-
-<code>bald_man</code> 
-</td>
-
-<td> :bald_woman:
-
-<code>bald_woman</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :ballet_shoes:
-
-<code>ballet_shoes</code> 
-</td>
-
-<td> :balloon:
-
-<code>balloon</code> 
-</td>
-
-<td> :ballot_box:
-
-<code>ballot_box</code> 
-</td>
-
-<td> :ballot_box_with_check:
-
-<code>ballot_box_with_check</code> 
-</td>
-
-<td> :bamboo:
-
-<code>bamboo</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :banana:
-
-<code>banana</code> 
-</td>
-
-<td> :bangbang:
-
-<code>bangbang</code> 
-</td>
-
-<td> :bangladesh:
-
-<code>bangladesh</code> 
-</td>
-
-<td> :banjo:
-
-<code>banjo</code> 
-</td>
-
-<td> :bank:
-
-<code>bank</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bar_chart:
-
-<code>bar_chart</code> 
-</td>
-
-<td> :barbados:
-
-<code>barbados</code> 
-</td>
-
-<td> :barber:
-
-<code>barber</code> 
-</td>
-
-<td> :baseball:
-
-<code>baseball</code> 
-</td>
-
-<td> :basecamp:
-
-<code>basecamp</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :basecampy:
-
-<code>basecampy</code> 
-</td>
-
-<td> :basket:
-
-<code>basket</code> 
-</td>
-
-<td> :basketball:
-
-<code>basketball</code> 
-</td>
-
-<td> :basketball_man:
-
-<code>basketball_man</code> 
-</td>
-
-<td> :basketball_woman:
-
-<code>basketball_woman</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bat:
-
-<code>bat</code> 
-</td>
-
-<td> :bath:
-
-<code>bath</code> 
-</td>
-
-<td> :bathtub:
-
-<code>bathtub</code> 
-</td>
-
-<td> :battery:
-
-<code>battery</code> 
-</td>
-
-<td> :beach_umbrella:
-
-<code>beach_umbrella</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bear:
-
-<code>bear</code> 
-</td>
-
-<td> :bearded_person:
-
-<code>bearded_person</code> 
-</td>
-
-<td> :bed:
-
-<code>bed</code> 
-</td>
-
-<td> :bee:
-
-<code>bee</code> 
-</td>
-
-<td> :beer:
-
-<code>beer</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :beers:
-
-<code>beers</code> 
-</td>
-
-<td> :beetle:
-
-<code>beetle</code> 
-</td>
-
-<td> :beginner:
-
-<code>beginner</code> 
-</td>
-
-<td> :belarus:
-
-<code>belarus</code> 
-</td>
-
-<td> :belgium:
-
-<code>belgium</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :belize:
-
-<code>belize</code> 
-</td>
-
-<td> :bell:
-
-<code>bell</code> 
-</td>
-
-<td> :bellhop_bell:
-
-<code>bellhop_bell</code> 
-</td>
-
-<td> :benin:
-
-<code>benin</code> 
-</td>
-
-<td> :bento:
-
-<code>bento</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bermuda:
-
-<code>bermuda</code> 
-</td>
-
-<td> :beverage_box:
-
-<code>beverage_box</code> 
-</td>
-
-<td> :bhutan:
-
-<code>bhutan</code> 
-</td>
-
-<td> :bicyclist:
-
-<code>bicyclist</code> 
-</td>
-
-<td> :bike:
-
-<code>bike</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :biking_man:
-
-<code>biking_man</code> 
-</td>
-
-<td> :biking_woman:
-
-<code>biking_woman</code> 
-</td>
-
-<td> :bikini:
-
-<code>bikini</code> 
-</td>
-
-<td> :billed_cap:
-
-<code>billed_cap</code> 
-</td>
-
-<td> :biohazard:
-
-<code>biohazard</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bird:
-
-<code>bird</code> 
-</td>
-
-<td> :birthday:
-
-<code>birthday</code> 
-</td>
-
-<td> :black_circle:
-
-<code>black_circle</code> 
-</td>
-
-<td> :black_flag:
-
-<code>black_flag</code> 
-</td>
-
-<td> :black_heart:
-
-<code>black_heart</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :black_joker:
-
-<code>black_joker</code> 
-</td>
-
-<td> :black_large_square:
-
-<code>black_large_square</code> 
-</td>
-
-<td> :black_medium_small_square:
-
-<code>black_medium_small_square</code> 
-</td>
-
-<td> :black_medium_square:
-
-<code>black_medium_square</code> 
-</td>
-
-<td> :black_nib:
-
-<code>black_nib</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :black_small_square:
-
-<code>black_small_square</code> 
-</td>
-
-<td> :black_square_button:
-
-<code>black_square_button</code> 
-</td>
-
-<td> :blond_haired_man:
-
-<code>blond_haired_man</code> 
-</td>
-
-<td> :blond_haired_person:
-
-<code>blond_haired_person</code> 
-</td>
-
-<td> :blond_haired_woman:
-
-<code>blond_haired_woman</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :blonde_woman:
-
-<code>blonde_woman</code> 
-</td>
-
-<td> :blossom:
-
-<code>blossom</code> 
-</td>
-
-<td> :blowfish:
-
-<code>blowfish</code> 
-</td>
-
-<td> :blue_book:
-
-<code>blue_book</code> 
-</td>
-
-<td> :blue_car:
-
-<code>blue_car</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :blue_heart:
-
-<code>blue_heart</code> 
-</td>
-
-<td> :blue_square:
-
-<code>blue_square</code> 
-</td>
-
-<td> :blush:
-
-<code>blush</code> 
-</td>
-
-<td> :boar:
-
-<code>boar</code> 
-</td>
-
-<td> :boat:
-
-<code>boat</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bolivia:
-
-<code>bolivia</code> 
-</td>
-
-<td> :bomb:
-
-<code>bomb</code> 
-</td>
-
-<td> :bone:
-
-<code>bone</code> 
-</td>
-
-<td> :book:
-
-<code>book</code> 
-</td>
-
-<td> :bookmark:
-
-<code>bookmark</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bookmark_tabs:
-
-<code>bookmark_tabs</code> 
-</td>
-
-<td> :books:
-
-<code>books</code> 
-</td>
-
-<td> :boom:
-
-<code>boom</code> 
-</td>
-
-<td> :boot:
-
-<code>boot</code> 
-</td>
-
-<td> :bosnia_herzegovina:
-
-<code>bosnia_herzegovina</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :botswana:
-
-<code>botswana</code> 
-</td>
-
-<td> :bouncing_ball_man:
-
-<code>bouncing_ball_man</code> 
-</td>
-
-<td> :bouncing_ball_person:
-
-<code>bouncing_ball_person</code> 
-</td>
-
-<td> :bouncing_ball_woman:
-
-<code>bouncing_ball_woman</code> 
-</td>
-
-<td> :bouquet:
-
-<code>bouquet</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bouvet_island:
-
-<code>bouvet_island</code> 
-</td>
-
-<td> :bow:
-
-<code>bow</code> 
-</td>
-
-<td> :bow_and_arrow:
-
-<code>bow_and_arrow</code> 
-</td>
-
-<td> :bowing_man:
-
-<code>bowing_man</code> 
-</td>
-
-<td> :bowing_woman:
-
-<code>bowing_woman</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bowl_with_spoon:
-
-<code>bowl_with_spoon</code> 
-</td>
-
-<td> :bowling:
-
-<code>bowling</code> 
-</td>
-
-<td> :bowtie:
-
-<code>bowtie</code> 
-</td>
-
-<td> :boxing_glove:
-
-<code>boxing_glove</code> 
-</td>
-
-<td> :boy:
-
-<code>boy</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :brain:
-
-<code>brain</code> 
-</td>
-
-<td> :brazil:
-
-<code>brazil</code> 
-</td>
-
-<td> :bread:
-
-<code>bread</code> 
-</td>
-
-<td> :breast_feeding:
-
-<code>breast_feeding</code> 
-</td>
-
-<td> :bricks:
-
-<code>bricks</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bride_with_veil:
-
-<code>bride_with_veil</code> 
-</td>
-
-<td> :bridge_at_night:
-
-<code>bridge_at_night</code> 
-</td>
-
-<td> :briefcase:
-
-<code>briefcase</code> 
-</td>
-
-<td> :british_indian_ocean_territory:
-
-<code>british_indian_ocean_territory</code> 
-</td>
-
-<td> :british_virgin_islands:
-
-<code>british_virgin_islands</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :broccoli:
-
-<code>broccoli</code> 
-</td>
-
-<td> :broken_heart:
-
-<code>broken_heart</code> 
-</td>
-
-<td> :broom:
-
-<code>broom</code> 
-</td>
-
-<td> :brown_circle:
-
-<code>brown_circle</code> 
-</td>
-
-<td> :brown_heart:
-
-<code>brown_heart</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :brown_square:
-
-<code>brown_square</code> 
-</td>
-
-<td> :brunei:
-
-<code>brunei</code> 
-</td>
-
-<td> :bug:
-
-<code>bug</code> 
-</td>
-
-<td> :building_construction:
-
-<code>building_construction</code> 
-</td>
-
-<td> :bulb:
-
-<code>bulb</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :bulgaria:
-
-<code>bulgaria</code> 
-</td>
-
-<td> :bullettrain_front:
-
-<code>bullettrain_front</code> 
-</td>
-
-<td> :bullettrain_side:
-
-<code>bullettrain_side</code> 
-</td>
-
-<td> :burkina_faso:
-
-<code>burkina_faso</code> 
-</td>
-
-<td> :burrito:
-
-<code>burrito</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :burundi:
-
-<code>burundi</code> 
-</td>
-
-<td> :bus:
-
-<code>bus</code> 
-</td>
-
-<td> :business_suit_levitating:
-
-<code>business_suit_levitating</code> 
-</td>
-
-<td> :busstop:
-
-<code>busstop</code> 
-</td>
-
-<td> :bust_in_silhouette:
-
-<code>bust_in_silhouette</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :busts_in_silhouette:
-
-<code>busts_in_silhouette</code> 
-</td>
-
-<td> :butter:
-
-<code>butter</code> 
-</td>
-
-<td> :butterfly:
-
-<code>butterfly</code> 
-</td>
-
-<td> :cactus:
-
-<code>cactus</code> 
-</td>
-
-<td> :cake:
-
-<code>cake</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :calendar:
-
-<code>calendar</code> 
-</td>
-
-<td> :call_me_hand:
-
-<code>call_me_hand</code> 
-</td>
-
-<td> :calling:
-
-<code>calling</code> 
-</td>
-
-<td> :cambodia:
-
-<code>cambodia</code> 
-</td>
-
-<td> :camel:
-
-<code>camel</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :camera:
-
-<code>camera</code> 
-</td>
-
-<td> :camera_flash:
-
-<code>camera_flash</code> 
-</td>
-
-<td> :cameroon:
-
-<code>cameroon</code> 
-</td>
-
-<td> :camping:
-
-<code>camping</code> 
-</td>
-
-<td> :canada:
-
-<code>canada</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :canary_islands:
-
-<code>canary_islands</code> 
-</td>
-
-<td> :cancer:
-
-<code>cancer</code> 
-</td>
-
-<td> :candle:
-
-<code>candle</code> 
-</td>
-
-<td> :candy:
-
-<code>candy</code> 
-</td>
-
-<td> :canned_food:
-
-<code>canned_food</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :canoe:
-
-<code>canoe</code> 
-</td>
-
-<td> :cape_verde:
-
-<code>cape_verde</code> 
-</td>
-
-<td> :capital_abcd:
-
-<code>capital_abcd</code> 
-</td>
-
-<td> :capricorn:
-
-<code>capricorn</code> 
-</td>
-
-<td> :car:
-
-<code>car</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :card_file_box:
-
-<code>card_file_box</code> 
-</td>
-
-<td> :card_index:
-
-<code>card_index</code> 
-</td>
-
-<td> :card_index_dividers:
-
-<code>card_index_dividers</code> 
-</td>
-
-<td> :caribbean_netherlands:
-
-<code>caribbean_netherlands</code> 
-</td>
-
-<td> :carousel_horse:
-
-<code>carousel_horse</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :carrot:
-
-<code>carrot</code> 
-</td>
-
-<td> :cartwheeling:
-
-<code>cartwheeling</code> 
-</td>
-
-<td> :cat:
-
-<code>cat</code> 
-</td>
-
-<td> :cat2:
-
-<code>cat2</code> 
-</td>
-
-<td> :cayman_islands:
-
-<code>cayman_islands</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :cd:
-
-<code>cd</code> 
-</td>
-
-<td> :central_african_republic:
-
-<code>central_african_republic</code> 
-</td>
-
-<td> :ceuta_melilla:
-
-<code>ceuta_melilla</code> 
-</td>
-
-<td> :chad:
-
-<code>chad</code> 
-</td>
-
-<td> :chains:
-
-<code>chains</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :chair:
-
-<code>chair</code> 
-</td>
-
-<td> :champagne:
-
-<code>champagne</code> 
-</td>
-
-<td> :chart:
-
-<code>chart</code> 
-</td>
-
-<td> :chart_with_downwards_trend:
-
-<code>chart_with_downwards_trend</code> 
-</td>
-
-<td> :chart_with_upwards_trend:
-
-<code>chart_with_upwards_trend</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :checkered_flag:
-
-<code>checkered_flag</code> 
-</td>
-
-<td> :cheese:
-
-<code>cheese</code> 
-</td>
-
-<td> :cherries:
-
-<code>cherries</code> 
-</td>
-
-<td> :cherry_blossom:
-
-<code>cherry_blossom</code> 
-</td>
-
-<td> :chess_pawn:
-
-<code>chess_pawn</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :chestnut:
-
-<code>chestnut</code> 
-</td>
-
-<td> :chicken:
-
-<code>chicken</code> 
-</td>
-
-<td> :child:
-
-<code>child</code> 
-</td>
-
-<td> :children_crossing:
-
-<code>children_crossing</code> 
-</td>
-
-<td> :chile:
-
-<code>chile</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :chipmunk:
-
-<code>chipmunk</code> 
-</td>
-
-<td> :chocolate_bar:
-
-<code>chocolate_bar</code> 
-</td>
-
-<td> :chopsticks:
-
-<code>chopsticks</code> 
-</td>
-
-<td> :christmas_island:
-
-<code>christmas_island</code> 
-</td>
-
-<td> :christmas_tree:
-
-<code>christmas_tree</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :church:
-
-<code>church</code> 
-</td>
-
-<td> :cinema:
-
-<code>cinema</code> 
-</td>
-
-<td> :circus_tent:
-
-<code>circus_tent</code> 
-</td>
-
-<td> :city_sunrise:
-
-<code>city_sunrise</code> 
-</td>
-
-<td> :city_sunset:
-
-<code>city_sunset</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :cityscape:
-
-<code>cityscape</code> 
-</td>
-
-<td> :cl:
-
-<code>cl</code> 
-</td>
-
-<td> :clamp:
-
-<code>clamp</code> 
-</td>
-
-<td> :clap:
-
-<code>clap</code> 
-</td>
-
-<td> :clapper:
-
-<code>clapper</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :classical_building:
-
-<code>classical_building</code> 
-</td>
-
-<td> :climbing:
-
-<code>climbing</code> 
-</td>
-
-<td> :climbing_man:
-
-<code>climbing_man</code> 
-</td>
-
-<td> :climbing_woman:
-
-<code>climbing_woman</code> 
-</td>
-
-<td> :clinking_glasses:
-
-<code>clinking_glasses</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :clipboard:
-
-<code>clipboard</code> 
-</td>
-
-<td> :clipperton_island:
-
-<code>clipperton_island</code> 
-</td>
-
-<td> :clock1:
-
-<code>clock1</code> 
-</td>
-
-<td> :clock10:
-
-<code>clock10</code> 
-</td>
-
-<td> :clock1030:
-
-<code>clock1030</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :clock11:
-
-<code>clock11</code> 
-</td>
-
-<td> :clock1130:
-
-<code>clock1130</code> 
-</td>
-
-<td> :clock12:
-
-<code>clock12</code> 
-</td>
-
-<td> :clock1230:
-
-<code>clock1230</code> 
-</td>
-
-<td> :clock130:
-
-<code>clock130</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :clock2:
-
-<code>clock2</code> 
-</td>
-
-<td> :clock230:
-
-<code>clock230</code> 
-</td>
-
-<td> :clock3:
-
-<code>clock3</code> 
-</td>
-
-<td> :clock330:
-
-<code>clock330</code> 
-</td>
-
-<td> :clock4:
-
-<code>clock4</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :clock430:
-
-<code>clock430</code> 
-</td>
-
-<td> :clock5:
-
-<code>clock5</code> 
-</td>
-
-<td> :clock530:
-
-<code>clock530</code> 
-</td>
-
-<td> :clock6:
-
-<code>clock6</code> 
-</td>
-
-<td> :clock630:
-
-<code>clock630</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :clock7:
-
-<code>clock7</code> 
-</td>
-
-<td> :clock730:
-
-<code>clock730</code> 
-</td>
-
-<td> :clock8:
-
-<code>clock8</code> 
-</td>
-
-<td> :clock830:
-
-<code>clock830</code> 
-</td>
-
-<td> :clock9:
-
-<code>clock9</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :clock930:
-
-<code>clock930</code> 
-</td>
-
-<td> :closed_book:
-
-<code>closed_book</code> 
-</td>
-
-<td> :closed_lock_with_key:
-
-<code>closed_lock_with_key</code> 
-</td>
-
-<td> :closed_umbrella:
-
-<code>closed_umbrella</code> 
-</td>
-
-<td> :cloud:
-
-<code>cloud</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :cloud_with_lightning:
-
-<code>cloud_with_lightning</code> 
-</td>
-
-<td> :cloud_with_lightning_and_rain:
-
-<code>cloud_with_lightning_and_rain</code> 
-</td>
-
-<td> :cloud_with_rain:
-
-<code>cloud_with_rain</code> 
-</td>
-
-<td> :cloud_with_snow:
-
-<code>cloud_with_snow</code> 
-</td>
-
-<td> :clown_face:
-
-<code>clown_face</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :clubs:
-
-<code>clubs</code> 
-</td>
-
-<td> :cn:
-
-<code>cn</code> 
-</td>
-
-<td> :coat:
-
-<code>coat</code> 
-</td>
-
-<td> :cocktail:
-
-<code>cocktail</code> 
-</td>
-
-<td> :coconut:
-
-<code>coconut</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :cocos_islands:
-
-<code>cocos_islands</code> 
-</td>
-
-<td> :coffee:
-
-<code>coffee</code> 
-</td>
-
-<td> :coffin:
-
-<code>coffin</code> 
-</td>
-
-<td> :cold_face:
-
-<code>cold_face</code> 
-</td>
-
-<td> :cold_sweat:
-
-<code>cold_sweat</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :collision:
-
-<code>collision</code> 
-</td>
-
-<td> :colombia:
-
-<code>colombia</code> 
-</td>
-
-<td> :comet:
-
-<code>comet</code> 
-</td>
-
-<td> :comoros:
-
-<code>comoros</code> 
-</td>
-
-<td> :compass:
-
-<code>compass</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :computer:
-
-<code>computer</code> 
-</td>
-
-<td> :computer_mouse:
-
-<code>computer_mouse</code> 
-</td>
-
-<td> :confetti_ball:
-
-<code>confetti_ball</code> 
-</td>
-
-<td> :confounded:
-
-<code>confounded</code> 
-</td>
-
-<td> :confused:
-
-<code>confused</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :congo_brazzaville:
-
-<code>congo_brazzaville</code> 
-</td>
-
-<td> :congo_kinshasa:
-
-<code>congo_kinshasa</code> 
-</td>
-
-<td> :congratulations:
-
-<code>congratulations</code> 
-</td>
-
-<td> :construction:
-
-<code>construction</code> 
-</td>
-
-<td> :construction_worker:
-
-<code>construction_worker</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :construction_worker_man:
-
-<code>construction_worker_man</code> 
-</td>
-
-<td> :construction_worker_woman:
-
-<code>construction_worker_woman</code> 
-</td>
-
-<td> :control_knobs:
-
-<code>control_knobs</code> 
-</td>
-
-<td> :convenience_store:
-
-<code>convenience_store</code> 
-</td>
-
-<td> :cook:
-
-<code>cook</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :cook_islands:
-
-<code>cook_islands</code> 
-</td>
-
-<td> :cookie:
-
-<code>cookie</code> 
-</td>
-
-<td> :cool:
-
-<code>cool</code> 
-</td>
-
-<td> :cop:
-
-<code>cop</code> 
-</td>
-
-<td> :copyright:
-
-<code>copyright</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :corn:
-
-<code>corn</code> 
-</td>
-
-<td> :costa_rica:
-
-<code>costa_rica</code> 
-</td>
-
-<td> :cote_divoire:
-
-<code>cote_divoire</code> 
-</td>
-
-<td> :couch_and_lamp:
-
-<code>couch_and_lamp</code> 
-</td>
-
-<td> :couple:
-
-<code>couple</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :couple_with_heart:
-
-<code>couple_with_heart</code> 
-</td>
-
-<td> :couple_with_heart_man_man:
-
-<code>couple_with_heart_man_man</code> 
-</td>
-
-<td> :couple_with_heart_woman_man:
-
-<code>couple_with_heart_woman_man</code> 
-</td>
-
-<td> :couple_with_heart_woman_woman:
-
-<code>couple_with_heart_woman_woman</code> 
-</td>
-
-<td> :couplekiss:
-
-<code>couplekiss</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :couplekiss_man_man:
-
-<code>couplekiss_man_man</code> 
-</td>
-
-<td> :couplekiss_man_woman:
-
-<code>couplekiss_man_woman</code> 
-</td>
-
-<td> :couplekiss_woman_woman:
-
-<code>couplekiss_woman_woman</code> 
-</td>
-
-<td> :cow:
-
-<code>cow</code> 
-</td>
-
-<td> :cow2:
-
-<code>cow2</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :cowboy_hat_face:
-
-<code>cowboy_hat_face</code> 
-</td>
-
-<td> :crab:
-
-<code>crab</code> 
-</td>
-
-<td> :crayon:
-
-<code>crayon</code> 
-</td>
-
-<td> :credit_card:
-
-<code>credit_card</code> 
-</td>
-
-<td> :crescent_moon:
-
-<code>crescent_moon</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :cricket:
-
-<code>cricket</code> 
-</td>
-
-<td> :cricket_game:
-
-<code>cricket_game</code> 
-</td>
-
-<td> :croatia:
-
-<code>croatia</code> 
-</td>
-
-<td> :crocodile:
-
-<code>crocodile</code> 
-</td>
-
-<td> :croissant:
-
-<code>croissant</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :crossed_fingers:
-
-<code>crossed_fingers</code> 
-</td>
-
-<td> :crossed_flags:
-
-<code>crossed_flags</code> 
-</td>
-
-<td> :crossed_swords:
-
-<code>crossed_swords</code> 
-</td>
-
-<td> :crown:
-
-<code>crown</code> 
-</td>
-
-<td> :cry:
-
-<code>cry</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :crying_cat_face:
-
-<code>crying_cat_face</code> 
-</td>
-
-<td> :crystal_ball:
-
-<code>crystal_ball</code> 
-</td>
-
-<td> :cuba:
-
-<code>cuba</code> 
-</td>
-
-<td> :cucumber:
-
-<code>cucumber</code> 
-</td>
-
-<td> :cup_with_straw:
-
-<code>cup_with_straw</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :cupcake:
-
-<code>cupcake</code> 
-</td>
-
-<td> :cupid:
-
-<code>cupid</code> 
-</td>
-
-<td> :curacao:
-
-<code>curacao</code> 
-</td>
-
-<td> :curling_stone:
-
-<code>curling_stone</code> 
-</td>
-
-<td> :curly_haired_man:
-
-<code>curly_haired_man</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :curly_haired_woman:
-
-<code>curly_haired_woman</code> 
-</td>
-
-<td> :curly_loop:
-
-<code>curly_loop</code> 
-</td>
-
-<td> :currency_exchange:
-
-<code>currency_exchange</code> 
-</td>
-
-<td> :curry:
-
-<code>curry</code> 
-</td>
-
-<td> :cursing_face:
-
-<code>cursing_face</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :custard:
-
-<code>custard</code> 
-</td>
-
-<td> :customs:
-
-<code>customs</code> 
-</td>
-
-<td> :cut_of_meat:
-
-<code>cut_of_meat</code> 
-</td>
-
-<td> :cyclone:
-
-<code>cyclone</code> 
-</td>
-
-<td> :cyprus:
-
-<code>cyprus</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :czech_republic:
-
-<code>czech_republic</code> 
-</td>
-
-<td> :dagger:
-
-<code>dagger</code> 
-</td>
-
-<td> :dancer:
-
-<code>dancer</code> 
-</td>
-
-<td> :dancers:
-
-<code>dancers</code> 
-</td>
-
-<td> :dancing_men:
-
-<code>dancing_men</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :dancing_women:
-
-<code>dancing_women</code> 
-</td>
-
-<td> :dango:
-
-<code>dango</code> 
-</td>
-
-<td> :dark_sunglasses:
-
-<code>dark_sunglasses</code> 
-</td>
-
-<td> :dart:
-
-<code>dart</code> 
-</td>
-
-<td> :dash:
-
-<code>dash</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :date:
-
-<code>date</code> 
-</td>
-
-<td> :de:
-
-<code>de</code> 
-</td>
-
-<td> :deaf_man:
-
-<code>deaf_man</code> 
-</td>
-
-<td> :deaf_person:
-
-<code>deaf_person</code> 
-</td>
-
-<td> :deaf_woman:
-
-<code>deaf_woman</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :deciduous_tree:
-
-<code>deciduous_tree</code> 
-</td>
-
-<td> :deer:
-
-<code>deer</code> 
-</td>
-
-<td> :denmark:
-
-<code>denmark</code> 
-</td>
-
-<td> :department_store:
-
-<code>department_store</code> 
-</td>
-
-<td> :derelict_house:
-
-<code>derelict_house</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :desert:
-
-<code>desert</code> 
-</td>
-
-<td> :desert_island:
-
-<code>desert_island</code> 
-</td>
-
-<td> :desktop_computer:
-
-<code>desktop_computer</code> 
-</td>
-
-<td> :detective:
-
-<code>detective</code> 
-</td>
-
-<td> :diamond_shape_with_a_dot_inside:
-
-<code>diamond_shape_with_a_dot_inside</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :diamonds:
-
-<code>diamonds</code> 
-</td>
-
-<td> :diego_garcia:
-
-<code>diego_garcia</code> 
-</td>
-
-<td> :disappointed:
-
-<code>disappointed</code> 
-</td>
-
-<td> :disappointed_relieved:
-
-<code>disappointed_relieved</code> 
-</td>
-
-<td> :diving_mask:
-
-<code>diving_mask</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :diya_lamp:
-
-<code>diya_lamp</code> 
-</td>
-
-<td> :dizzy:
-
-<code>dizzy</code> 
-</td>
-
-<td> :dizzy_face:
-
-<code>dizzy_face</code> 
-</td>
-
-<td> :djibouti:
-
-<code>djibouti</code> 
-</td>
-
-<td> :dna:
-
-<code>dna</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :do_not_litter:
-
-<code>do_not_litter</code> 
-</td>
-
-<td> :dog:
-
-<code>dog</code> 
-</td>
-
-<td> :dog2:
-
-<code>dog2</code> 
-</td>
-
-<td> :dollar:
-
-<code>dollar</code> 
-</td>
-
-<td> :dolls:
-
-<code>dolls</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :dolphin:
-
-<code>dolphin</code> 
-</td>
-
-<td> :dominica:
-
-<code>dominica</code> 
-</td>
-
-<td> :dominican_republic:
-
-<code>dominican_republic</code> 
-</td>
-
-<td> :door:
-
-<code>door</code> 
-</td>
-
-<td> :doughnut:
-
-<code>doughnut</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :dove:
-
-<code>dove</code> 
-</td>
-
-<td> :dragon:
-
-<code>dragon</code> 
-</td>
-
-<td> :dragon_face:
-
-<code>dragon_face</code> 
-</td>
-
-<td> :dress:
-
-<code>dress</code> 
-</td>
-
-<td> :dromedary_camel:
-
-<code>dromedary_camel</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :drooling_face:
-
-<code>drooling_face</code> 
-</td>
-
-<td> :drop_of_blood:
-
-<code>drop_of_blood</code> 
-</td>
-
-<td> :droplet:
-
-<code>droplet</code> 
-</td>
-
-<td> :drum:
-
-<code>drum</code> 
-</td>
-
-<td> :duck:
-
-<code>duck</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :dumpling:
-
-<code>dumpling</code> 
-</td>
-
-<td> :dvd:
-
-<code>dvd</code> 
-</td>
-
-<td> :e-mail:
-
-<code>e-mail</code> 
-</td>
-
-<td> :eagle:
-
-<code>eagle</code> 
-</td>
-
-<td> :ear:
-
-<code>ear</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :ear_of_rice:
-
-<code>ear_of_rice</code> 
-</td>
-
-<td> :ear_with_hearing_aid:
-
-<code>ear_with_hearing_aid</code> 
-</td>
-
-<td> :earth_africa:
-
-<code>earth_africa</code> 
-</td>
-
-<td> :earth_americas:
-
-<code>earth_americas</code> 
-</td>
-
-<td> :earth_asia:
-
-<code>earth_asia</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :ecuador:
-
-<code>ecuador</code> 
-</td>
-
-<td> :egg:
-
-<code>egg</code> 
-</td>
-
-<td> :eggplant:
-
-<code>eggplant</code> 
-</td>
-
-<td> :egypt:
-
-<code>egypt</code> 
-</td>
-
-<td> :eight:
-
-<code>eight</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :eight_pointed_black_star:
-
-<code>eight_pointed_black_star</code> 
-</td>
-
-<td> :eight_spoked_asterisk:
-
-<code>eight_spoked_asterisk</code> 
-</td>
-
-<td> :eject_button:
-
-<code>eject_button</code> 
-</td>
-
-<td> :el_salvador:
-
-<code>el_salvador</code> 
-</td>
-
-<td> :electric_plug:
-
-<code>electric_plug</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :electron:
-
-<code>electron</code> 
-</td>
-
-<td> :elephant:
-
-<code>elephant</code> 
-</td>
-
-<td> :elf:
-
-<code>elf</code> 
-</td>
-
-<td> :elf_man:
-
-<code>elf_man</code> 
-</td>
-
-<td> :elf_woman:
-
-<code>elf_woman</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :email:
-
-<code>email</code> 
-</td>
-
-<td> :end:
-
-<code>end</code> 
-</td>
-
-<td> :england:
-
-<code>england</code> 
-</td>
-
-<td> :envelope:
-
-<code>envelope</code> 
-</td>
-
-<td> :envelope_with_arrow:
-
-<code>envelope_with_arrow</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :equatorial_guinea:
-
-<code>equatorial_guinea</code> 
-</td>
-
-<td> :eritrea:
-
-<code>eritrea</code> 
-</td>
-
-<td> :es:
-
-<code>es</code> 
-</td>
-
-<td> :estonia:
-
-<code>estonia</code> 
-</td>
-
-<td> :ethiopia:
-
-<code>ethiopia</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :eu:
-
-<code>eu</code> 
-</td>
-
-<td> :euro:
-
-<code>euro</code> 
-</td>
-
-<td> :european_castle:
-
-<code>european_castle</code> 
-</td>
-
-<td> :european_post_office:
-
-<code>european_post_office</code> 
-</td>
-
-<td> :european_union:
-
-<code>european_union</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :evergreen_tree:
-
-<code>evergreen_tree</code> 
-</td>
-
-<td> :exclamation:
-
-<code>exclamation</code> 
-</td>
-
-<td> :exploding_head:
-
-<code>exploding_head</code> 
-</td>
-
-<td> :expressionless:
-
-<code>expressionless</code> 
-</td>
-
-<td> :eye:
-
-<code>eye</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :eye_speech_bubble:
-
-<code>eye_speech_bubble</code> 
-</td>
-
-<td> :eyeglasses:
-
-<code>eyeglasses</code> 
-</td>
-
-<td> :eyes:
-
-<code>eyes</code> 
-</td>
-
-<td> :face_with_head_bandage:
-
-<code>face_with_head_bandage</code> 
-</td>
-
-<td> :face_with_thermometer:
-
-<code>face_with_thermometer</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :facepalm:
-
-<code>facepalm</code> 
-</td>
-
-<td> :facepunch:
-
-<code>facepunch</code> 
-</td>
-
-<td> :factory:
-
-<code>factory</code> 
-</td>
-
-<td> :factory_worker:
-
-<code>factory_worker</code> 
-</td>
-
-<td> :fairy:
-
-<code>fairy</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :fairy_man:
-
-<code>fairy_man</code> 
-</td>
-
-<td> :fairy_woman:
-
-<code>fairy_woman</code> 
-</td>
-
-<td> :falafel:
-
-<code>falafel</code> 
-</td>
-
-<td> :falkland_islands:
-
-<code>falkland_islands</code> 
-</td>
-
-<td> :fallen_leaf:
-
-<code>fallen_leaf</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :family:
-
-<code>family</code> 
-</td>
-
-<td> :family_man_boy:
-
-<code>family_man_boy</code> 
-</td>
-
-<td> :family_man_boy_boy:
-
-<code>family_man_boy_boy</code> 
-</td>
-
-<td> :family_man_girl:
-
-<code>family_man_girl</code> 
-</td>
-
-<td> :family_man_girl_boy:
-
-<code>family_man_girl_boy</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :family_man_girl_girl:
-
-<code>family_man_girl_girl</code> 
-</td>
-
-<td> :family_man_man_boy:
-
-<code>family_man_man_boy</code> 
-</td>
-
-<td> :family_man_man_boy_boy:
-
-<code>family_man_man_boy_boy</code> 
-</td>
-
-<td> :family_man_man_girl:
-
-<code>family_man_man_girl</code> 
-</td>
-
-<td> :family_man_man_girl_boy:
-
-<code>family_man_man_girl_boy</code> 
-</td>
-
-
-</tr>
-
-<tr>
-
-<td> :family_man_man_girl_girl:
-
-<code>family_man_man_girl_girl</code> 
-</td>
-
-<td> :family_man_woman_boy:
-
-<code>family_man_woman_boy</code> 
-</td>
-
-<td> :family_man_woman_boy_boy:
-
-<code>family_man_woman_boy_boy</code> 
-</td>
-
-<td> :family_man_woman_girl:
-
-<code>family_man_woman_girl</code> 
-</td>
-
-<td> :family_man_woman_girl_boy:
-
-<code>family_man_woman_girl_boy</code> 
-</td>
-
-
 </tr>
 
 <tr>
 
-<td> :family_man_woman_girl_girl:
+<td> :2nd_place_medal: <code>2nd_place_medal</code> </td>
 
-<code>family_man_woman_girl_girl</code> 
-</td>
+<td> :3rd_place_medal: <code>3rd_place_medal</code> </td>
 
-<td> :family_woman_boy:
+<td> :8ball: <code>8ball</code> </td>
 
-<code>family_woman_boy</code> 
-</td>
+<td> :a: <code>a</code> </td>
 
-<td> :family_woman_boy_boy:
+<td> :ab: <code>ab</code> </td>
 
-<code>family_woman_boy_boy</code> 
-</td>
 
-<td> :family_woman_girl:
-
-<code>family_woman_girl</code> 
-</td>
-
-<td> :family_woman_girl_boy:
-
-<code>family_woman_girl_boy</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :family_woman_girl_girl:
-
-<code>family_woman_girl_girl</code> 
-</td>
-
-<td> :family_woman_woman_boy:
 
-<code>family_woman_woman_boy</code> 
-</td>
+<td> :abacus: <code>abacus</code> </td>
 
-<td> :family_woman_woman_boy_boy:
+<td> :abc: <code>abc</code> </td>
 
-<code>family_woman_woman_boy_boy</code> 
-</td>
+<td> :abcd: <code>abcd</code> </td>
 
-<td> :family_woman_woman_girl:
+<td> :accept: <code>accept</code> </td>
 
-<code>family_woman_woman_girl</code> 
-</td>
+<td> :adhesive_bandage: <code>adhesive_bandage</code> </td>
 
-<td> :family_woman_woman_girl_boy:
 
-<code>family_woman_woman_girl_boy</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :family_woman_woman_girl_girl:
-
-<code>family_woman_woman_girl_girl</code> 
-</td>
 
-<td> :farmer:
+<td> :adult: <code>adult</code> </td>
 
-<code>farmer</code> 
-</td>
+<td> :aerial_tramway: <code>aerial_tramway</code> </td>
 
-<td> :faroe_islands:
+<td> :afghanistan: <code>afghanistan</code> </td>
 
-<code>faroe_islands</code> 
-</td>
+<td> :airplane: <code>airplane</code> </td>
 
-<td> :fast_forward:
+<td> :aland_islands: <code>aland_islands</code> </td>
 
-<code>fast_forward</code> 
-</td>
 
-<td> :fax:
-
-<code>fax</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :fearful:
 
-<code>fearful</code> 
-</td>
+<td> :alarm_clock: <code>alarm_clock</code> </td>
 
-<td> :feelsgood:
+<td> :albania: <code>albania</code> </td>
 
-<code>feelsgood</code> 
-</td>
+<td> :alembic: <code>alembic</code> </td>
 
-<td> :feet:
+<td> :algeria: <code>algeria</code> </td>
 
-<code>feet</code> 
-</td>
+<td> :alien: <code>alien</code> </td>
 
-<td> :female_detective:
 
-<code>female_detective</code> 
-</td>
-
-<td> :female_sign:
-
-<code>female_sign</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :ferris_wheel:
-
-<code>ferris_wheel</code> 
-</td>
-
-<td> :ferry:
-
-<code>ferry</code> 
-</td>
 
-<td> :field_hockey:
+<td> :ambulance: <code>ambulance</code> </td>
 
-<code>field_hockey</code> 
-</td>
+<td> :american_samoa: <code>american_samoa</code> </td>
 
-<td> :fiji:
+<td> :amphora: <code>amphora</code> </td>
 
-<code>fiji</code> 
-</td>
+<td> :anchor: <code>anchor</code> </td>
 
-<td> :file_cabinet:
+<td> :andorra: <code>andorra</code> </td>
 
-<code>file_cabinet</code> 
-</td>
 
-
 </tr>
 
 <tr>
-
-<td> :file_folder:
-
-<code>file_folder</code> 
-</td>
-
-<td> :film_projector:
 
-<code>film_projector</code> 
-</td>
+<td> :angel: <code>angel</code> </td>
 
-<td> :film_strip:
+<td> :anger: <code>anger</code> </td>
 
-<code>film_strip</code> 
-</td>
+<td> :angola: <code>angola</code> </td>
 
-<td> :finland:
+<td> :angry: <code>angry</code> </td>
 
-<code>finland</code> 
-</td>
+<td> :anguilla: <code>anguilla</code> </td>
 
-<td> :finnadie:
 
-<code>finnadie</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :fire:
-
-<code>fire</code> 
-</td>
 
-<td> :fire_engine:
+<td> :anguished: <code>anguished</code> </td>
 
-<code>fire_engine</code> 
-</td>
+<td> :ant: <code>ant</code> </td>
 
-<td> :fire_extinguisher:
+<td> :antarctica: <code>antarctica</code> </td>
 
-<code>fire_extinguisher</code> 
-</td>
+<td> :antigua_barbuda: <code>antigua_barbuda</code> </td>
 
-<td> :firecracker:
+<td> :apple: <code>apple</code> </td>
 
-<code>firecracker</code> 
-</td>
 
-<td> :firefighter:
-
-<code>firefighter</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :fireworks:
-
-<code>fireworks</code> 
-</td>
-
-<td> :first_quarter_moon:
-
-<code>first_quarter_moon</code> 
-</td>
-
-<td> :first_quarter_moon_with_face:
 
-<code>first_quarter_moon_with_face</code> 
-</td>
+<td> :aquarius: <code>aquarius</code> </td>
 
-<td> :fish:
+<td> :argentina: <code>argentina</code> </td>
 
-<code>fish</code> 
-</td>
+<td> :aries: <code>aries</code> </td>
 
-<td> :fish_cake:
+<td> :armenia: <code>armenia</code> </td>
 
-<code>fish_cake</code> 
-</td>
+<td> :arrow_backward: <code>arrow_backward</code> </td>
 
 
 </tr>
 
 <tr>
 
-<td> :fishing_pole_and_fish:
+<td> :arrow_double_down: <code>arrow_double_down</code> </td>
 
-<code>fishing_pole_and_fish</code> 
-</td>
+<td> :arrow_double_up: <code>arrow_double_up</code> </td>
 
-<td> :fist:
+<td> :arrow_down: <code>arrow_down</code> </td>
 
-<code>fist</code> 
-</td>
+<td> :arrow_down_small: <code>arrow_down_small</code> </td>
 
-<td> :fist_left:
+<td> :arrow_forward: <code>arrow_forward</code> </td>
 
-<code>fist_left</code> 
-</td>
 
-<td> :fist_oncoming:
-
-<code>fist_oncoming</code> 
-</td>
-
-<td> :fist_raised:
-
-<code>fist_raised</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :fist_right:
-
-<code>fist_right</code> 
-</td>
-
-<td> :five:
 
-<code>five</code> 
-</td>
+<td> :arrow_heading_down: <code>arrow_heading_down</code> </td>
 
-<td> :flags:
+<td> :arrow_heading_up: <code>arrow_heading_up</code> </td>
 
-<code>flags</code> 
-</td>
+<td> :arrow_left: <code>arrow_left</code> </td>
 
-<td> :flamingo:
+<td> :arrow_lower_left: <code>arrow_lower_left</code> </td>
 
-<code>flamingo</code> 
-</td>
+<td> :arrow_lower_right: <code>arrow_lower_right</code> </td>
 
-<td> :flashlight:
 
-<code>flashlight</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :flat_shoe:
-
-<code>flat_shoe</code> 
-</td>
 
-<td> :fleur_de_lis:
+<td> :arrow_right: <code>arrow_right</code> </td>
 
-<code>fleur_de_lis</code> 
-</td>
+<td> :arrow_right_hook: <code>arrow_right_hook</code> </td>
 
-<td> :flight_arrival:
+<td> :arrow_up: <code>arrow_up</code> </td>
 
-<code>flight_arrival</code> 
-</td>
+<td> :arrow_up_down: <code>arrow_up_down</code> </td>
 
-<td> :flight_departure:
+<td> :arrow_up_small: <code>arrow_up_small</code> </td>
 
-<code>flight_departure</code> 
-</td>
 
-<td> :flipper:
-
-<code>flipper</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :floppy_disk:
 
-<code>floppy_disk</code> 
-</td>
+<td> :arrow_upper_left: <code>arrow_upper_left</code> </td>
 
-<td> :flower_playing_cards:
+<td> :arrow_upper_right: <code>arrow_upper_right</code> </td>
 
-<code>flower_playing_cards</code> 
-</td>
+<td> :arrows_clockwise: <code>arrows_clockwise</code> </td>
 
-<td> :flushed:
+<td> :arrows_counterclockwise: <code>arrows_counterclockwise</code> </td>
 
-<code>flushed</code> 
-</td>
+<td> :art: <code>art</code> </td>
 
-<td> :flying_disc:
 
-<code>flying_disc</code> 
-</td>
-
-<td> :flying_saucer:
-
-<code>flying_saucer</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :fog:
-
-<code>fog</code> 
-</td>
-
-<td> :foggy:
-
-<code>foggy</code> 
-</td>
 
-<td> :foot:
+<td> :articulated_lorry: <code>articulated_lorry</code> </td>
 
-<code>foot</code> 
-</td>
+<td> :artificial_satellite: <code>artificial_satellite</code> </td>
 
-<td> :football:
+<td> :artist: <code>artist</code> </td>
 
-<code>football</code> 
-</td>
+<td> :aruba: <code>aruba</code> </td>
 
-<td> :footprints:
+<td> :ascension_island: <code>ascension_island</code> </td>
 
-<code>footprints</code> 
-</td>
 
-
 </tr>
 
 <tr>
-
-<td> :fork_and_knife:
-
-<code>fork_and_knife</code> 
-</td>
-
-<td> :fortune_cookie:
 
-<code>fortune_cookie</code> 
-</td>
+<td> :asterisk: <code>asterisk</code> </td>
 
-<td> :fountain:
+<td> :astonished: <code>astonished</code> </td>
 
-<code>fountain</code> 
-</td>
+<td> :astronaut: <code>astronaut</code> </td>
 
-<td> :fountain_pen:
+<td> :athletic_shoe: <code>athletic_shoe</code> </td>
 
-<code>fountain_pen</code> 
-</td>
+<td> :atm: <code>atm</code> </td>
 
-<td> :four:
 
-<code>four</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :four_leaf_clover:
-
-<code>four_leaf_clover</code> 
-</td>
 
-<td> :fox_face:
+<td> :atom: <code>atom</code> </td>
 
-<code>fox_face</code> 
-</td>
+<td> :atom_symbol: <code>atom_symbol</code> </td>
 
-<td> :fr:
+<td> :australia: <code>australia</code> </td>
 
-<code>fr</code> 
-</td>
+<td> :austria: <code>austria</code> </td>
 
-<td> :framed_picture:
+<td> :auto_rickshaw: <code>auto_rickshaw</code> </td>
 
-<code>framed_picture</code> 
-</td>
 
-<td> :free:
-
-<code>free</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :french_guiana:
-
-<code>french_guiana</code> 
-</td>
-
-<td> :french_polynesia:
-
-<code>french_polynesia</code> 
-</td>
-
-<td> :french_southern_territories:
 
-<code>french_southern_territories</code> 
-</td>
+<td> :avocado: <code>avocado</code> </td>
 
-<td> :fried_egg:
+<td> :axe: <code>axe</code> </td>
 
-<code>fried_egg</code> 
-</td>
+<td> :azerbaijan: <code>azerbaijan</code> </td>
 
-<td> :fried_shrimp:
+<td> :b: <code>b</code> </td>
 
-<code>fried_shrimp</code> 
-</td>
+<td> :baby: <code>baby</code> </td>
 
 
 </tr>
 
 <tr>
 
-<td> :fries:
+<td> :baby_bottle: <code>baby_bottle</code> </td>
 
-<code>fries</code> 
-</td>
+<td> :baby_chick: <code>baby_chick</code> </td>
 
-<td> :frog:
+<td> :baby_symbol: <code>baby_symbol</code> </td>
 
-<code>frog</code> 
-</td>
+<td> :back: <code>back</code> </td>
 
-<td> :frowning:
+<td> :bacon: <code>bacon</code> </td>
 
-<code>frowning</code> 
-</td>
 
-<td> :frowning_face:
-
-<code>frowning_face</code> 
-</td>
-
-<td> :frowning_man:
-
-<code>frowning_man</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :frowning_person:
-
-<code>frowning_person</code> 
-</td>
-
-<td> :frowning_woman:
 
-<code>frowning_woman</code> 
-</td>
+<td> :badger: <code>badger</code> </td>
 
-<td> :fu:
+<td> :badminton: <code>badminton</code> </td>
 
-<code>fu</code> 
-</td>
+<td> :bagel: <code>bagel</code> </td>
 
-<td> :fuelpump:
+<td> :baggage_claim: <code>baggage_claim</code> </td>
 
-<code>fuelpump</code> 
-</td>
+<td> :baguette_bread: <code>baguette_bread</code> </td>
 
-<td> :full_moon:
 
-<code>full_moon</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :full_moon_with_face:
-
-<code>full_moon_with_face</code> 
-</td>
 
-<td> :funeral_urn:
+<td> :bahamas: <code>bahamas</code> </td>
 
-<code>funeral_urn</code> 
-</td>
+<td> :bahrain: <code>bahrain</code> </td>
 
-<td> :gabon:
+<td> :balance_scale: <code>balance_scale</code> </td>
 
-<code>gabon</code> 
-</td>
+<td> :bald_man: <code>bald_man</code> </td>
 
-<td> :gambia:
+<td> :bald_woman: <code>bald_woman</code> </td>
 
-<code>gambia</code> 
-</td>
 
-<td> :game_die:
-
-<code>game_die</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :garlic:
 
-<code>garlic</code> 
-</td>
+<td> :ballet_shoes: <code>ballet_shoes</code> </td>
 
-<td> :gb:
+<td> :balloon: <code>balloon</code> </td>
 
-<code>gb</code> 
-</td>
+<td> :ballot_box: <code>ballot_box</code> </td>
 
-<td> :gear:
+<td> :ballot_box_with_check: <code>ballot_box_with_check</code> </td>
 
-<code>gear</code> 
-</td>
+<td> :bamboo: <code>bamboo</code> </td>
 
-<td> :gem:
 
-<code>gem</code> 
-</td>
-
-<td> :gemini:
-
-<code>gemini</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :genie:
-
-<code>genie</code> 
-</td>
-
-<td> :genie_man:
-
-<code>genie_man</code> 
-</td>
 
-<td> :genie_woman:
+<td> :banana: <code>banana</code> </td>
 
-<code>genie_woman</code> 
-</td>
+<td> :bangbang: <code>bangbang</code> </td>
 
-<td> :georgia:
+<td> :bangladesh: <code>bangladesh</code> </td>
 
-<code>georgia</code> 
-</td>
+<td> :banjo: <code>banjo</code> </td>
 
-<td> :ghana:
+<td> :bank: <code>bank</code> </td>
 
-<code>ghana</code> 
-</td>
 
-
 </tr>
 
 <tr>
-
-<td> :ghost:
-
-<code>ghost</code> 
-</td>
-
-<td> :gibraltar:
 
-<code>gibraltar</code> 
-</td>
+<td> :bar_chart: <code>bar_chart</code> </td>
 
-<td> :gift:
+<td> :barbados: <code>barbados</code> </td>
 
-<code>gift</code> 
-</td>
+<td> :barber: <code>barber</code> </td>
 
-<td> :gift_heart:
+<td> :baseball: <code>baseball</code> </td>
 
-<code>gift_heart</code> 
-</td>
+<td> :basecamp: <code>basecamp</code> </td>
 
-<td> :giraffe:
 
-<code>giraffe</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :girl:
-
-<code>girl</code> 
-</td>
 
-<td> :globe_with_meridians:
+<td> :basecampy: <code>basecampy</code> </td>
 
-<code>globe_with_meridians</code> 
-</td>
+<td> :basket: <code>basket</code> </td>
 
-<td> :gloves:
+<td> :basketball: <code>basketball</code> </td>
 
-<code>gloves</code> 
-</td>
+<td> :basketball_man: <code>basketball_man</code> </td>
 
-<td> :goal_net:
+<td> :basketball_woman: <code>basketball_woman</code> </td>
 
-<code>goal_net</code> 
-</td>
 
-<td> :goat:
-
-<code>goat</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :goberserk:
-
-<code>goberserk</code> 
-</td>
-
-<td> :godmode:
-
-<code>godmode</code> 
-</td>
-
-<td> :goggles:
 
-<code>goggles</code> 
-</td>
+<td> :bat: <code>bat</code> </td>
 
-<td> :golf:
+<td> :bath: <code>bath</code> </td>
 
-<code>golf</code> 
-</td>
+<td> :bathtub: <code>bathtub</code> </td>
 
-<td> :golfing:
+<td> :battery: <code>battery</code> </td>
 
-<code>golfing</code> 
-</td>
+<td> :beach_umbrella: <code>beach_umbrella</code> </td>
 
 
 </tr>
 
 <tr>
 
-<td> :golfing_man:
+<td> :bear: <code>bear</code> </td>
 
-<code>golfing_man</code> 
-</td>
+<td> :bearded_person: <code>bearded_person</code> </td>
 
-<td> :golfing_woman:
+<td> :bed: <code>bed</code> </td>
 
-<code>golfing_woman</code> 
-</td>
+<td> :bee: <code>bee</code> </td>
 
-<td> :gorilla:
+<td> :beer: <code>beer</code> </td>
 
-<code>gorilla</code> 
-</td>
 
-<td> :grapes:
-
-<code>grapes</code> 
-</td>
-
-<td> :greece:
-
-<code>greece</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :green_apple:
-
-<code>green_apple</code> 
-</td>
-
-<td> :green_book:
 
-<code>green_book</code> 
-</td>
+<td> :beers: <code>beers</code> </td>
 
-<td> :green_circle:
+<td> :beetle: <code>beetle</code> </td>
 
-<code>green_circle</code> 
-</td>
+<td> :beginner: <code>beginner</code> </td>
 
-<td> :green_heart:
+<td> :belarus: <code>belarus</code> </td>
 
-<code>green_heart</code> 
-</td>
+<td> :belgium: <code>belgium</code> </td>
 
-<td> :green_salad:
 
-<code>green_salad</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :green_square:
-
-<code>green_square</code> 
-</td>
 
-<td> :greenland:
+<td> :belize: <code>belize</code> </td>
 
-<code>greenland</code> 
-</td>
+<td> :bell: <code>bell</code> </td>
 
-<td> :grenada:
+<td> :bellhop_bell: <code>bellhop_bell</code> </td>
 
-<code>grenada</code> 
-</td>
+<td> :benin: <code>benin</code> </td>
 
-<td> :grey_exclamation:
+<td> :bento: <code>bento</code> </td>
 
-<code>grey_exclamation</code> 
-</td>
 
-<td> :grey_question:
-
-<code>grey_question</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :grimacing:
 
-<code>grimacing</code> 
-</td>
+<td> :bermuda: <code>bermuda</code> </td>
 
-<td> :grin:
+<td> :beverage_box: <code>beverage_box</code> </td>
 
-<code>grin</code> 
-</td>
+<td> :bhutan: <code>bhutan</code> </td>
 
-<td> :grinning:
+<td> :bicyclist: <code>bicyclist</code> </td>
 
-<code>grinning</code> 
-</td>
+<td> :bike: <code>bike</code> </td>
 
-<td> :guadeloupe:
 
-<code>guadeloupe</code> 
-</td>
-
-<td> :guam:
-
-<code>guam</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :guard:
-
-<code>guard</code> 
-</td>
-
-<td> :guardsman:
-
-<code>guardsman</code> 
-</td>
 
-<td> :guardswoman:
+<td> :biking_man: <code>biking_man</code> </td>
 
-<code>guardswoman</code> 
-</td>
+<td> :biking_woman: <code>biking_woman</code> </td>
 
-<td> :guatemala:
+<td> :bikini: <code>bikini</code> </td>
 
-<code>guatemala</code> 
-</td>
+<td> :billed_cap: <code>billed_cap</code> </td>
 
-<td> :guernsey:
+<td> :biohazard: <code>biohazard</code> </td>
 
-<code>guernsey</code> 
-</td>
 
-
 </tr>
 
 <tr>
-
-<td> :guide_dog:
-
-<code>guide_dog</code> 
-</td>
-
-<td> :guinea:
 
-<code>guinea</code> 
-</td>
+<td> :bird: <code>bird</code> </td>
 
-<td> :guinea_bissau:
+<td> :birthday: <code>birthday</code> </td>
 
-<code>guinea_bissau</code> 
-</td>
+<td> :black_circle: <code>black_circle</code> </td>
 
-<td> :guitar:
+<td> :black_flag: <code>black_flag</code> </td>
 
-<code>guitar</code> 
-</td>
+<td> :black_heart: <code>black_heart</code> </td>
 
-<td> :gun:
 
-<code>gun</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :guyana:
-
-<code>guyana</code> 
-</td>
 
-<td> :haircut:
+<td> :black_joker: <code>black_joker</code> </td>
 
-<code>haircut</code> 
-</td>
+<td> :black_large_square: <code>black_large_square</code> </td>
 
-<td> :haircut_man:
+<td> :black_medium_small_square: <code>black_medium_small_square</code> </td>
 
-<code>haircut_man</code> 
-</td>
+<td> :black_medium_square: <code>black_medium_square</code> </td>
 
-<td> :haircut_woman:
+<td> :black_nib: <code>black_nib</code> </td>
 
-<code>haircut_woman</code> 
-</td>
 
-<td> :haiti:
-
-<code>haiti</code> 
-</td>
-
-
 </tr>
 
 <tr>
-
-<td> :hamburger:
 
-<code>hamburger</code> 
-</td>
+<td> :black_small_square: <code>black_small_square</code> </td>
 
-<td> :hammer:
+<td> :black_square_button: <code>black_square_button</code> </td>
 
-<code>hammer</code> 
-</td>
+<td> :blond_haired_man: <code>blond_haired_man</code> </td>
 
-<td> :hammer_and_pick:
+<td> :blond_haired_person: <code>blond_haired_person</code> </td>
 
-<code>hammer_and_pick</code> 
-</td>
+<td> :blond_haired_woman: <code>blond_haired_woman</code> </td>
 
-<td> :hammer_and_wrench:
 
-<code>hammer_and_wrench</code> 
-</td>
-
-<td> :hamster:
+</tr>
 
-<code>hamster</code> 
-</td>
+<tr>
 
+<td> :blonde_woman: <code>blonde_woman</code> </td>
 
-</tr>
+<td> :blossom: <code>blossom</code> </td>
 
-<tr>
+<td> :blowfish: <code>blowfish</code> </td>
 
-<td> :hand:
+<td> :blue_book: <code>blue_book</code> </td>
 
-<code>hand</code> 
-</td>
+<td> :blue_car: <code>blue_car</code> </td>
 
-<td> :hand_over_mouth:
 
-<code>hand_over_mouth</code> 
-</td>
+</tr>
 
-<td> :handbag:
+<tr>
 
-<code>handbag</code> 
-</td>
+<td> :blue_heart: <code>blue_heart</code> </td>
 
-<td> :handball_person:
+<td> :blue_square: <code>blue_square</code> </td>
 
-<code>handball_person</code> 
-</td>
+<td> :blush: <code>blush</code> </td>
 
-<td> :handshake:
+<td> :boar: <code>boar</code> </td>
 
-<code>handshake</code> 
-</td>
+<td> :boat: <code>boat</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :hankey:
 
-<code>hankey</code> 
-</td>
+<td> :bolivia: <code>bolivia</code> </td>
 
-<td> :hash:
+<td> :bomb: <code>bomb</code> </td>
 
-<code>hash</code> 
-</td>
+<td> :bone: <code>bone</code> </td>
 
-<td> :hatched_chick:
+<td> :book: <code>book</code> </td>
 
-<code>hatched_chick</code> 
-</td>
+<td> :bookmark: <code>bookmark</code> </td>
 
-<td> :hatching_chick:
 
-<code>hatching_chick</code> 
-</td>
-
-<td> :headphones:
+</tr>
 
-<code>headphones</code> 
-</td>
+<tr>
 
+<td> :bookmark_tabs: <code>bookmark_tabs</code> </td>
 
-</tr>
+<td> :books: <code>books</code> </td>
 
-<tr>
+<td> :boom: <code>boom</code> </td>
 
-<td> :health_worker:
+<td> :boot: <code>boot</code> </td>
 
-<code>health_worker</code> 
-</td>
+<td> :bosnia_herzegovina: <code>bosnia_herzegovina</code> </td>
 
-<td> :hear_no_evil:
 
-<code>hear_no_evil</code> 
-</td>
+</tr>
 
-<td> :heard_mcdonald_islands:
+<tr>
 
-<code>heard_mcdonald_islands</code> 
-</td>
+<td> :botswana: <code>botswana</code> </td>
 
-<td> :heart:
+<td> :bouncing_ball_man: <code>bouncing_ball_man</code> </td>
 
-<code>heart</code> 
-</td>
+<td> :bouncing_ball_person: <code>bouncing_ball_person</code> </td>
 
-<td> :heart_decoration:
+<td> :bouncing_ball_woman: <code>bouncing_ball_woman</code> </td>
 
-<code>heart_decoration</code> 
-</td>
+<td> :bouquet: <code>bouquet</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :heart_eyes:
 
-<code>heart_eyes</code> 
-</td>
+<td> :bouvet_island: <code>bouvet_island</code> </td>
 
-<td> :heart_eyes_cat:
+<td> :bow: <code>bow</code> </td>
 
-<code>heart_eyes_cat</code> 
-</td>
+<td> :bow_and_arrow: <code>bow_and_arrow</code> </td>
 
-<td> :heartbeat:
+<td> :bowing_man: <code>bowing_man</code> </td>
 
-<code>heartbeat</code> 
-</td>
+<td> :bowing_woman: <code>bowing_woman</code> </td>
 
-<td> :heartpulse:
 
-<code>heartpulse</code> 
-</td>
-
-<td> :hearts:
+</tr>
 
-<code>hearts</code> 
-</td>
+<tr>
 
+<td> :bowl_with_spoon: <code>bowl_with_spoon</code> </td>
 
-</tr>
+<td> :bowling: <code>bowling</code> </td>
 
-<tr>
+<td> :bowtie: <code>bowtie</code> </td>
 
-<td> :heavy_check_mark:
+<td> :boxing_glove: <code>boxing_glove</code> </td>
 
-<code>heavy_check_mark</code> 
-</td>
+<td> :boy: <code>boy</code> </td>
 
-<td> :heavy_division_sign:
 
-<code>heavy_division_sign</code> 
-</td>
+</tr>
 
-<td> :heavy_dollar_sign:
+<tr>
 
-<code>heavy_dollar_sign</code> 
-</td>
+<td> :brain: <code>brain</code> </td>
 
-<td> :heavy_exclamation_mark:
+<td> :brazil: <code>brazil</code> </td>
 
-<code>heavy_exclamation_mark</code> 
-</td>
+<td> :bread: <code>bread</code> </td>
 
-<td> :heavy_heart_exclamation:
+<td> :breast_feeding: <code>breast_feeding</code> </td>
 
-<code>heavy_heart_exclamation</code> 
-</td>
+<td> :bricks: <code>bricks</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :heavy_minus_sign:
 
-<code>heavy_minus_sign</code> 
-</td>
+<td> :bride_with_veil: <code>bride_with_veil</code> </td>
 
-<td> :heavy_multiplication_x:
+<td> :bridge_at_night: <code>bridge_at_night</code> </td>
 
-<code>heavy_multiplication_x</code> 
-</td>
+<td> :briefcase: <code>briefcase</code> </td>
 
-<td> :heavy_plus_sign:
+<td> :british_indian_ocean_territory: <code>british_indian_ocean_territory</code> </td>
 
-<code>heavy_plus_sign</code> 
-</td>
+<td> :british_virgin_islands: <code>british_virgin_islands</code> </td>
 
-<td> :hedgehog:
 
-<code>hedgehog</code> 
-</td>
-
-<td> :helicopter:
+</tr>
 
-<code>helicopter</code> 
-</td>
+<tr>
 
+<td> :broccoli: <code>broccoli</code> </td>
 
-</tr>
+<td> :broken_heart: <code>broken_heart</code> </td>
 
-<tr>
+<td> :broom: <code>broom</code> </td>
 
-<td> :herb:
+<td> :brown_circle: <code>brown_circle</code> </td>
 
-<code>herb</code> 
-</td>
+<td> :brown_heart: <code>brown_heart</code> </td>
 
-<td> :hibiscus:
 
-<code>hibiscus</code> 
-</td>
+</tr>
 
-<td> :high_brightness:
+<tr>
 
-<code>high_brightness</code> 
-</td>
+<td> :brown_square: <code>brown_square</code> </td>
 
-<td> :high_heel:
+<td> :brunei: <code>brunei</code> </td>
 
-<code>high_heel</code> 
-</td>
+<td> :bug: <code>bug</code> </td>
 
-<td> :hiking_boot:
+<td> :building_construction: <code>building_construction</code> </td>
 
-<code>hiking_boot</code> 
-</td>
+<td> :bulb: <code>bulb</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :hindu_temple:
 
-<code>hindu_temple</code> 
-</td>
+<td> :bulgaria: <code>bulgaria</code> </td>
 
-<td> :hippopotamus:
+<td> :bullettrain_front: <code>bullettrain_front</code> </td>
 
-<code>hippopotamus</code> 
-</td>
+<td> :bullettrain_side: <code>bullettrain_side</code> </td>
 
-<td> :hocho:
+<td> :burkina_faso: <code>burkina_faso</code> </td>
 
-<code>hocho</code> 
-</td>
+<td> :burrito: <code>burrito</code> </td>
 
-<td> :hole:
 
-<code>hole</code> 
-</td>
-
-<td> :honduras:
+</tr>
 
-<code>honduras</code> 
-</td>
+<tr>
 
+<td> :burundi: <code>burundi</code> </td>
 
-</tr>
+<td> :bus: <code>bus</code> </td>
 
-<tr>
+<td> :business_suit_levitating: <code>business_suit_levitating</code> </td>
 
-<td> :honey_pot:
+<td> :busstop: <code>busstop</code> </td>
 
-<code>honey_pot</code> 
-</td>
+<td> :bust_in_silhouette: <code>bust_in_silhouette</code> </td>
 
-<td> :honeybee:
 
-<code>honeybee</code> 
-</td>
+</tr>
 
-<td> :hong_kong:
+<tr>
 
-<code>hong_kong</code> 
-</td>
+<td> :busts_in_silhouette: <code>busts_in_silhouette</code> </td>
 
-<td> :horse:
+<td> :butter: <code>butter</code> </td>
 
-<code>horse</code> 
-</td>
+<td> :butterfly: <code>butterfly</code> </td>
 
-<td> :horse_racing:
+<td> :cactus: <code>cactus</code> </td>
 
-<code>horse_racing</code> 
-</td>
+<td> :cake: <code>cake</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :hospital:
 
-<code>hospital</code> 
-</td>
+<td> :calendar: <code>calendar</code> </td>
 
-<td> :hot_face:
+<td> :call_me_hand: <code>call_me_hand</code> </td>
 
-<code>hot_face</code> 
-</td>
+<td> :calling: <code>calling</code> </td>
 
-<td> :hot_pepper:
+<td> :cambodia: <code>cambodia</code> </td>
 
-<code>hot_pepper</code> 
-</td>
+<td> :camel: <code>camel</code> </td>
 
-<td> :hotdog:
 
-<code>hotdog</code> 
-</td>
-
-<td> :hotel:
+</tr>
 
-<code>hotel</code> 
-</td>
+<tr>
 
+<td> :camera: <code>camera</code> </td>
 
-</tr>
+<td> :camera_flash: <code>camera_flash</code> </td>
 
-<tr>
+<td> :cameroon: <code>cameroon</code> </td>
 
-<td> :hotsprings:
+<td> :camping: <code>camping</code> </td>
 
-<code>hotsprings</code> 
-</td>
+<td> :canada: <code>canada</code> </td>
 
-<td> :hourglass:
 
-<code>hourglass</code> 
-</td>
+</tr>
 
-<td> :hourglass_flowing_sand:
+<tr>
 
-<code>hourglass_flowing_sand</code> 
-</td>
+<td> :canary_islands: <code>canary_islands</code> </td>
 
-<td> :house:
+<td> :cancer: <code>cancer</code> </td>
 
-<code>house</code> 
-</td>
+<td> :candle: <code>candle</code> </td>
 
-<td> :house_with_garden:
+<td> :candy: <code>candy</code> </td>
 
-<code>house_with_garden</code> 
-</td>
+<td> :canned_food: <code>canned_food</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :houses:
 
-<code>houses</code> 
-</td>
+<td> :canoe: <code>canoe</code> </td>
 
-<td> :hugs:
+<td> :cape_verde: <code>cape_verde</code> </td>
 
-<code>hugs</code> 
-</td>
+<td> :capital_abcd: <code>capital_abcd</code> </td>
 
-<td> :hungary:
+<td> :capricorn: <code>capricorn</code> </td>
 
-<code>hungary</code> 
-</td>
+<td> :car: <code>car</code> </td>
 
-<td> :hurtrealbad:
 
-<code>hurtrealbad</code> 
-</td>
-
-<td> :hushed:
+</tr>
 
-<code>hushed</code> 
-</td>
+<tr>
 
+<td> :card_file_box: <code>card_file_box</code> </td>
 
-</tr>
+<td> :card_index: <code>card_index</code> </td>
 
-<tr>
+<td> :card_index_dividers: <code>card_index_dividers</code> </td>
 
-<td> :ice_cream:
+<td> :caribbean_netherlands: <code>caribbean_netherlands</code> </td>
 
-<code>ice_cream</code> 
-</td>
+<td> :carousel_horse: <code>carousel_horse</code> </td>
 
-<td> :ice_cube:
 
-<code>ice_cube</code> 
-</td>
+</tr>
 
-<td> :ice_hockey:
+<tr>
 
-<code>ice_hockey</code> 
-</td>
+<td> :carrot: <code>carrot</code> </td>
 
-<td> :ice_skate:
+<td> :cartwheeling: <code>cartwheeling</code> </td>
 
-<code>ice_skate</code> 
-</td>
+<td> :cat: <code>cat</code> </td>
 
-<td> :icecream:
+<td> :cat2: <code>cat2</code> </td>
 
-<code>icecream</code> 
-</td>
+<td> :cayman_islands: <code>cayman_islands</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :iceland:
 
-<code>iceland</code> 
-</td>
+<td> :cd: <code>cd</code> </td>
 
-<td> :id:
+<td> :central_african_republic: <code>central_african_republic</code> </td>
 
-<code>id</code> 
-</td>
+<td> :ceuta_melilla: <code>ceuta_melilla</code> </td>
 
-<td> :ideograph_advantage:
+<td> :chad: <code>chad</code> </td>
 
-<code>ideograph_advantage</code> 
-</td>
+<td> :chains: <code>chains</code> </td>
 
-<td> :imp:
 
-<code>imp</code> 
-</td>
-
-<td> :inbox_tray:
+</tr>
 
-<code>inbox_tray</code> 
-</td>
+<tr>
 
+<td> :chair: <code>chair</code> </td>
 
-</tr>
+<td> :champagne: <code>champagne</code> </td>
 
-<tr>
+<td> :chart: <code>chart</code> </td>
 
-<td> :incoming_envelope:
+<td> :chart_with_downwards_trend: <code>chart_with_downwards_trend</code> </td>
 
-<code>incoming_envelope</code> 
-</td>
+<td> :chart_with_upwards_trend: <code>chart_with_upwards_trend</code> </td>
 
-<td> :india:
 
-<code>india</code> 
-</td>
+</tr>
 
-<td> :indonesia:
+<tr>
 
-<code>indonesia</code> 
-</td>
+<td> :checkered_flag: <code>checkered_flag</code> </td>
 
-<td> :infinity:
+<td> :cheese: <code>cheese</code> </td>
 
-<code>infinity</code> 
-</td>
+<td> :cherries: <code>cherries</code> </td>
 
-<td> :information_desk_person:
+<td> :cherry_blossom: <code>cherry_blossom</code> </td>
 
-<code>information_desk_person</code> 
-</td>
+<td> :chess_pawn: <code>chess_pawn</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :information_source:
 
-<code>information_source</code> 
-</td>
+<td> :chestnut: <code>chestnut</code> </td>
 
-<td> :innocent:
+<td> :chicken: <code>chicken</code> </td>
 
-<code>innocent</code> 
-</td>
+<td> :child: <code>child</code> </td>
 
-<td> :interrobang:
+<td> :children_crossing: <code>children_crossing</code> </td>
 
-<code>interrobang</code> 
-</td>
+<td> :chile: <code>chile</code> </td>
 
-<td> :iphone:
 
-<code>iphone</code> 
-</td>
-
-<td> :iran:
+</tr>
 
-<code>iran</code> 
-</td>
+<tr>
 
+<td> :chipmunk: <code>chipmunk</code> </td>
 
-</tr>
+<td> :chocolate_bar: <code>chocolate_bar</code> </td>
 
-<tr>
+<td> :chopsticks: <code>chopsticks</code> </td>
 
-<td> :iraq:
+<td> :christmas_island: <code>christmas_island</code> </td>
 
-<code>iraq</code> 
-</td>
+<td> :christmas_tree: <code>christmas_tree</code> </td>
 
-<td> :ireland:
 
-<code>ireland</code> 
-</td>
+</tr>
 
-<td> :isle_of_man:
+<tr>
 
-<code>isle_of_man</code> 
-</td>
+<td> :church: <code>church</code> </td>
 
-<td> :israel:
+<td> :cinema: <code>cinema</code> </td>
 
-<code>israel</code> 
-</td>
+<td> :circus_tent: <code>circus_tent</code> </td>
 
-<td> :it:
+<td> :city_sunrise: <code>city_sunrise</code> </td>
 
-<code>it</code> 
-</td>
+<td> :city_sunset: <code>city_sunset</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :izakaya_lantern:
 
-<code>izakaya_lantern</code> 
-</td>
+<td> :cityscape: <code>cityscape</code> </td>
 
-<td> :jack_o_lantern:
+<td> :cl: <code>cl</code> </td>
 
-<code>jack_o_lantern</code> 
-</td>
+<td> :clamp: <code>clamp</code> </td>
 
-<td> :jamaica:
+<td> :clap: <code>clap</code> </td>
 
-<code>jamaica</code> 
-</td>
+<td> :clapper: <code>clapper</code> </td>
 
-<td> :japan:
 
-<code>japan</code> 
-</td>
-
-<td> :japanese_castle:
+</tr>
 
-<code>japanese_castle</code> 
-</td>
+<tr>
 
+<td> :classical_building: <code>classical_building</code> </td>
 
-</tr>
+<td> :climbing: <code>climbing</code> </td>
 
-<tr>
+<td> :climbing_man: <code>climbing_man</code> </td>
 
-<td> :japanese_goblin:
+<td> :climbing_woman: <code>climbing_woman</code> </td>
 
-<code>japanese_goblin</code> 
-</td>
+<td> :clinking_glasses: <code>clinking_glasses</code> </td>
 
-<td> :japanese_ogre:
 
-<code>japanese_ogre</code> 
-</td>
+</tr>
 
-<td> :jeans:
+<tr>
 
-<code>jeans</code> 
-</td>
+<td> :clipboard: <code>clipboard</code> </td>
 
-<td> :jersey:
+<td> :clipperton_island: <code>clipperton_island</code> </td>
 
-<code>jersey</code> 
-</td>
+<td> :clock1: <code>clock1</code> </td>
 
-<td> :jigsaw:
+<td> :clock10: <code>clock10</code> </td>
 
-<code>jigsaw</code> 
-</td>
+<td> :clock1030: <code>clock1030</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :jordan:
 
-<code>jordan</code> 
-</td>
+<td> :clock11: <code>clock11</code> </td>
 
-<td> :joy:
+<td> :clock1130: <code>clock1130</code> </td>
 
-<code>joy</code> 
-</td>
+<td> :clock12: <code>clock12</code> </td>
 
-<td> :joy_cat:
+<td> :clock1230: <code>clock1230</code> </td>
 
-<code>joy_cat</code> 
-</td>
+<td> :clock130: <code>clock130</code> </td>
 
-<td> :joystick:
 
-<code>joystick</code> 
-</td>
-
-<td> :jp:
+</tr>
 
-<code>jp</code> 
-</td>
+<tr>
 
+<td> :clock2: <code>clock2</code> </td>
 
-</tr>
+<td> :clock230: <code>clock230</code> </td>
 
-<tr>
+<td> :clock3: <code>clock3</code> </td>
 
-<td> :judge:
+<td> :clock330: <code>clock330</code> </td>
 
-<code>judge</code> 
-</td>
+<td> :clock4: <code>clock4</code> </td>
 
-<td> :juggling_person:
 
-<code>juggling_person</code> 
-</td>
+</tr>
 
-<td> :kaaba:
+<tr>
 
-<code>kaaba</code> 
-</td>
+<td> :clock430: <code>clock430</code> </td>
 
-<td> :kangaroo:
+<td> :clock5: <code>clock5</code> </td>
 
-<code>kangaroo</code> 
-</td>
+<td> :clock530: <code>clock530</code> </td>
 
-<td> :kazakhstan:
+<td> :clock6: <code>clock6</code> </td>
 
-<code>kazakhstan</code> 
-</td>
+<td> :clock630: <code>clock630</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :kenya:
 
-<code>kenya</code> 
-</td>
+<td> :clock7: <code>clock7</code> </td>
 
-<td> :key:
+<td> :clock730: <code>clock730</code> </td>
 
-<code>key</code> 
-</td>
+<td> :clock8: <code>clock8</code> </td>
 
-<td> :keyboard:
+<td> :clock830: <code>clock830</code> </td>
 
-<code>keyboard</code> 
-</td>
+<td> :clock9: <code>clock9</code> </td>
 
-<td> :keycap_ten:
 
-<code>keycap_ten</code> 
-</td>
-
-<td> :kick_scooter:
+</tr>
 
-<code>kick_scooter</code> 
-</td>
+<tr>
 
+<td> :clock930: <code>clock930</code> </td>
 
-</tr>
+<td> :closed_book: <code>closed_book</code> </td>
 
-<tr>
+<td> :closed_lock_with_key: <code>closed_lock_with_key</code> </td>
 
-<td> :kimono:
+<td> :closed_umbrella: <code>closed_umbrella</code> </td>
 
-<code>kimono</code> 
-</td>
+<td> :cloud: <code>cloud</code> </td>
 
-<td> :kiribati:
 
-<code>kiribati</code> 
-</td>
+</tr>
 
-<td> :kiss:
+<tr>
 
-<code>kiss</code> 
-</td>
+<td> :cloud_with_lightning: <code>cloud_with_lightning</code> </td>
 
-<td> :kissing:
+<td> :cloud_with_lightning_and_rain: <code>cloud_with_lightning_and_rain</code> </td>
 
-<code>kissing</code> 
-</td>
+<td> :cloud_with_rain: <code>cloud_with_rain</code> </td>
 
-<td> :kissing_cat:
+<td> :cloud_with_snow: <code>cloud_with_snow</code> </td>
 
-<code>kissing_cat</code> 
-</td>
+<td> :clown_face: <code>clown_face</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :kissing_closed_eyes:
 
-<code>kissing_closed_eyes</code> 
-</td>
+<td> :clubs: <code>clubs</code> </td>
 
-<td> :kissing_heart:
+<td> :cn: <code>cn</code> </td>
 
-<code>kissing_heart</code> 
-</td>
+<td> :coat: <code>coat</code> </td>
 
-<td> :kissing_smiling_eyes:
+<td> :cocktail: <code>cocktail</code> </td>
 
-<code>kissing_smiling_eyes</code> 
-</td>
+<td> :coconut: <code>coconut</code> </td>
 
-<td> :kite:
 
-<code>kite</code> 
-</td>
-
-<td> :kiwi_fruit:
+</tr>
 
-<code>kiwi_fruit</code> 
-</td>
+<tr>
 
+<td> :cocos_islands: <code>cocos_islands</code> </td>
 
-</tr>
+<td> :coffee: <code>coffee</code> </td>
 
-<tr>
+<td> :coffin: <code>coffin</code> </td>
 
-<td> :kneeling_man:
+<td> :cold_face: <code>cold_face</code> </td>
 
-<code>kneeling_man</code> 
-</td>
+<td> :cold_sweat: <code>cold_sweat</code> </td>
 
-<td> :kneeling_person:
 
-<code>kneeling_person</code> 
-</td>
+</tr>
 
-<td> :kneeling_woman:
+<tr>
 
-<code>kneeling_woman</code> 
-</td>
+<td> :collision: <code>collision</code> </td>
 
-<td> :knife:
+<td> :colombia: <code>colombia</code> </td>
 
-<code>knife</code> 
-</td>
+<td> :comet: <code>comet</code> </td>
 
-<td> :koala:
+<td> :comoros: <code>comoros</code> </td>
 
-<code>koala</code> 
-</td>
+<td> :compass: <code>compass</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :koko:
-
-<code>koko</code> 
-</td>
 
-<td> :kosovo:
+<td> :computer: <code>computer</code> </td>
 
-<code>kosovo</code> 
-</td>
+<td> :computer_mouse: <code>computer_mouse</code> </td>
 
-<td> :kr:
+<td> :confetti_ball: <code>confetti_ball</code> </td>
 
-<code>kr</code> 
-</td>
+<td> :confounded: <code>confounded</code> </td>
 
-<td> :kuwait:
+<td> :confused: <code>confused</code> </td>
 
-<code>kuwait</code> 
-</td>
 
-<td> :kyrgyzstan:
+</tr>
 
-<code>kyrgyzstan</code> 
-</td>
+<tr>
 
+<td> :congo_brazzaville: <code>congo_brazzaville</code> </td>
 
-</tr>
+<td> :congo_kinshasa: <code>congo_kinshasa</code> </td>
 
-<tr>
+<td> :congratulations: <code>congratulations</code> </td>
 
-<td> :lab_coat:
+<td> :construction: <code>construction</code> </td>
 
-<code>lab_coat</code> 
-</td>
+<td> :construction_worker: <code>construction_worker</code> </td>
 
-<td> :label:
 
-<code>label</code> 
-</td>
+</tr>
 
-<td> :lacrosse:
+<tr>
 
-<code>lacrosse</code> 
-</td>
+<td> :construction_worker_man: <code>construction_worker_man</code> </td>
 
-<td> :lantern:
+<td> :construction_worker_woman: <code>construction_worker_woman</code> </td>
 
-<code>lantern</code> 
-</td>
+<td> :control_knobs: <code>control_knobs</code> </td>
 
-<td> :laos:
+<td> :convenience_store: <code>convenience_store</code> </td>
 
-<code>laos</code> 
-</td>
+<td> :cook: <code>cook</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :large_blue_circle:
-
-<code>large_blue_circle</code> 
-</td>
 
-<td> :large_blue_diamond:
+<td> :cook_islands: <code>cook_islands</code> </td>
 
-<code>large_blue_diamond</code> 
-</td>
+<td> :cookie: <code>cookie</code> </td>
 
-<td> :large_orange_diamond:
+<td> :cool: <code>cool</code> </td>
 
-<code>large_orange_diamond</code> 
-</td>
+<td> :cop: <code>cop</code> </td>
 
-<td> :last_quarter_moon:
+<td> :copyright: <code>copyright</code> </td>
 
-<code>last_quarter_moon</code> 
-</td>
 
-<td> :last_quarter_moon_with_face:
+</tr>
 
-<code>last_quarter_moon_with_face</code> 
-</td>
+<tr>
 
+<td> :corn: <code>corn</code> </td>
 
-</tr>
+<td> :costa_rica: <code>costa_rica</code> </td>
 
-<tr>
+<td> :cote_divoire: <code>cote_divoire</code> </td>
 
-<td> :latin_cross:
+<td> :couch_and_lamp: <code>couch_and_lamp</code> </td>
 
-<code>latin_cross</code> 
-</td>
+<td> :couple: <code>couple</code> </td>
 
-<td> :latvia:
 
-<code>latvia</code> 
-</td>
+</tr>
 
-<td> :laughing:
+<tr>
 
-<code>laughing</code> 
-</td>
+<td> :couple_with_heart: <code>couple_with_heart</code> </td>
 
-<td> :leafy_green:
+<td> :couple_with_heart_man_man: <code>couple_with_heart_man_man</code> </td>
 
-<code>leafy_green</code> 
-</td>
+<td> :couple_with_heart_woman_man: <code>couple_with_heart_woman_man</code> </td>
 
-<td> :leaves:
+<td> :couple_with_heart_woman_woman: <code>couple_with_heart_woman_woman</code> </td>
 
-<code>leaves</code> 
-</td>
+<td> :couplekiss: <code>couplekiss</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :lebanon:
-
-<code>lebanon</code> 
-</td>
 
-<td> :ledger:
+<td> :couplekiss_man_man: <code>couplekiss_man_man</code> </td>
 
-<code>ledger</code> 
-</td>
+<td> :couplekiss_man_woman: <code>couplekiss_man_woman</code> </td>
 
-<td> :left_luggage:
+<td> :couplekiss_woman_woman: <code>couplekiss_woman_woman</code> </td>
 
-<code>left_luggage</code> 
-</td>
+<td> :cow: <code>cow</code> </td>
 
-<td> :left_right_arrow:
+<td> :cow2: <code>cow2</code> </td>
 
-<code>left_right_arrow</code> 
-</td>
 
-<td> :left_speech_bubble:
+</tr>
 
-<code>left_speech_bubble</code> 
-</td>
+<tr>
 
+<td> :cowboy_hat_face: <code>cowboy_hat_face</code> </td>
 
-</tr>
+<td> :crab: <code>crab</code> </td>
 
-<tr>
+<td> :crayon: <code>crayon</code> </td>
 
-<td> :leftwards_arrow_with_hook:
+<td> :credit_card: <code>credit_card</code> </td>
 
-<code>leftwards_arrow_with_hook</code> 
-</td>
+<td> :crescent_moon: <code>crescent_moon</code> </td>
 
-<td> :leg:
 
-<code>leg</code> 
-</td>
+</tr>
 
-<td> :lemon:
+<tr>
 
-<code>lemon</code> 
-</td>
+<td> :cricket: <code>cricket</code> </td>
 
-<td> :leo:
+<td> :cricket_game: <code>cricket_game</code> </td>
 
-<code>leo</code> 
-</td>
+<td> :croatia: <code>croatia</code> </td>
 
-<td> :leopard:
+<td> :crocodile: <code>crocodile</code> </td>
 
-<code>leopard</code> 
-</td>
+<td> :croissant: <code>croissant</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :lesotho:
-
-<code>lesotho</code> 
-</td>
 
-<td> :level_slider:
+<td> :crossed_fingers: <code>crossed_fingers</code> </td>
 
-<code>level_slider</code> 
-</td>
+<td> :crossed_flags: <code>crossed_flags</code> </td>
 
-<td> :liberia:
+<td> :crossed_swords: <code>crossed_swords</code> </td>
 
-<code>liberia</code> 
-</td>
+<td> :crown: <code>crown</code> </td>
 
-<td> :libra:
+<td> :cry: <code>cry</code> </td>
 
-<code>libra</code> 
-</td>
 
-<td> :libya:
+</tr>
 
-<code>libya</code> 
-</td>
+<tr>
 
+<td> :crying_cat_face: <code>crying_cat_face</code> </td>
 
-</tr>
+<td> :crystal_ball: <code>crystal_ball</code> </td>
 
-<tr>
+<td> :cuba: <code>cuba</code> </td>
 
-<td> :liechtenstein:
+<td> :cucumber: <code>cucumber</code> </td>
 
-<code>liechtenstein</code> 
-</td>
+<td> :cup_with_straw: <code>cup_with_straw</code> </td>
 
-<td> :light_rail:
 
-<code>light_rail</code> 
-</td>
+</tr>
 
-<td> :link:
+<tr>
 
-<code>link</code> 
-</td>
+<td> :cupcake: <code>cupcake</code> </td>
 
-<td> :lion:
+<td> :cupid: <code>cupid</code> </td>
 
-<code>lion</code> 
-</td>
+<td> :curacao: <code>curacao</code> </td>
 
-<td> :lips:
+<td> :curling_stone: <code>curling_stone</code> </td>
 
-<code>lips</code> 
-</td>
+<td> :curly_haired_man: <code>curly_haired_man</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :lipstick:
-
-<code>lipstick</code> 
-</td>
 
-<td> :lithuania:
+<td> :curly_haired_woman: <code>curly_haired_woman</code> </td>
 
-<code>lithuania</code> 
-</td>
+<td> :curly_loop: <code>curly_loop</code> </td>
 
-<td> :lizard:
+<td> :currency_exchange: <code>currency_exchange</code> </td>
 
-<code>lizard</code> 
-</td>
+<td> :curry: <code>curry</code> </td>
 
-<td> :llama:
+<td> :cursing_face: <code>cursing_face</code> </td>
 
-<code>llama</code> 
-</td>
 
-<td> :lobster:
+</tr>
 
-<code>lobster</code> 
-</td>
+<tr>
 
+<td> :custard: <code>custard</code> </td>
 
-</tr>
+<td> :customs: <code>customs</code> </td>
 
-<tr>
+<td> :cut_of_meat: <code>cut_of_meat</code> </td>
 
-<td> :lock:
+<td> :cyclone: <code>cyclone</code> </td>
 
-<code>lock</code> 
-</td>
+<td> :cyprus: <code>cyprus</code> </td>
 
-<td> :lock_with_ink_pen:
 
-<code>lock_with_ink_pen</code> 
-</td>
+</tr>
 
-<td> :lollipop:
+<tr>
 
-<code>lollipop</code> 
-</td>
+<td> :czech_republic: <code>czech_republic</code> </td>
 
-<td> :loop:
+<td> :dagger: <code>dagger</code> </td>
 
-<code>loop</code> 
-</td>
+<td> :dancer: <code>dancer</code> </td>
 
-<td> :lotion_bottle:
+<td> :dancers: <code>dancers</code> </td>
 
-<code>lotion_bottle</code> 
-</td>
+<td> :dancing_men: <code>dancing_men</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :lotus_position:
-
-<code>lotus_position</code> 
-</td>
 
-<td> :lotus_position_man:
+<td> :dancing_women: <code>dancing_women</code> </td>
 
-<code>lotus_position_man</code> 
-</td>
+<td> :dango: <code>dango</code> </td>
 
-<td> :lotus_position_woman:
+<td> :dark_sunglasses: <code>dark_sunglasses</code> </td>
 
-<code>lotus_position_woman</code> 
-</td>
+<td> :dart: <code>dart</code> </td>
 
-<td> :loud_sound:
+<td> :dash: <code>dash</code> </td>
 
-<code>loud_sound</code> 
-</td>
 
-<td> :loudspeaker:
+</tr>
 
-<code>loudspeaker</code> 
-</td>
+<tr>
 
+<td> :date: <code>date</code> </td>
 
-</tr>
+<td> :de: <code>de</code> </td>
 
-<tr>
+<td> :deaf_man: <code>deaf_man</code> </td>
 
-<td> :love_hotel:
+<td> :deaf_person: <code>deaf_person</code> </td>
 
-<code>love_hotel</code> 
-</td>
+<td> :deaf_woman: <code>deaf_woman</code> </td>
 
-<td> :love_letter:
 
-<code>love_letter</code> 
-</td>
+</tr>
 
-<td> :love_you_gesture:
+<tr>
 
-<code>love_you_gesture</code> 
-</td>
+<td> :deciduous_tree: <code>deciduous_tree</code> </td>
 
-<td> :low_brightness:
+<td> :deer: <code>deer</code> </td>
 
-<code>low_brightness</code> 
-</td>
+<td> :denmark: <code>denmark</code> </td>
 
-<td> :luggage:
+<td> :department_store: <code>department_store</code> </td>
 
-<code>luggage</code> 
-</td>
+<td> :derelict_house: <code>derelict_house</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :luxembourg:
-
-<code>luxembourg</code> 
-</td>
 
-<td> :lying_face:
+<td> :desert: <code>desert</code> </td>
 
-<code>lying_face</code> 
-</td>
+<td> :desert_island: <code>desert_island</code> </td>
 
-<td> :m:
+<td> :desktop_computer: <code>desktop_computer</code> </td>
 
-<code>m</code> 
-</td>
+<td> :detective: <code>detective</code> </td>
 
-<td> :macau:
+<td> :diamond_shape_with_a_dot_inside: <code>diamond_shape_with_a_dot_inside</code> </td>
 
-<code>macau</code> 
-</td>
 
-<td> :macedonia:
+</tr>
 
-<code>macedonia</code> 
-</td>
+<tr>
 
+<td> :diamonds: <code>diamonds</code> </td>
 
-</tr>
+<td> :diego_garcia: <code>diego_garcia</code> </td>
 
-<tr>
+<td> :disappointed: <code>disappointed</code> </td>
 
-<td> :madagascar:
+<td> :disappointed_relieved: <code>disappointed_relieved</code> </td>
 
-<code>madagascar</code> 
-</td>
+<td> :diving_mask: <code>diving_mask</code> </td>
 
-<td> :mag:
 
-<code>mag</code> 
-</td>
+</tr>
 
-<td> :mag_right:
+<tr>
 
-<code>mag_right</code> 
-</td>
+<td> :diya_lamp: <code>diya_lamp</code> </td>
 
-<td> :mage:
+<td> :dizzy: <code>dizzy</code> </td>
 
-<code>mage</code> 
-</td>
+<td> :dizzy_face: <code>dizzy_face</code> </td>
 
-<td> :mage_man:
+<td> :djibouti: <code>djibouti</code> </td>
 
-<code>mage_man</code> 
-</td>
+<td> :dna: <code>dna</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :mage_woman:
-
-<code>mage_woman</code> 
-</td>
 
-<td> :magnet:
+<td> :do_not_litter: <code>do_not_litter</code> </td>
 
-<code>magnet</code> 
-</td>
+<td> :dog: <code>dog</code> </td>
 
-<td> :mahjong:
+<td> :dog2: <code>dog2</code> </td>
 
-<code>mahjong</code> 
-</td>
+<td> :dollar: <code>dollar</code> </td>
 
-<td> :mailbox:
+<td> :dolls: <code>dolls</code> </td>
 
-<code>mailbox</code> 
-</td>
 
-<td> :mailbox_closed:
+</tr>
 
-<code>mailbox_closed</code> 
-</td>
+<tr>
 
+<td> :dolphin: <code>dolphin</code> </td>
 
-</tr>
+<td> :dominica: <code>dominica</code> </td>
 
-<tr>
+<td> :dominican_republic: <code>dominican_republic</code> </td>
 
-<td> :mailbox_with_mail:
+<td> :door: <code>door</code> </td>
 
-<code>mailbox_with_mail</code> 
-</td>
+<td> :doughnut: <code>doughnut</code> </td>
 
-<td> :mailbox_with_no_mail:
 
-<code>mailbox_with_no_mail</code> 
-</td>
+</tr>
 
-<td> :malawi:
+<tr>
 
-<code>malawi</code> 
-</td>
+<td> :dove: <code>dove</code> </td>
 
-<td> :malaysia:
+<td> :dragon: <code>dragon</code> </td>
 
-<code>malaysia</code> 
-</td>
+<td> :dragon_face: <code>dragon_face</code> </td>
 
-<td> :maldives:
+<td> :dress: <code>dress</code> </td>
 
-<code>maldives</code> 
-</td>
+<td> :dromedary_camel: <code>dromedary_camel</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :male_detective:
-
-<code>male_detective</code> 
-</td>
 
-<td> :male_sign:
+<td> :drooling_face: <code>drooling_face</code> </td>
 
-<code>male_sign</code> 
-</td>
+<td> :drop_of_blood: <code>drop_of_blood</code> </td>
 
-<td> :mali:
+<td> :droplet: <code>droplet</code> </td>
 
-<code>mali</code> 
-</td>
+<td> :drum: <code>drum</code> </td>
 
-<td> :malta:
+<td> :duck: <code>duck</code> </td>
 
-<code>malta</code> 
-</td>
 
-<td> :man:
+</tr>
 
-<code>man</code> 
-</td>
+<tr>
 
+<td> :dumpling: <code>dumpling</code> </td>
 
-</tr>
+<td> :dvd: <code>dvd</code> </td>
 
-<tr>
+<td> :e-mail: <code>e-mail</code> </td>
 
-<td> :man_artist:
+<td> :eagle: <code>eagle</code> </td>
 
-<code>man_artist</code> 
-</td>
+<td> :ear: <code>ear</code> </td>
 
-<td> :man_astronaut:
 
-<code>man_astronaut</code> 
-</td>
+</tr>
 
-<td> :man_cartwheeling:
+<tr>
 
-<code>man_cartwheeling</code> 
-</td>
+<td> :ear_of_rice: <code>ear_of_rice</code> </td>
 
-<td> :man_cook:
+<td> :ear_with_hearing_aid: <code>ear_with_hearing_aid</code> </td>
 
-<code>man_cook</code> 
-</td>
+<td> :earth_africa: <code>earth_africa</code> </td>
 
-<td> :man_dancing:
+<td> :earth_americas: <code>earth_americas</code> </td>
 
-<code>man_dancing</code> 
-</td>
+<td> :earth_asia: <code>earth_asia</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :man_facepalming:
-
-<code>man_facepalming</code> 
-</td>
 
-<td> :man_factory_worker:
+<td> :ecuador: <code>ecuador</code> </td>
 
-<code>man_factory_worker</code> 
-</td>
+<td> :egg: <code>egg</code> </td>
 
-<td> :man_farmer:
+<td> :eggplant: <code>eggplant</code> </td>
 
-<code>man_farmer</code> 
-</td>
+<td> :egypt: <code>egypt</code> </td>
 
-<td> :man_firefighter:
+<td> :eight: <code>eight</code> </td>
 
-<code>man_firefighter</code> 
-</td>
 
-<td> :man_health_worker:
+</tr>
 
-<code>man_health_worker</code> 
-</td>
+<tr>
 
+<td> :eight_pointed_black_star: <code>eight_pointed_black_star</code> </td>
 
-</tr>
+<td> :eight_spoked_asterisk: <code>eight_spoked_asterisk</code> </td>
 
-<tr>
+<td> :eject_button: <code>eject_button</code> </td>
 
-<td> :man_in_manual_wheelchair:
+<td> :el_salvador: <code>el_salvador</code> </td>
 
-<code>man_in_manual_wheelchair</code> 
-</td>
+<td> :electric_plug: <code>electric_plug</code> </td>
 
-<td> :man_in_motorized_wheelchair:
 
-<code>man_in_motorized_wheelchair</code> 
-</td>
+</tr>
 
-<td> :man_in_tuxedo:
+<tr>
 
-<code>man_in_tuxedo</code> 
-</td>
+<td> :electron: <code>electron</code> </td>
 
-<td> :man_judge:
+<td> :elephant: <code>elephant</code> </td>
 
-<code>man_judge</code> 
-</td>
+<td> :elf: <code>elf</code> </td>
 
-<td> :man_juggling:
+<td> :elf_man: <code>elf_man</code> </td>
 
-<code>man_juggling</code> 
-</td>
+<td> :elf_woman: <code>elf_woman</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :man_mechanic:
-
-<code>man_mechanic</code> 
-</td>
 
-<td> :man_office_worker:
+<td> :email: <code>email</code> </td>
 
-<code>man_office_worker</code> 
-</td>
+<td> :end: <code>end</code> </td>
 
-<td> :man_pilot:
+<td> :england: <code>england</code> </td>
 
-<code>man_pilot</code> 
-</td>
+<td> :envelope: <code>envelope</code> </td>
 
-<td> :man_playing_handball:
+<td> :envelope_with_arrow: <code>envelope_with_arrow</code> </td>
 
-<code>man_playing_handball</code> 
-</td>
 
-<td> :man_playing_water_polo:
+</tr>
 
-<code>man_playing_water_polo</code> 
-</td>
+<tr>
 
+<td> :equatorial_guinea: <code>equatorial_guinea</code> </td>
 
-</tr>
+<td> :eritrea: <code>eritrea</code> </td>
 
-<tr>
+<td> :es: <code>es</code> </td>
 
-<td> :man_scientist:
+<td> :estonia: <code>estonia</code> </td>
 
-<code>man_scientist</code> 
-</td>
+<td> :ethiopia: <code>ethiopia</code> </td>
 
-<td> :man_shrugging:
 
-<code>man_shrugging</code> 
-</td>
+</tr>
 
-<td> :man_singer:
+<tr>
 
-<code>man_singer</code> 
-</td>
+<td> :eu: <code>eu</code> </td>
 
-<td> :man_student:
+<td> :euro: <code>euro</code> </td>
 
-<code>man_student</code> 
-</td>
+<td> :european_castle: <code>european_castle</code> </td>
 
-<td> :man_teacher:
+<td> :european_post_office: <code>european_post_office</code> </td>
 
-<code>man_teacher</code> 
-</td>
+<td> :european_union: <code>european_union</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :man_technologist:
-
-<code>man_technologist</code> 
-</td>
 
-<td> :man_with_gua_pi_mao:
+<td> :evergreen_tree: <code>evergreen_tree</code> </td>
 
-<code>man_with_gua_pi_mao</code> 
-</td>
+<td> :exclamation: <code>exclamation</code> </td>
 
-<td> :man_with_probing_cane:
+<td> :exploding_head: <code>exploding_head</code> </td>
 
-<code>man_with_probing_cane</code> 
-</td>
+<td> :expressionless: <code>expressionless</code> </td>
 
-<td> :man_with_turban:
+<td> :eye: <code>eye</code> </td>
 
-<code>man_with_turban</code> 
-</td>
 
-<td> :mandarin:
+</tr>
 
-<code>mandarin</code> 
-</td>
+<tr>
 
+<td> :eye_speech_bubble: <code>eye_speech_bubble</code> </td>
 
-</tr>
+<td> :eyeglasses: <code>eyeglasses</code> </td>
 
-<tr>
+<td> :eyes: <code>eyes</code> </td>
 
-<td> :mango:
+<td> :face_with_head_bandage: <code>face_with_head_bandage</code> </td>
 
-<code>mango</code> 
-</td>
+<td> :face_with_thermometer: <code>face_with_thermometer</code> </td>
 
-<td> :mans_shoe:
 
-<code>mans_shoe</code> 
-</td>
+</tr>
 
-<td> :mantelpiece_clock:
+<tr>
 
-<code>mantelpiece_clock</code> 
-</td>
+<td> :facepalm: <code>facepalm</code> </td>
 
-<td> :manual_wheelchair:
+<td> :facepunch: <code>facepunch</code> </td>
 
-<code>manual_wheelchair</code> 
-</td>
+<td> :factory: <code>factory</code> </td>
 
-<td> :maple_leaf:
+<td> :factory_worker: <code>factory_worker</code> </td>
 
-<code>maple_leaf</code> 
-</td>
+<td> :fairy: <code>fairy</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :marshall_islands:
-
-<code>marshall_islands</code> 
-</td>
 
-<td> :martial_arts_uniform:
+<td> :fairy_man: <code>fairy_man</code> </td>
 
-<code>martial_arts_uniform</code> 
-</td>
+<td> :fairy_woman: <code>fairy_woman</code> </td>
 
-<td> :martinique:
+<td> :falafel: <code>falafel</code> </td>
 
-<code>martinique</code> 
-</td>
+<td> :falkland_islands: <code>falkland_islands</code> </td>
 
-<td> :mask:
+<td> :fallen_leaf: <code>fallen_leaf</code> </td>
 
-<code>mask</code> 
-</td>
 
-<td> :massage:
+</tr>
 
-<code>massage</code> 
-</td>
+<tr>
 
+<td> :family: <code>family</code> </td>
 
-</tr>
+<td> :family_man_boy: <code>family_man_boy</code> </td>
 
-<tr>
+<td> :family_man_boy_boy: <code>family_man_boy_boy</code> </td>
 
-<td> :massage_man:
+<td> :family_man_girl: <code>family_man_girl</code> </td>
 
-<code>massage_man</code> 
-</td>
+<td> :family_man_girl_boy: <code>family_man_girl_boy</code> </td>
 
-<td> :massage_woman:
 
-<code>massage_woman</code> 
-</td>
+</tr>
 
-<td> :mate:
+<tr>
 
-<code>mate</code> 
-</td>
+<td> :family_man_girl_girl: <code>family_man_girl_girl</code> </td>
 
-<td> :mauritania:
+<td> :family_man_man_boy: <code>family_man_man_boy</code> </td>
 
-<code>mauritania</code> 
-</td>
+<td> :family_man_man_boy_boy: <code>family_man_man_boy_boy</code> </td>
 
-<td> :mauritius:
+<td> :family_man_man_girl: <code>family_man_man_girl</code> </td>
 
-<code>mauritius</code> 
-</td>
+<td> :family_man_man_girl_boy: <code>family_man_man_girl_boy</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :mayotte:
-
-<code>mayotte</code> 
-</td>
 
-<td> :meat_on_bone:
+<td> :family_man_man_girl_girl: <code>family_man_man_girl_girl</code> </td>
 
-<code>meat_on_bone</code> 
-</td>
+<td> :family_man_woman_boy: <code>family_man_woman_boy</code> </td>
 
-<td> :mechanic:
+<td> :family_man_woman_boy_boy: <code>family_man_woman_boy_boy</code> </td>
 
-<code>mechanic</code> 
-</td>
+<td> :family_man_woman_girl: <code>family_man_woman_girl</code> </td>
 
-<td> :mechanical_arm:
+<td> :family_man_woman_girl_boy: <code>family_man_woman_girl_boy</code> </td>
 
-<code>mechanical_arm</code> 
-</td>
 
-<td> :mechanical_leg:
+</tr>
 
-<code>mechanical_leg</code> 
-</td>
+<tr>
 
+<td> :family_man_woman_girl_girl: <code>family_man_woman_girl_girl</code> </td>
 
-</tr>
+<td> :family_woman_boy: <code>family_woman_boy</code> </td>
 
-<tr>
+<td> :family_woman_boy_boy: <code>family_woman_boy_boy</code> </td>
 
-<td> :medal_military:
+<td> :family_woman_girl: <code>family_woman_girl</code> </td>
 
-<code>medal_military</code> 
-</td>
+<td> :family_woman_girl_boy: <code>family_woman_girl_boy</code> </td>
 
-<td> :medal_sports:
 
-<code>medal_sports</code> 
-</td>
+</tr>
 
-<td> :medical_symbol:
+<tr>
 
-<code>medical_symbol</code> 
-</td>
+<td> :family_woman_girl_girl: <code>family_woman_girl_girl</code> </td>
 
-<td> :mega:
+<td> :family_woman_woman_boy: <code>family_woman_woman_boy</code> </td>
 
-<code>mega</code> 
-</td>
+<td> :family_woman_woman_boy_boy: <code>family_woman_woman_boy_boy</code> </td>
 
-<td> :melon:
+<td> :family_woman_woman_girl: <code>family_woman_woman_girl</code> </td>
 
-<code>melon</code> 
-</td>
+<td> :family_woman_woman_girl_boy: <code>family_woman_woman_girl_boy</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :memo:
-
-<code>memo</code> 
-</td>
 
-<td> :men_wrestling:
+<td> :family_woman_woman_girl_girl: <code>family_woman_woman_girl_girl</code> </td>
 
-<code>men_wrestling</code> 
-</td>
+<td> :farmer: <code>farmer</code> </td>
 
-<td> :menorah:
+<td> :faroe_islands: <code>faroe_islands</code> </td>
 
-<code>menorah</code> 
-</td>
+<td> :fast_forward: <code>fast_forward</code> </td>
 
-<td> :mens:
+<td> :fax: <code>fax</code> </td>
 
-<code>mens</code> 
-</td>
 
-<td> :mermaid:
+</tr>
 
-<code>mermaid</code> 
-</td>
+<tr>
 
+<td> :fearful: <code>fearful</code> </td>
 
-</tr>
+<td> :feelsgood: <code>feelsgood</code> </td>
 
-<tr>
+<td> :feet: <code>feet</code> </td>
 
-<td> :merman:
+<td> :female_detective: <code>female_detective</code> </td>
 
-<code>merman</code> 
-</td>
+<td> :female_sign: <code>female_sign</code> </td>
 
-<td> :merperson:
 
-<code>merperson</code> 
-</td>
+</tr>
 
-<td> :metal:
+<tr>
 
-<code>metal</code> 
-</td>
+<td> :ferris_wheel: <code>ferris_wheel</code> </td>
 
-<td> :metro:
+<td> :ferry: <code>ferry</code> </td>
 
-<code>metro</code> 
-</td>
+<td> :field_hockey: <code>field_hockey</code> </td>
 
-<td> :mexico:
+<td> :fiji: <code>fiji</code> </td>
 
-<code>mexico</code> 
-</td>
+<td> :file_cabinet: <code>file_cabinet</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :microbe:
-
-<code>microbe</code> 
-</td>
 
-<td> :micronesia:
+<td> :file_folder: <code>file_folder</code> </td>
 
-<code>micronesia</code> 
-</td>
+<td> :film_projector: <code>film_projector</code> </td>
 
-<td> :microphone:
+<td> :film_strip: <code>film_strip</code> </td>
 
-<code>microphone</code> 
-</td>
+<td> :finland: <code>finland</code> </td>
 
-<td> :microscope:
+<td> :finnadie: <code>finnadie</code> </td>
 
-<code>microscope</code> 
-</td>
 
-<td> :middle_finger:
+</tr>
 
-<code>middle_finger</code> 
-</td>
+<tr>
 
+<td> :fire: <code>fire</code> </td>
 
-</tr>
+<td> :fire_engine: <code>fire_engine</code> </td>
 
-<tr>
+<td> :fire_extinguisher: <code>fire_extinguisher</code> </td>
 
-<td> :milk_glass:
+<td> :firecracker: <code>firecracker</code> </td>
 
-<code>milk_glass</code> 
-</td>
+<td> :firefighter: <code>firefighter</code> </td>
 
-<td> :milky_way:
 
-<code>milky_way</code> 
-</td>
+</tr>
 
-<td> :minibus:
+<tr>
 
-<code>minibus</code> 
-</td>
+<td> :fireworks: <code>fireworks</code> </td>
 
-<td> :minidisc:
+<td> :first_quarter_moon: <code>first_quarter_moon</code> </td>
 
-<code>minidisc</code> 
-</td>
+<td> :first_quarter_moon_with_face: <code>first_quarter_moon_with_face</code> </td>
 
-<td> :mobile_phone_off:
+<td> :fish: <code>fish</code> </td>
 
-<code>mobile_phone_off</code> 
-</td>
+<td> :fish_cake: <code>fish_cake</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :moldova:
-
-<code>moldova</code> 
-</td>
 
-<td> :monaco:
+<td> :fishing_pole_and_fish: <code>fishing_pole_and_fish</code> </td>
 
-<code>monaco</code> 
-</td>
+<td> :fist: <code>fist</code> </td>
 
-<td> :money_mouth_face:
+<td> :fist_left: <code>fist_left</code> </td>
 
-<code>money_mouth_face</code> 
-</td>
+<td> :fist_oncoming: <code>fist_oncoming</code> </td>
 
-<td> :money_with_wings:
+<td> :fist_raised: <code>fist_raised</code> </td>
 
-<code>money_with_wings</code> 
-</td>
 
-<td> :moneybag:
+</tr>
 
-<code>moneybag</code> 
-</td>
+<tr>
 
+<td> :fist_right: <code>fist_right</code> </td>
 
-</tr>
+<td> :five: <code>five</code> </td>
 
-<tr>
+<td> :flags: <code>flags</code> </td>
 
-<td> :mongolia:
+<td> :flamingo: <code>flamingo</code> </td>
 
-<code>mongolia</code> 
-</td>
+<td> :flashlight: <code>flashlight</code> </td>
 
-<td> :monkey:
 
-<code>monkey</code> 
-</td>
+</tr>
 
-<td> :monkey_face:
+<tr>
 
-<code>monkey_face</code> 
-</td>
+<td> :flat_shoe: <code>flat_shoe</code> </td>
 
-<td> :monocle_face:
+<td> :fleur_de_lis: <code>fleur_de_lis</code> </td>
 
-<code>monocle_face</code> 
-</td>
+<td> :flight_arrival: <code>flight_arrival</code> </td>
 
-<td> :monorail:
+<td> :flight_departure: <code>flight_departure</code> </td>
 
-<code>monorail</code> 
-</td>
+<td> :flipper: <code>flipper</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :montenegro:
-
-<code>montenegro</code> 
-</td>
 
-<td> :montserrat:
+<td> :floppy_disk: <code>floppy_disk</code> </td>
 
-<code>montserrat</code> 
-</td>
+<td> :flower_playing_cards: <code>flower_playing_cards</code> </td>
 
-<td> :moon:
+<td> :flushed: <code>flushed</code> </td>
 
-<code>moon</code> 
-</td>
+<td> :flying_disc: <code>flying_disc</code> </td>
 
-<td> :moon_cake:
+<td> :flying_saucer: <code>flying_saucer</code> </td>
 
-<code>moon_cake</code> 
-</td>
 
-<td> :morocco:
+</tr>
 
-<code>morocco</code> 
-</td>
+<tr>
 
+<td> :fog: <code>fog</code> </td>
 
-</tr>
+<td> :foggy: <code>foggy</code> </td>
 
-<tr>
+<td> :foot: <code>foot</code> </td>
 
-<td> :mortar_board:
+<td> :football: <code>football</code> </td>
 
-<code>mortar_board</code> 
-</td>
+<td> :footprints: <code>footprints</code> </td>
 
-<td> :mosque:
 
-<code>mosque</code> 
-</td>
+</tr>
 
-<td> :mosquito:
+<tr>
 
-<code>mosquito</code> 
-</td>
+<td> :fork_and_knife: <code>fork_and_knife</code> </td>
 
-<td> :motor_boat:
+<td> :fortune_cookie: <code>fortune_cookie</code> </td>
 
-<code>motor_boat</code> 
-</td>
+<td> :fountain: <code>fountain</code> </td>
 
-<td> :motor_scooter:
+<td> :fountain_pen: <code>fountain_pen</code> </td>
 
-<code>motor_scooter</code> 
-</td>
+<td> :four: <code>four</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :motorcycle:
-
-<code>motorcycle</code> 
-</td>
 
-<td> :motorized_wheelchair:
+<td> :four_leaf_clover: <code>four_leaf_clover</code> </td>
 
-<code>motorized_wheelchair</code> 
-</td>
+<td> :fox_face: <code>fox_face</code> </td>
 
-<td> :motorway:
+<td> :fr: <code>fr</code> </td>
 
-<code>motorway</code> 
-</td>
+<td> :framed_picture: <code>framed_picture</code> </td>
 
-<td> :mount_fuji:
+<td> :free: <code>free</code> </td>
 
-<code>mount_fuji</code> 
-</td>
 
-<td> :mountain:
+</tr>
 
-<code>mountain</code> 
-</td>
+<tr>
 
+<td> :french_guiana: <code>french_guiana</code> </td>
 
-</tr>
+<td> :french_polynesia: <code>french_polynesia</code> </td>
 
-<tr>
+<td> :french_southern_territories: <code>french_southern_territories</code> </td>
 
-<td> :mountain_bicyclist:
+<td> :fried_egg: <code>fried_egg</code> </td>
 
-<code>mountain_bicyclist</code> 
-</td>
+<td> :fried_shrimp: <code>fried_shrimp</code> </td>
 
-<td> :mountain_biking_man:
 
-<code>mountain_biking_man</code> 
-</td>
+</tr>
 
-<td> :mountain_biking_woman:
+<tr>
 
-<code>mountain_biking_woman</code> 
-</td>
+<td> :fries: <code>fries</code> </td>
 
-<td> :mountain_cableway:
+<td> :frog: <code>frog</code> </td>
 
-<code>mountain_cableway</code> 
-</td>
+<td> :frowning: <code>frowning</code> </td>
 
-<td> :mountain_railway:
+<td> :frowning_face: <code>frowning_face</code> </td>
 
-<code>mountain_railway</code> 
-</td>
+<td> :frowning_man: <code>frowning_man</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :mountain_snow:
-
-<code>mountain_snow</code> 
-</td>
 
-<td> :mouse:
+<td> :frowning_person: <code>frowning_person</code> </td>
 
-<code>mouse</code> 
-</td>
+<td> :frowning_woman: <code>frowning_woman</code> </td>
 
-<td> :mouse2:
+<td> :fu: <code>fu</code> </td>
 
-<code>mouse2</code> 
-</td>
+<td> :fuelpump: <code>fuelpump</code> </td>
 
-<td> :movie_camera:
+<td> :full_moon: <code>full_moon</code> </td>
 
-<code>movie_camera</code> 
-</td>
 
-<td> :moyai:
+</tr>
 
-<code>moyai</code> 
-</td>
+<tr>
 
+<td> :full_moon_with_face: <code>full_moon_with_face</code> </td>
 
-</tr>
+<td> :funeral_urn: <code>funeral_urn</code> </td>
 
-<tr>
+<td> :gabon: <code>gabon</code> </td>
 
-<td> :mozambique:
+<td> :gambia: <code>gambia</code> </td>
 
-<code>mozambique</code> 
-</td>
+<td> :game_die: <code>game_die</code> </td>
 
-<td> :mrs_claus:
 
-<code>mrs_claus</code> 
-</td>
+</tr>
 
-<td> :muscle:
+<tr>
 
-<code>muscle</code> 
-</td>
+<td> :garlic: <code>garlic</code> </td>
 
-<td> :mushroom:
+<td> :gb: <code>gb</code> </td>
 
-<code>mushroom</code> 
-</td>
+<td> :gear: <code>gear</code> </td>
 
-<td> :musical_keyboard:
+<td> :gem: <code>gem</code> </td>
 
-<code>musical_keyboard</code> 
-</td>
+<td> :gemini: <code>gemini</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :musical_note:
-
-<code>musical_note</code> 
-</td>
 
-<td> :musical_score:
+<td> :genie: <code>genie</code> </td>
 
-<code>musical_score</code> 
-</td>
+<td> :genie_man: <code>genie_man</code> </td>
 
-<td> :mute:
+<td> :genie_woman: <code>genie_woman</code> </td>
 
-<code>mute</code> 
-</td>
+<td> :georgia: <code>georgia</code> </td>
 
-<td> :myanmar:
+<td> :ghana: <code>ghana</code> </td>
 
-<code>myanmar</code> 
-</td>
 
-<td> :nail_care:
+</tr>
 
-<code>nail_care</code> 
-</td>
+<tr>
 
+<td> :ghost: <code>ghost</code> </td>
 
-</tr>
+<td> :gibraltar: <code>gibraltar</code> </td>
 
-<tr>
+<td> :gift: <code>gift</code> </td>
 
-<td> :name_badge:
+<td> :gift_heart: <code>gift_heart</code> </td>
 
-<code>name_badge</code> 
-</td>
+<td> :giraffe: <code>giraffe</code> </td>
 
-<td> :namibia:
 
-<code>namibia</code> 
-</td>
+</tr>
 
-<td> :national_park:
+<tr>
 
-<code>national_park</code> 
-</td>
+<td> :girl: <code>girl</code> </td>
 
-<td> :nauru:
+<td> :globe_with_meridians: <code>globe_with_meridians</code> </td>
 
-<code>nauru</code> 
-</td>
+<td> :gloves: <code>gloves</code> </td>
 
-<td> :nauseated_face:
+<td> :goal_net: <code>goal_net</code> </td>
 
-<code>nauseated_face</code> 
-</td>
+<td> :goat: <code>goat</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :nazar_amulet:
-
-<code>nazar_amulet</code> 
-</td>
 
-<td> :neckbeard:
+<td> :goberserk: <code>goberserk</code> </td>
 
-<code>neckbeard</code> 
-</td>
+<td> :godmode: <code>godmode</code> </td>
 
-<td> :necktie:
+<td> :goggles: <code>goggles</code> </td>
 
-<code>necktie</code> 
-</td>
+<td> :golf: <code>golf</code> </td>
 
-<td> :negative_squared_cross_mark:
+<td> :golfing: <code>golfing</code> </td>
 
-<code>negative_squared_cross_mark</code> 
-</td>
 
-<td> :nepal:
+</tr>
 
-<code>nepal</code> 
-</td>
+<tr>
 
+<td> :golfing_man: <code>golfing_man</code> </td>
 
-</tr>
+<td> :golfing_woman: <code>golfing_woman</code> </td>
 
-<tr>
+<td> :gorilla: <code>gorilla</code> </td>
 
-<td> :nerd_face:
+<td> :grapes: <code>grapes</code> </td>
 
-<code>nerd_face</code> 
-</td>
+<td> :greece: <code>greece</code> </td>
 
-<td> :netherlands:
 
-<code>netherlands</code> 
-</td>
+</tr>
 
-<td> :neutral_face:
+<tr>
 
-<code>neutral_face</code> 
-</td>
+<td> :green_apple: <code>green_apple</code> </td>
 
-<td> :new:
+<td> :green_book: <code>green_book</code> </td>
 
-<code>new</code> 
-</td>
+<td> :green_circle: <code>green_circle</code> </td>
 
-<td> :new_caledonia:
+<td> :green_heart: <code>green_heart</code> </td>
 
-<code>new_caledonia</code> 
-</td>
+<td> :green_salad: <code>green_salad</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :new_moon:
-
-<code>new_moon</code> 
-</td>
 
-<td> :new_moon_with_face:
+<td> :green_square: <code>green_square</code> </td>
 
-<code>new_moon_with_face</code> 
-</td>
+<td> :greenland: <code>greenland</code> </td>
 
-<td> :new_zealand:
+<td> :grenada: <code>grenada</code> </td>
 
-<code>new_zealand</code> 
-</td>
+<td> :grey_exclamation: <code>grey_exclamation</code> </td>
 
-<td> :newspaper:
+<td> :grey_question: <code>grey_question</code> </td>
 
-<code>newspaper</code> 
-</td>
 
-<td> :newspaper_roll:
+</tr>
 
-<code>newspaper_roll</code> 
-</td>
+<tr>
 
+<td> :grimacing: <code>grimacing</code> </td>
 
-</tr>
+<td> :grin: <code>grin</code> </td>
 
-<tr>
+<td> :grinning: <code>grinning</code> </td>
 
-<td> :next_track_button:
+<td> :guadeloupe: <code>guadeloupe</code> </td>
 
-<code>next_track_button</code> 
-</td>
+<td> :guam: <code>guam</code> </td>
 
-<td> :ng:
 
-<code>ng</code> 
-</td>
+</tr>
 
-<td> :ng_man:
+<tr>
 
-<code>ng_man</code> 
-</td>
+<td> :guard: <code>guard</code> </td>
 
-<td> :ng_woman:
+<td> :guardsman: <code>guardsman</code> </td>
 
-<code>ng_woman</code> 
-</td>
+<td> :guardswoman: <code>guardswoman</code> </td>
 
-<td> :nicaragua:
+<td> :guatemala: <code>guatemala</code> </td>
 
-<code>nicaragua</code> 
-</td>
+<td> :guernsey: <code>guernsey</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :niger:
-
-<code>niger</code> 
-</td>
 
-<td> :nigeria:
+<td> :guide_dog: <code>guide_dog</code> </td>
 
-<code>nigeria</code> 
-</td>
+<td> :guinea: <code>guinea</code> </td>
 
-<td> :night_with_stars:
+<td> :guinea_bissau: <code>guinea_bissau</code> </td>
 
-<code>night_with_stars</code> 
-</td>
+<td> :guitar: <code>guitar</code> </td>
 
-<td> :nine:
+<td> :gun: <code>gun</code> </td>
 
-<code>nine</code> 
-</td>
 
-<td> :niue:
+</tr>
 
-<code>niue</code> 
-</td>
+<tr>
 
+<td> :guyana: <code>guyana</code> </td>
 
-</tr>
+<td> :haircut: <code>haircut</code> </td>
 
-<tr>
+<td> :haircut_man: <code>haircut_man</code> </td>
 
-<td> :no_bell:
+<td> :haircut_woman: <code>haircut_woman</code> </td>
 
-<code>no_bell</code> 
-</td>
+<td> :haiti: <code>haiti</code> </td>
 
-<td> :no_bicycles:
 
-<code>no_bicycles</code> 
-</td>
+</tr>
 
-<td> :no_entry:
+<tr>
 
-<code>no_entry</code> 
-</td>
+<td> :hamburger: <code>hamburger</code> </td>
 
-<td> :no_entry_sign:
+<td> :hammer: <code>hammer</code> </td>
 
-<code>no_entry_sign</code> 
-</td>
+<td> :hammer_and_pick: <code>hammer_and_pick</code> </td>
 
-<td> :no_good:
+<td> :hammer_and_wrench: <code>hammer_and_wrench</code> </td>
 
-<code>no_good</code> 
-</td>
+<td> :hamster: <code>hamster</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :no_good_man:
-
-<code>no_good_man</code> 
-</td>
 
-<td> :no_good_woman:
+<td> :hand: <code>hand</code> </td>
 
-<code>no_good_woman</code> 
-</td>
+<td> :hand_over_mouth: <code>hand_over_mouth</code> </td>
 
-<td> :no_mobile_phones:
+<td> :handbag: <code>handbag</code> </td>
 
-<code>no_mobile_phones</code> 
-</td>
+<td> :handball_person: <code>handball_person</code> </td>
 
-<td> :no_mouth:
+<td> :handshake: <code>handshake</code> </td>
 
-<code>no_mouth</code> 
-</td>
 
-<td> :no_pedestrians:
+</tr>
 
-<code>no_pedestrians</code> 
-</td>
+<tr>
 
+<td> :hankey: <code>hankey</code> </td>
 
-</tr>
+<td> :hash: <code>hash</code> </td>
 
-<tr>
+<td> :hatched_chick: <code>hatched_chick</code> </td>
 
-<td> :no_smoking:
+<td> :hatching_chick: <code>hatching_chick</code> </td>
 
-<code>no_smoking</code> 
-</td>
+<td> :headphones: <code>headphones</code> </td>
 
-<td> :non-potable_water:
 
-<code>non-potable_water</code> 
-</td>
+</tr>
 
-<td> :norfolk_island:
+<tr>
 
-<code>norfolk_island</code> 
-</td>
+<td> :health_worker: <code>health_worker</code> </td>
 
-<td> :north_korea:
+<td> :hear_no_evil: <code>hear_no_evil</code> </td>
 
-<code>north_korea</code> 
-</td>
+<td> :heard_mcdonald_islands: <code>heard_mcdonald_islands</code> </td>
 
-<td> :northern_mariana_islands:
+<td> :heart: <code>heart</code> </td>
 
-<code>northern_mariana_islands</code> 
-</td>
+<td> :heart_decoration: <code>heart_decoration</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :norway:
-
-<code>norway</code> 
-</td>
 
-<td> :nose:
+<td> :heart_eyes: <code>heart_eyes</code> </td>
 
-<code>nose</code> 
-</td>
+<td> :heart_eyes_cat: <code>heart_eyes_cat</code> </td>
 
-<td> :notebook:
+<td> :heartbeat: <code>heartbeat</code> </td>
 
-<code>notebook</code> 
-</td>
+<td> :heartpulse: <code>heartpulse</code> </td>
 
-<td> :notebook_with_decorative_cover:
+<td> :hearts: <code>hearts</code> </td>
 
-<code>notebook_with_decorative_cover</code> 
-</td>
 
-<td> :notes:
+</tr>
 
-<code>notes</code> 
-</td>
+<tr>
 
+<td> :heavy_check_mark: <code>heavy_check_mark</code> </td>
 
-</tr>
+<td> :heavy_division_sign: <code>heavy_division_sign</code> </td>
 
-<tr>
+<td> :heavy_dollar_sign: <code>heavy_dollar_sign</code> </td>
 
-<td> :nut_and_bolt:
+<td> :heavy_exclamation_mark: <code>heavy_exclamation_mark</code> </td>
 
-<code>nut_and_bolt</code> 
-</td>
+<td> :heavy_heart_exclamation: <code>heavy_heart_exclamation</code> </td>
 
-<td> :o:
 
-<code>o</code> 
-</td>
+</tr>
 
-<td> :o2:
+<tr>
 
-<code>o2</code> 
-</td>
+<td> :heavy_minus_sign: <code>heavy_minus_sign</code> </td>
 
-<td> :ocean:
+<td> :heavy_multiplication_x: <code>heavy_multiplication_x</code> </td>
 
-<code>ocean</code> 
-</td>
+<td> :heavy_plus_sign: <code>heavy_plus_sign</code> </td>
 
-<td> :octocat:
+<td> :hedgehog: <code>hedgehog</code> </td>
 
-<code>octocat</code> 
-</td>
+<td> :helicopter: <code>helicopter</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :octopus:
-
-<code>octopus</code> 
-</td>
 
-<td> :oden:
+<td> :herb: <code>herb</code> </td>
 
-<code>oden</code> 
-</td>
+<td> :hibiscus: <code>hibiscus</code> </td>
 
-<td> :office:
+<td> :high_brightness: <code>high_brightness</code> </td>
 
-<code>office</code> 
-</td>
+<td> :high_heel: <code>high_heel</code> </td>
 
-<td> :office_worker:
+<td> :hiking_boot: <code>hiking_boot</code> </td>
 
-<code>office_worker</code> 
-</td>
 
-<td> :oil_drum:
+</tr>
 
-<code>oil_drum</code> 
-</td>
+<tr>
 
+<td> :hindu_temple: <code>hindu_temple</code> </td>
 
-</tr>
+<td> :hippopotamus: <code>hippopotamus</code> </td>
 
-<tr>
+<td> :hocho: <code>hocho</code> </td>
 
-<td> :ok:
+<td> :hole: <code>hole</code> </td>
 
-<code>ok</code> 
-</td>
+<td> :honduras: <code>honduras</code> </td>
 
-<td> :ok_hand:
 
-<code>ok_hand</code> 
-</td>
+</tr>
 
-<td> :ok_man:
+<tr>
 
-<code>ok_man</code> 
-</td>
+<td> :honey_pot: <code>honey_pot</code> </td>
 
-<td> :ok_person:
+<td> :honeybee: <code>honeybee</code> </td>
 
-<code>ok_person</code> 
-</td>
+<td> :hong_kong: <code>hong_kong</code> </td>
 
-<td> :ok_woman:
+<td> :horse: <code>horse</code> </td>
 
-<code>ok_woman</code> 
-</td>
+<td> :horse_racing: <code>horse_racing</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :old_key:
-
-<code>old_key</code> 
-</td>
 
-<td> :older_adult:
+<td> :hospital: <code>hospital</code> </td>
 
-<code>older_adult</code> 
-</td>
+<td> :hot_face: <code>hot_face</code> </td>
 
-<td> :older_man:
+<td> :hot_pepper: <code>hot_pepper</code> </td>
 
-<code>older_man</code> 
-</td>
+<td> :hotdog: <code>hotdog</code> </td>
 
-<td> :older_woman:
+<td> :hotel: <code>hotel</code> </td>
 
-<code>older_woman</code> 
-</td>
 
-<td> :om:
+</tr>
 
-<code>om</code> 
-</td>
+<tr>
 
+<td> :hotsprings: <code>hotsprings</code> </td>
 
-</tr>
+<td> :hourglass: <code>hourglass</code> </td>
 
-<tr>
+<td> :hourglass_flowing_sand: <code>hourglass_flowing_sand</code> </td>
 
-<td> :oman:
+<td> :house: <code>house</code> </td>
 
-<code>oman</code> 
-</td>
+<td> :house_with_garden: <code>house_with_garden</code> </td>
 
-<td> :on:
 
-<code>on</code> 
-</td>
+</tr>
 
-<td> :oncoming_automobile:
+<tr>
 
-<code>oncoming_automobile</code> 
-</td>
+<td> :houses: <code>houses</code> </td>
 
-<td> :oncoming_bus:
+<td> :hugs: <code>hugs</code> </td>
 
-<code>oncoming_bus</code> 
-</td>
+<td> :hungary: <code>hungary</code> </td>
 
-<td> :oncoming_police_car:
+<td> :hurtrealbad: <code>hurtrealbad</code> </td>
 
-<code>oncoming_police_car</code> 
-</td>
+<td> :hushed: <code>hushed</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :oncoming_taxi:
-
-<code>oncoming_taxi</code> 
-</td>
 
-<td> :one:
+<td> :ice_cream: <code>ice_cream</code> </td>
 
-<code>one</code> 
-</td>
+<td> :ice_cube: <code>ice_cube</code> </td>
 
-<td> :one_piece_swimsuit:
+<td> :ice_hockey: <code>ice_hockey</code> </td>
 
-<code>one_piece_swimsuit</code> 
-</td>
+<td> :ice_skate: <code>ice_skate</code> </td>
 
-<td> :onion:
+<td> :icecream: <code>icecream</code> </td>
 
-<code>onion</code> 
-</td>
 
-<td> :open_book:
+</tr>
 
-<code>open_book</code> 
-</td>
+<tr>
 
+<td> :iceland: <code>iceland</code> </td>
 
-</tr>
+<td> :id: <code>id</code> </td>
 
-<tr>
+<td> :ideograph_advantage: <code>ideograph_advantage</code> </td>
 
-<td> :open_file_folder:
+<td> :imp: <code>imp</code> </td>
 
-<code>open_file_folder</code> 
-</td>
+<td> :inbox_tray: <code>inbox_tray</code> </td>
 
-<td> :open_hands:
 
-<code>open_hands</code> 
-</td>
+</tr>
 
-<td> :open_mouth:
+<tr>
 
-<code>open_mouth</code> 
-</td>
+<td> :incoming_envelope: <code>incoming_envelope</code> </td>
 
-<td> :open_umbrella:
+<td> :india: <code>india</code> </td>
 
-<code>open_umbrella</code> 
-</td>
+<td> :indonesia: <code>indonesia</code> </td>
 
-<td> :ophiuchus:
+<td> :infinity: <code>infinity</code> </td>
 
-<code>ophiuchus</code> 
-</td>
+<td> :information_desk_person: <code>information_desk_person</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :orange:
-
-<code>orange</code> 
-</td>
 
-<td> :orange_book:
+<td> :information_source: <code>information_source</code> </td>
 
-<code>orange_book</code> 
-</td>
+<td> :innocent: <code>innocent</code> </td>
 
-<td> :orange_circle:
+<td> :interrobang: <code>interrobang</code> </td>
 
-<code>orange_circle</code> 
-</td>
+<td> :iphone: <code>iphone</code> </td>
 
-<td> :orange_heart:
+<td> :iran: <code>iran</code> </td>
 
-<code>orange_heart</code> 
-</td>
 
-<td> :orange_square:
+</tr>
 
-<code>orange_square</code> 
-</td>
+<tr>
 
+<td> :iraq: <code>iraq</code> </td>
 
-</tr>
+<td> :ireland: <code>ireland</code> </td>
 
-<tr>
+<td> :isle_of_man: <code>isle_of_man</code> </td>
 
-<td> :orangutan:
+<td> :israel: <code>israel</code> </td>
 
-<code>orangutan</code> 
-</td>
+<td> :it: <code>it</code> </td>
 
-<td> :orthodox_cross:
 
-<code>orthodox_cross</code> 
-</td>
+</tr>
 
-<td> :otter:
+<tr>
 
-<code>otter</code> 
-</td>
+<td> :izakaya_lantern: <code>izakaya_lantern</code> </td>
 
-<td> :outbox_tray:
+<td> :jack_o_lantern: <code>jack_o_lantern</code> </td>
 
-<code>outbox_tray</code> 
-</td>
+<td> :jamaica: <code>jamaica</code> </td>
 
-<td> :owl:
+<td> :japan: <code>japan</code> </td>
 
-<code>owl</code> 
-</td>
+<td> :japanese_castle: <code>japanese_castle</code> </td>
 
 
 </tr>
 
 <tr>
+
+<td> :japanese_goblin: <code>japanese_goblin</code> </td>
+
+<td> :japanese_ogre: <code>japanese_ogre</code> </td>
 
-<td> :ox:
+<td> :jeans: <code>jeans</code> </td>
 
-<code>ox</code> 
-</td>
+<td> :jersey: <code>jersey</code> </td>
 
-<td> :oyster:
+<td> :jigsaw: <code>jigsaw</code> </td>
 
-<code>oyster</code> 
-</td>
 
-<td> :package:
+</tr>
+
+<tr>
 
-<code>package</code> 
-</td>
+<td> :jordan: <code>jordan</code> </td>
 
-<td> :page_facing_up:
+<td> :joy: <code>joy</code> </td>
 
-<code>page_facing_up</code> 
-</td>
+<td> :joy_cat: <code>joy_cat</code> </td>
 
-<td> :page_with_curl:
+<td> :joystick: <code>joystick</code> </td>
 
-<code>page_with_curl</code> 
-</td>
+<td> :jp: <code>jp</code> </td>
 
 
 </tr>
 
 <tr>
+
+<td> :judge: <code>judge</code> </td>
 
-<td> :pager:
+<td> :juggling_person: <code>juggling_person</code> </td>
 
-<code>pager</code> 
-</td>
+<td> :kaaba: <code>kaaba</code> </td>
 
-<td> :paintbrush:
+<td> :kangaroo: <code>kangaroo</code> </td>
 
-<code>paintbrush</code> 
-</td>
+<td> :kazakhstan: <code>kazakhstan</code> </td>
 
-<td> :pakistan:
 
-<code>pakistan</code> 
-</td>
+</tr>
 
-<td> :palau:
+<tr>
 
-<code>palau</code> 
-</td>
+<td> :kenya: <code>kenya</code> </td>
 
-<td> :palestinian_territories:
+<td> :key: <code>key</code> </td>
 
-<code>palestinian_territories</code> 
-</td>
+<td> :keyboard: <code>keyboard</code> </td>
 
+<td> :keycap_ten: <code>keycap_ten</code> </td>
 
-</tr>
+<td> :kick_scooter: <code>kick_scooter</code> </td>
 
-<tr>
 
-<td> :palm_tree:
+</tr>
 
-<code>palm_tree</code> 
-</td>
+<tr>
 
-<td> :palms_up_together:
+<td> :kimono: <code>kimono</code> </td>
 
-<code>palms_up_together</code> 
-</td>
+<td> :kiribati: <code>kiribati</code> </td>
 
-<td> :panama:
+<td> :kiss: <code>kiss</code> </td>
 
-<code>panama</code> 
-</td>
+<td> :kissing: <code>kissing</code> </td>
 
-<td> :pancakes:
+<td> :kissing_cat: <code>kissing_cat</code> </td>
 
-<code>pancakes</code> 
-</td>
 
-<td> :panda_face:
+</tr>
 
-<code>panda_face</code> 
-</td>
+<tr>
 
+<td> :kissing_closed_eyes: <code>kissing_closed_eyes</code> </td>
 
-</tr>
+<td> :kissing_heart: <code>kissing_heart</code> </td>
 
-<tr>
+<td> :kissing_smiling_eyes: <code>kissing_smiling_eyes</code> </td>
 
-<td> :paperclip:
+<td> :kite: <code>kite</code> </td>
 
-<code>paperclip</code> 
-</td>
+<td> :kiwi_fruit: <code>kiwi_fruit</code> </td>
 
-<td> :paperclips:
 
-<code>paperclips</code> 
-</td>
+</tr>
 
-<td> :papua_new_guinea:
+<tr>
 
-<code>papua_new_guinea</code> 
-</td>
+<td> :kneeling_man: <code>kneeling_man</code> </td>
 
-<td> :parachute:
+<td> :kneeling_person: <code>kneeling_person</code> </td>
 
-<code>parachute</code> 
-</td>
+<td> :kneeling_woman: <code>kneeling_woman</code> </td>
 
-<td> :paraguay:
+<td> :knife: <code>knife</code> </td>
 
-<code>paraguay</code> 
-</td>
+<td> :koala: <code>koala</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :parasol_on_ground:
 
-<code>parasol_on_ground</code> 
-</td>
+<td> :koko: <code>koko</code> </td>
 
-<td> :parking:
+<td> :kosovo: <code>kosovo</code> </td>
 
-<code>parking</code> 
-</td>
+<td> :kr: <code>kr</code> </td>
 
-<td> :parrot:
+<td> :kuwait: <code>kuwait</code> </td>
 
-<code>parrot</code> 
-</td>
+<td> :kyrgyzstan: <code>kyrgyzstan</code> </td>
 
-<td> :part_alternation_mark:
 
-<code>part_alternation_mark</code> 
-</td>
-
-<td> :partly_sunny:
+</tr>
 
-<code>partly_sunny</code> 
-</td>
+<tr>
 
+<td> :lab_coat: <code>lab_coat</code> </td>
 
-</tr>
+<td> :label: <code>label</code> </td>
 
-<tr>
+<td> :lacrosse: <code>lacrosse</code> </td>
 
-<td> :partying_face:
+<td> :lantern: <code>lantern</code> </td>
 
-<code>partying_face</code> 
-</td>
+<td> :laos: <code>laos</code> </td>
 
-<td> :passenger_ship:
 
-<code>passenger_ship</code> 
-</td>
+</tr>
 
-<td> :passport_control:
+<tr>
 
-<code>passport_control</code> 
-</td>
+<td> :large_blue_circle: <code>large_blue_circle</code> </td>
 
-<td> :pause_button:
+<td> :large_blue_diamond: <code>large_blue_diamond</code> </td>
 
-<code>pause_button</code> 
-</td>
+<td> :large_orange_diamond: <code>large_orange_diamond</code> </td>
 
-<td> :paw_prints:
+<td> :last_quarter_moon: <code>last_quarter_moon</code> </td>
 
-<code>paw_prints</code> 
-</td>
+<td> :last_quarter_moon_with_face: <code>last_quarter_moon_with_face</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :peace_symbol:
 
-<code>peace_symbol</code> 
-</td>
+<td> :latin_cross: <code>latin_cross</code> </td>
 
-<td> :peach:
+<td> :latvia: <code>latvia</code> </td>
 
-<code>peach</code> 
-</td>
+<td> :laughing: <code>laughing</code> </td>
 
-<td> :peacock:
+<td> :leafy_green: <code>leafy_green</code> </td>
 
-<code>peacock</code> 
-</td>
+<td> :leaves: <code>leaves</code> </td>
 
-<td> :peanuts:
 
-<code>peanuts</code> 
-</td>
-
-<td> :pear:
+</tr>
 
-<code>pear</code> 
-</td>
+<tr>
 
+<td> :lebanon: <code>lebanon</code> </td>
 
-</tr>
+<td> :ledger: <code>ledger</code> </td>
 
-<tr>
+<td> :left_luggage: <code>left_luggage</code> </td>
 
-<td> :pen:
+<td> :left_right_arrow: <code>left_right_arrow</code> </td>
 
-<code>pen</code> 
-</td>
+<td> :left_speech_bubble: <code>left_speech_bubble</code> </td>
 
-<td> :pencil:
 
-<code>pencil</code> 
-</td>
+</tr>
 
-<td> :pencil2:
+<tr>
 
-<code>pencil2</code> 
-</td>
+<td> :leftwards_arrow_with_hook: <code>leftwards_arrow_with_hook</code> </td>
 
-<td> :penguin:
+<td> :leg: <code>leg</code> </td>
 
-<code>penguin</code> 
-</td>
+<td> :lemon: <code>lemon</code> </td>
 
-<td> :pensive:
+<td> :leo: <code>leo</code> </td>
 
-<code>pensive</code> 
-</td>
+<td> :leopard: <code>leopard</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :people_holding_hands:
 
-<code>people_holding_hands</code> 
-</td>
+<td> :lesotho: <code>lesotho</code> </td>
 
-<td> :performing_arts:
+<td> :level_slider: <code>level_slider</code> </td>
 
-<code>performing_arts</code> 
-</td>
+<td> :liberia: <code>liberia</code> </td>
 
-<td> :persevere:
+<td> :libra: <code>libra</code> </td>
 
-<code>persevere</code> 
-</td>
+<td> :libya: <code>libya</code> </td>
 
-<td> :person_bald:
 
-<code>person_bald</code> 
-</td>
-
-<td> :person_curly_hair:
+</tr>
 
-<code>person_curly_hair</code> 
-</td>
+<tr>
 
+<td> :liechtenstein: <code>liechtenstein</code> </td>
 
-</tr>
+<td> :light_rail: <code>light_rail</code> </td>
 
-<tr>
+<td> :link: <code>link</code> </td>
 
-<td> :person_fencing:
+<td> :lion: <code>lion</code> </td>
 
-<code>person_fencing</code> 
-</td>
+<td> :lips: <code>lips</code> </td>
 
-<td> :person_in_manual_wheelchair:
 
-<code>person_in_manual_wheelchair</code> 
-</td>
+</tr>
 
-<td> :person_in_motorized_wheelchair:
+<tr>
 
-<code>person_in_motorized_wheelchair</code> 
-</td>
+<td> :lipstick: <code>lipstick</code> </td>
 
-<td> :person_red_hair:
+<td> :lithuania: <code>lithuania</code> </td>
 
-<code>person_red_hair</code> 
-</td>
+<td> :lizard: <code>lizard</code> </td>
 
-<td> :person_white_hair:
+<td> :llama: <code>llama</code> </td>
 
-<code>person_white_hair</code> 
-</td>
+<td> :lobster: <code>lobster</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :person_with_probing_cane:
 
-<code>person_with_probing_cane</code> 
-</td>
+<td> :lock: <code>lock</code> </td>
 
-<td> :person_with_turban:
+<td> :lock_with_ink_pen: <code>lock_with_ink_pen</code> </td>
 
-<code>person_with_turban</code> 
-</td>
+<td> :lollipop: <code>lollipop</code> </td>
 
-<td> :peru:
+<td> :loop: <code>loop</code> </td>
 
-<code>peru</code> 
-</td>
+<td> :lotion_bottle: <code>lotion_bottle</code> </td>
 
-<td> :petri_dish:
 
-<code>petri_dish</code> 
-</td>
-
-<td> :philippines:
+</tr>
 
-<code>philippines</code> 
-</td>
+<tr>
 
+<td> :lotus_position: <code>lotus_position</code> </td>
 
-</tr>
+<td> :lotus_position_man: <code>lotus_position_man</code> </td>
 
-<tr>
+<td> :lotus_position_woman: <code>lotus_position_woman</code> </td>
 
-<td> :phone:
+<td> :loud_sound: <code>loud_sound</code> </td>
 
-<code>phone</code> 
-</td>
+<td> :loudspeaker: <code>loudspeaker</code> </td>
 
-<td> :pick:
 
-<code>pick</code> 
-</td>
+</tr>
 
-<td> :pie:
+<tr>
 
-<code>pie</code> 
-</td>
+<td> :love_hotel: <code>love_hotel</code> </td>
 
-<td> :pig:
+<td> :love_letter: <code>love_letter</code> </td>
 
-<code>pig</code> 
-</td>
+<td> :love_you_gesture: <code>love_you_gesture</code> </td>
 
-<td> :pig2:
+<td> :low_brightness: <code>low_brightness</code> </td>
 
-<code>pig2</code> 
-</td>
+<td> :luggage: <code>luggage</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :pig_nose:
 
-<code>pig_nose</code> 
-</td>
+<td> :luxembourg: <code>luxembourg</code> </td>
 
-<td> :pill:
+<td> :lying_face: <code>lying_face</code> </td>
 
-<code>pill</code> 
-</td>
+<td> :m: <code>m</code> </td>
 
-<td> :pilot:
+<td> :macau: <code>macau</code> </td>
 
-<code>pilot</code> 
-</td>
+<td> :macedonia: <code>macedonia</code> </td>
 
-<td> :pinching_hand:
 
-<code>pinching_hand</code> 
-</td>
-
-<td> :pineapple:
+</tr>
 
-<code>pineapple</code> 
-</td>
+<tr>
 
+<td> :madagascar: <code>madagascar</code> </td>
 
-</tr>
+<td> :mag: <code>mag</code> </td>
 
-<tr>
+<td> :mag_right: <code>mag_right</code> </td>
 
-<td> :ping_pong:
+<td> :mage: <code>mage</code> </td>
 
-<code>ping_pong</code> 
-</td>
+<td> :mage_man: <code>mage_man</code> </td>
 
-<td> :pirate_flag:
 
-<code>pirate_flag</code> 
-</td>
+</tr>
 
-<td> :pisces:
+<tr>
 
-<code>pisces</code> 
-</td>
+<td> :mage_woman: <code>mage_woman</code> </td>
 
-<td> :pitcairn_islands:
+<td> :magnet: <code>magnet</code> </td>
 
-<code>pitcairn_islands</code> 
-</td>
+<td> :mahjong: <code>mahjong</code> </td>
 
-<td> :pizza:
+<td> :mailbox: <code>mailbox</code> </td>
 
-<code>pizza</code> 
-</td>
+<td> :mailbox_closed: <code>mailbox_closed</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :place_of_worship:
 
-<code>place_of_worship</code> 
-</td>
+<td> :mailbox_with_mail: <code>mailbox_with_mail</code> </td>
 
-<td> :plate_with_cutlery:
+<td> :mailbox_with_no_mail: <code>mailbox_with_no_mail</code> </td>
 
-<code>plate_with_cutlery</code> 
-</td>
+<td> :malawi: <code>malawi</code> </td>
 
-<td> :play_or_pause_button:
+<td> :malaysia: <code>malaysia</code> </td>
 
-<code>play_or_pause_button</code> 
-</td>
+<td> :maldives: <code>maldives</code> </td>
 
-<td> :pleading_face:
 
-<code>pleading_face</code> 
-</td>
-
-<td> :point_down:
+</tr>
 
-<code>point_down</code> 
-</td>
+<tr>
 
+<td> :male_detective: <code>male_detective</code> </td>
 
-</tr>
+<td> :male_sign: <code>male_sign</code> </td>
 
-<tr>
+<td> :mali: <code>mali</code> </td>
 
-<td> :point_left:
+<td> :malta: <code>malta</code> </td>
 
-<code>point_left</code> 
-</td>
+<td> :man: <code>man</code> </td>
 
-<td> :point_right:
 
-<code>point_right</code> 
-</td>
+</tr>
 
-<td> :point_up:
+<tr>
 
-<code>point_up</code> 
-</td>
+<td> :man_artist: <code>man_artist</code> </td>
 
-<td> :point_up_2:
+<td> :man_astronaut: <code>man_astronaut</code> </td>
 
-<code>point_up_2</code> 
-</td>
+<td> :man_cartwheeling: <code>man_cartwheeling</code> </td>
 
-<td> :poland:
+<td> :man_cook: <code>man_cook</code> </td>
 
-<code>poland</code> 
-</td>
+<td> :man_dancing: <code>man_dancing</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :police_car:
 
-<code>police_car</code> 
-</td>
+<td> :man_facepalming: <code>man_facepalming</code> </td>
 
-<td> :police_officer:
+<td> :man_factory_worker: <code>man_factory_worker</code> </td>
 
-<code>police_officer</code> 
-</td>
+<td> :man_farmer: <code>man_farmer</code> </td>
 
-<td> :policeman:
+<td> :man_firefighter: <code>man_firefighter</code> </td>
 
-<code>policeman</code> 
-</td>
+<td> :man_health_worker: <code>man_health_worker</code> </td>
 
-<td> :policewoman:
 
-<code>policewoman</code> 
-</td>
-
-<td> :poodle:
+</tr>
 
-<code>poodle</code> 
-</td>
+<tr>
 
+<td> :man_in_manual_wheelchair: <code>man_in_manual_wheelchair</code> </td>
 
-</tr>
+<td> :man_in_motorized_wheelchair: <code>man_in_motorized_wheelchair</code> </td>
 
-<tr>
+<td> :man_in_tuxedo: <code>man_in_tuxedo</code> </td>
 
-<td> :poop:
+<td> :man_judge: <code>man_judge</code> </td>
 
-<code>poop</code> 
-</td>
+<td> :man_juggling: <code>man_juggling</code> </td>
 
-<td> :popcorn:
 
-<code>popcorn</code> 
-</td>
+</tr>
 
-<td> :portugal:
+<tr>
 
-<code>portugal</code> 
-</td>
+<td> :man_mechanic: <code>man_mechanic</code> </td>
 
-<td> :post_office:
+<td> :man_office_worker: <code>man_office_worker</code> </td>
 
-<code>post_office</code> 
-</td>
+<td> :man_pilot: <code>man_pilot</code> </td>
 
-<td> :postal_horn:
+<td> :man_playing_handball: <code>man_playing_handball</code> </td>
 
-<code>postal_horn</code> 
-</td>
+<td> :man_playing_water_polo: <code>man_playing_water_polo</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :postbox:
 
-<code>postbox</code> 
-</td>
+<td> :man_scientist: <code>man_scientist</code> </td>
 
-<td> :potable_water:
+<td> :man_shrugging: <code>man_shrugging</code> </td>
 
-<code>potable_water</code> 
-</td>
+<td> :man_singer: <code>man_singer</code> </td>
 
-<td> :potato:
+<td> :man_student: <code>man_student</code> </td>
 
-<code>potato</code> 
-</td>
+<td> :man_teacher: <code>man_teacher</code> </td>
 
-<td> :pouch:
 
-<code>pouch</code> 
-</td>
-
-<td> :poultry_leg:
+</tr>
 
-<code>poultry_leg</code> 
-</td>
+<tr>
 
+<td> :man_technologist: <code>man_technologist</code> </td>
 
-</tr>
+<td> :man_with_gua_pi_mao: <code>man_with_gua_pi_mao</code> </td>
 
-<tr>
+<td> :man_with_probing_cane: <code>man_with_probing_cane</code> </td>
 
-<td> :pound:
+<td> :man_with_turban: <code>man_with_turban</code> </td>
 
-<code>pound</code> 
-</td>
+<td> :mandarin: <code>mandarin</code> </td>
 
-<td> :pout:
 
-<code>pout</code> 
-</td>
+</tr>
 
-<td> :pouting_cat:
+<tr>
 
-<code>pouting_cat</code> 
-</td>
+<td> :mango: <code>mango</code> </td>
 
-<td> :pouting_face:
+<td> :mans_shoe: <code>mans_shoe</code> </td>
 
-<code>pouting_face</code> 
-</td>
+<td> :mantelpiece_clock: <code>mantelpiece_clock</code> </td>
 
-<td> :pouting_man:
+<td> :manual_wheelchair: <code>manual_wheelchair</code> </td>
 
-<code>pouting_man</code> 
-</td>
+<td> :maple_leaf: <code>maple_leaf</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :pouting_woman:
 
-<code>pouting_woman</code> 
-</td>
+<td> :marshall_islands: <code>marshall_islands</code> </td>
 
-<td> :pray:
+<td> :martial_arts_uniform: <code>martial_arts_uniform</code> </td>
 
-<code>pray</code> 
-</td>
+<td> :martinique: <code>martinique</code> </td>
 
-<td> :prayer_beads:
+<td> :mask: <code>mask</code> </td>
 
-<code>prayer_beads</code> 
-</td>
+<td> :massage: <code>massage</code> </td>
 
-<td> :pregnant_woman:
 
-<code>pregnant_woman</code> 
-</td>
-
-<td> :pretzel:
+</tr>
 
-<code>pretzel</code> 
-</td>
+<tr>
 
+<td> :massage_man: <code>massage_man</code> </td>
 
-</tr>
+<td> :massage_woman: <code>massage_woman</code> </td>
 
-<tr>
+<td> :mate: <code>mate</code> </td>
 
-<td> :previous_track_button:
+<td> :mauritania: <code>mauritania</code> </td>
 
-<code>previous_track_button</code> 
-</td>
+<td> :mauritius: <code>mauritius</code> </td>
 
-<td> :prince:
 
-<code>prince</code> 
-</td>
+</tr>
 
-<td> :princess:
+<tr>
 
-<code>princess</code> 
-</td>
+<td> :mayotte: <code>mayotte</code> </td>
 
-<td> :printer:
+<td> :meat_on_bone: <code>meat_on_bone</code> </td>
 
-<code>printer</code> 
-</td>
+<td> :mechanic: <code>mechanic</code> </td>
 
-<td> :probing_cane:
+<td> :mechanical_arm: <code>mechanical_arm</code> </td>
 
-<code>probing_cane</code> 
-</td>
+<td> :mechanical_leg: <code>mechanical_leg</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :puerto_rico:
 
-<code>puerto_rico</code> 
-</td>
+<td> :medal_military: <code>medal_military</code> </td>
 
-<td> :punch:
+<td> :medal_sports: <code>medal_sports</code> </td>
 
-<code>punch</code> 
-</td>
+<td> :medical_symbol: <code>medical_symbol</code> </td>
 
-<td> :purple_circle:
+<td> :mega: <code>mega</code> </td>
 
-<code>purple_circle</code> 
-</td>
+<td> :melon: <code>melon</code> </td>
 
-<td> :purple_heart:
 
-<code>purple_heart</code> 
-</td>
-
-<td> :purple_square:
+</tr>
 
-<code>purple_square</code> 
-</td>
+<tr>
 
+<td> :memo: <code>memo</code> </td>
 
-</tr>
+<td> :men_wrestling: <code>men_wrestling</code> </td>
 
-<tr>
+<td> :menorah: <code>menorah</code> </td>
 
-<td> :purse:
+<td> :mens: <code>mens</code> </td>
 
-<code>purse</code> 
-</td>
+<td> :mermaid: <code>mermaid</code> </td>
 
-<td> :pushpin:
 
-<code>pushpin</code> 
-</td>
+</tr>
 
-<td> :put_litter_in_its_place:
+<tr>
 
-<code>put_litter_in_its_place</code> 
-</td>
+<td> :merman: <code>merman</code> </td>
 
-<td> :qatar:
+<td> :merperson: <code>merperson</code> </td>
 
-<code>qatar</code> 
-</td>
+<td> :metal: <code>metal</code> </td>
 
-<td> :question:
+<td> :metro: <code>metro</code> </td>
 
-<code>question</code> 
-</td>
+<td> :mexico: <code>mexico</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :rabbit:
 
-<code>rabbit</code> 
-</td>
+<td> :microbe: <code>microbe</code> </td>
 
-<td> :rabbit2:
+<td> :micronesia: <code>micronesia</code> </td>
 
-<code>rabbit2</code> 
-</td>
+<td> :microphone: <code>microphone</code> </td>
 
-<td> :raccoon:
+<td> :microscope: <code>microscope</code> </td>
 
-<code>raccoon</code> 
-</td>
+<td> :middle_finger: <code>middle_finger</code> </td>
 
-<td> :racehorse:
 
-<code>racehorse</code> 
-</td>
-
-<td> :racing_car:
+</tr>
 
-<code>racing_car</code> 
-</td>
+<tr>
 
+<td> :milk_glass: <code>milk_glass</code> </td>
 
-</tr>
+<td> :milky_way: <code>milky_way</code> </td>
 
-<tr>
+<td> :minibus: <code>minibus</code> </td>
 
-<td> :radio:
+<td> :minidisc: <code>minidisc</code> </td>
 
-<code>radio</code> 
-</td>
+<td> :mobile_phone_off: <code>mobile_phone_off</code> </td>
 
-<td> :radio_button:
 
-<code>radio_button</code> 
-</td>
+</tr>
 
-<td> :radioactive:
+<tr>
 
-<code>radioactive</code> 
-</td>
+<td> :moldova: <code>moldova</code> </td>
 
-<td> :rage:
+<td> :monaco: <code>monaco</code> </td>
 
-<code>rage</code> 
-</td>
+<td> :money_mouth_face: <code>money_mouth_face</code> </td>
 
-<td> :rage1:
+<td> :money_with_wings: <code>money_with_wings</code> </td>
 
-<code>rage1</code> 
-</td>
+<td> :moneybag: <code>moneybag</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :rage2:
 
-<code>rage2</code> 
-</td>
+<td> :mongolia: <code>mongolia</code> </td>
 
-<td> :rage3:
+<td> :monkey: <code>monkey</code> </td>
 
-<code>rage3</code> 
-</td>
+<td> :monkey_face: <code>monkey_face</code> </td>
 
-<td> :rage4:
+<td> :monocle_face: <code>monocle_face</code> </td>
 
-<code>rage4</code> 
-</td>
+<td> :monorail: <code>monorail</code> </td>
 
-<td> :railway_car:
 
-<code>railway_car</code> 
-</td>
-
-<td> :railway_track:
+</tr>
 
-<code>railway_track</code> 
-</td>
+<tr>
 
+<td> :montenegro: <code>montenegro</code> </td>
 
-</tr>
+<td> :montserrat: <code>montserrat</code> </td>
 
-<tr>
+<td> :moon: <code>moon</code> </td>
 
-<td> :rainbow:
+<td> :moon_cake: <code>moon_cake</code> </td>
 
-<code>rainbow</code> 
-</td>
+<td> :morocco: <code>morocco</code> </td>
 
-<td> :rainbow_flag:
 
-<code>rainbow_flag</code> 
-</td>
+</tr>
 
-<td> :raised_back_of_hand:
+<tr>
 
-<code>raised_back_of_hand</code> 
-</td>
+<td> :mortar_board: <code>mortar_board</code> </td>
 
-<td> :raised_eyebrow:
+<td> :mosque: <code>mosque</code> </td>
 
-<code>raised_eyebrow</code> 
-</td>
+<td> :mosquito: <code>mosquito</code> </td>
 
-<td> :raised_hand:
+<td> :motor_boat: <code>motor_boat</code> </td>
 
-<code>raised_hand</code> 
-</td>
+<td> :motor_scooter: <code>motor_scooter</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :raised_hand_with_fingers_splayed:
 
-<code>raised_hand_with_fingers_splayed</code> 
-</td>
+<td> :motorcycle: <code>motorcycle</code> </td>
 
-<td> :raised_hands:
+<td> :motorized_wheelchair: <code>motorized_wheelchair</code> </td>
 
-<code>raised_hands</code> 
-</td>
+<td> :motorway: <code>motorway</code> </td>
 
-<td> :raising_hand:
+<td> :mount_fuji: <code>mount_fuji</code> </td>
 
-<code>raising_hand</code> 
-</td>
+<td> :mountain: <code>mountain</code> </td>
 
-<td> :raising_hand_man:
 
-<code>raising_hand_man</code> 
-</td>
-
-<td> :raising_hand_woman:
+</tr>
 
-<code>raising_hand_woman</code> 
-</td>
+<tr>
 
+<td> :mountain_bicyclist: <code>mountain_bicyclist</code> </td>
 
-</tr>
+<td> :mountain_biking_man: <code>mountain_biking_man</code> </td>
 
-<tr>
+<td> :mountain_biking_woman: <code>mountain_biking_woman</code> </td>
 
-<td> :ram:
+<td> :mountain_cableway: <code>mountain_cableway</code> </td>
 
-<code>ram</code> 
-</td>
+<td> :mountain_railway: <code>mountain_railway</code> </td>
 
-<td> :ramen:
 
-<code>ramen</code> 
-</td>
+</tr>
 
-<td> :rat:
+<tr>
 
-<code>rat</code> 
-</td>
+<td> :mountain_snow: <code>mountain_snow</code> </td>
 
-<td> :razor:
+<td> :mouse: <code>mouse</code> </td>
 
-<code>razor</code> 
-</td>
+<td> :mouse2: <code>mouse2</code> </td>
 
-<td> :receipt:
+<td> :movie_camera: <code>movie_camera</code> </td>
 
-<code>receipt</code> 
-</td>
+<td> :moyai: <code>moyai</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :record_button:
 
-<code>record_button</code> 
-</td>
+<td> :mozambique: <code>mozambique</code> </td>
 
-<td> :recycle:
+<td> :mrs_claus: <code>mrs_claus</code> </td>
 
-<code>recycle</code> 
-</td>
+<td> :muscle: <code>muscle</code> </td>
 
-<td> :red_car:
+<td> :mushroom: <code>mushroom</code> </td>
 
-<code>red_car</code> 
-</td>
+<td> :musical_keyboard: <code>musical_keyboard</code> </td>
 
-<td> :red_circle:
 
-<code>red_circle</code> 
-</td>
-
-<td> :red_envelope:
+</tr>
 
-<code>red_envelope</code> 
-</td>
+<tr>
 
+<td> :musical_note: <code>musical_note</code> </td>
 
-</tr>
+<td> :musical_score: <code>musical_score</code> </td>
 
-<tr>
+<td> :mute: <code>mute</code> </td>
 
-<td> :red_haired_man:
+<td> :myanmar: <code>myanmar</code> </td>
 
-<code>red_haired_man</code> 
-</td>
+<td> :nail_care: <code>nail_care</code> </td>
 
-<td> :red_haired_woman:
 
-<code>red_haired_woman</code> 
-</td>
+</tr>
 
-<td> :red_square:
+<tr>
 
-<code>red_square</code> 
-</td>
+<td> :name_badge: <code>name_badge</code> </td>
 
-<td> :registered:
+<td> :namibia: <code>namibia</code> </td>
 
-<code>registered</code> 
-</td>
+<td> :national_park: <code>national_park</code> </td>
 
-<td> :relaxed:
+<td> :nauru: <code>nauru</code> </td>
 
-<code>relaxed</code> 
-</td>
+<td> :nauseated_face: <code>nauseated_face</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :relieved:
 
-<code>relieved</code> 
-</td>
+<td> :nazar_amulet: <code>nazar_amulet</code> </td>
 
-<td> :reminder_ribbon:
+<td> :neckbeard: <code>neckbeard</code> </td>
 
-<code>reminder_ribbon</code> 
-</td>
+<td> :necktie: <code>necktie</code> </td>
 
-<td> :repeat:
+<td> :negative_squared_cross_mark: <code>negative_squared_cross_mark</code> </td>
 
-<code>repeat</code> 
-</td>
+<td> :nepal: <code>nepal</code> </td>
 
-<td> :repeat_one:
 
-<code>repeat_one</code> 
-</td>
-
-<td> :rescue_worker_helmet:
+</tr>
 
-<code>rescue_worker_helmet</code> 
-</td>
+<tr>
 
+<td> :nerd_face: <code>nerd_face</code> </td>
 
-</tr>
+<td> :netherlands: <code>netherlands</code> </td>
 
-<tr>
+<td> :neutral_face: <code>neutral_face</code> </td>
 
-<td> :restroom:
+<td> :new: <code>new</code> </td>
 
-<code>restroom</code> 
-</td>
+<td> :new_caledonia: <code>new_caledonia</code> </td>
 
-<td> :reunion:
 
-<code>reunion</code> 
-</td>
+</tr>
 
-<td> :revolving_hearts:
+<tr>
 
-<code>revolving_hearts</code> 
-</td>
+<td> :new_moon: <code>new_moon</code> </td>
 
-<td> :rewind:
+<td> :new_moon_with_face: <code>new_moon_with_face</code> </td>
 
-<code>rewind</code> 
-</td>
+<td> :new_zealand: <code>new_zealand</code> </td>
 
-<td> :rhinoceros:
+<td> :newspaper: <code>newspaper</code> </td>
 
-<code>rhinoceros</code> 
-</td>
+<td> :newspaper_roll: <code>newspaper_roll</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :ribbon:
 
-<code>ribbon</code> 
-</td>
+<td> :next_track_button: <code>next_track_button</code> </td>
 
-<td> :rice:
+<td> :ng: <code>ng</code> </td>
 
-<code>rice</code> 
-</td>
+<td> :ng_man: <code>ng_man</code> </td>
 
-<td> :rice_ball:
+<td> :ng_woman: <code>ng_woman</code> </td>
 
-<code>rice_ball</code> 
-</td>
+<td> :nicaragua: <code>nicaragua</code> </td>
 
-<td> :rice_cracker:
 
-<code>rice_cracker</code> 
-</td>
-
-<td> :rice_scene:
+</tr>
 
-<code>rice_scene</code> 
-</td>
+<tr>
 
+<td> :niger: <code>niger</code> </td>
 
-</tr>
+<td> :nigeria: <code>nigeria</code> </td>
 
-<tr>
+<td> :night_with_stars: <code>night_with_stars</code> </td>
 
-<td> :right_anger_bubble:
+<td> :nine: <code>nine</code> </td>
 
-<code>right_anger_bubble</code> 
-</td>
+<td> :niue: <code>niue</code> </td>
 
-<td> :ring:
 
-<code>ring</code> 
-</td>
+</tr>
 
-<td> :ringed_planet:
+<tr>
 
-<code>ringed_planet</code> 
-</td>
+<td> :no_bell: <code>no_bell</code> </td>
 
-<td> :robot:
+<td> :no_bicycles: <code>no_bicycles</code> </td>
 
-<code>robot</code> 
-</td>
+<td> :no_entry: <code>no_entry</code> </td>
 
-<td> :rocket:
+<td> :no_entry_sign: <code>no_entry_sign</code> </td>
 
-<code>rocket</code> 
-</td>
+<td> :no_good: <code>no_good</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :rofl:
 
-<code>rofl</code> 
-</td>
+<td> :no_good_man: <code>no_good_man</code> </td>
 
-<td> :roll_eyes:
+<td> :no_good_woman: <code>no_good_woman</code> </td>
 
-<code>roll_eyes</code> 
-</td>
+<td> :no_mobile_phones: <code>no_mobile_phones</code> </td>
 
-<td> :roll_of_paper:
+<td> :no_mouth: <code>no_mouth</code> </td>
 
-<code>roll_of_paper</code> 
-</td>
+<td> :no_pedestrians: <code>no_pedestrians</code> </td>
 
-<td> :roller_coaster:
 
-<code>roller_coaster</code> 
-</td>
-
-<td> :romania:
+</tr>
 
-<code>romania</code> 
-</td>
+<tr>
 
+<td> :no_smoking: <code>no_smoking</code> </td>
 
-</tr>
+<td> :non-potable_water: <code>non-potable_water</code> </td>
 
-<tr>
+<td> :norfolk_island: <code>norfolk_island</code> </td>
 
-<td> :rooster:
+<td> :north_korea: <code>north_korea</code> </td>
 
-<code>rooster</code> 
-</td>
+<td> :northern_mariana_islands: <code>northern_mariana_islands</code> </td>
 
-<td> :rose:
 
-<code>rose</code> 
-</td>
+</tr>
 
-<td> :rosette:
+<tr>
 
-<code>rosette</code> 
-</td>
+<td> :norway: <code>norway</code> </td>
 
-<td> :rotating_light:
+<td> :nose: <code>nose</code> </td>
 
-<code>rotating_light</code> 
-</td>
+<td> :notebook: <code>notebook</code> </td>
 
-<td> :round_pushpin:
+<td> :notebook_with_decorative_cover: <code>notebook_with_decorative_cover</code> </td>
 
-<code>round_pushpin</code> 
-</td>
+<td> :notes: <code>notes</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :rowboat:
 
-<code>rowboat</code> 
-</td>
+<td> :nut_and_bolt: <code>nut_and_bolt</code> </td>
 
-<td> :rowing_man:
+<td> :o: <code>o</code> </td>
 
-<code>rowing_man</code> 
-</td>
+<td> :o2: <code>o2</code> </td>
 
-<td> :rowing_woman:
+<td> :ocean: <code>ocean</code> </td>
 
-<code>rowing_woman</code> 
-</td>
+<td> :octocat: <code>octocat</code> </td>
 
-<td> :ru:
 
-<code>ru</code> 
-</td>
-
-<td> :rugby_football:
+</tr>
 
-<code>rugby_football</code> 
-</td>
+<tr>
 
+<td> :octopus: <code>octopus</code> </td>
 
-</tr>
+<td> :oden: <code>oden</code> </td>
 
-<tr>
+<td> :office: <code>office</code> </td>
 
-<td> :runner:
+<td> :office_worker: <code>office_worker</code> </td>
 
-<code>runner</code> 
-</td>
+<td> :oil_drum: <code>oil_drum</code> </td>
 
-<td> :running:
 
-<code>running</code> 
-</td>
+</tr>
 
-<td> :running_man:
+<tr>
 
-<code>running_man</code> 
-</td>
+<td> :ok: <code>ok</code> </td>
 
-<td> :running_shirt_with_sash:
+<td> :ok_hand: <code>ok_hand</code> </td>
 
-<code>running_shirt_with_sash</code> 
-</td>
+<td> :ok_man: <code>ok_man</code> </td>
 
-<td> :running_woman:
+<td> :ok_person: <code>ok_person</code> </td>
 
-<code>running_woman</code> 
-</td>
+<td> :ok_woman: <code>ok_woman</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :rwanda:
 
-<code>rwanda</code> 
-</td>
+<td> :old_key: <code>old_key</code> </td>
 
-<td> :sa:
+<td> :older_adult: <code>older_adult</code> </td>
 
-<code>sa</code> 
-</td>
+<td> :older_man: <code>older_man</code> </td>
 
-<td> :safety_pin:
+<td> :older_woman: <code>older_woman</code> </td>
 
-<code>safety_pin</code> 
-</td>
+<td> :om: <code>om</code> </td>
 
-<td> :safety_vest:
 
-<code>safety_vest</code> 
-</td>
-
-<td> :sagittarius:
+</tr>
 
-<code>sagittarius</code> 
-</td>
+<tr>
 
+<td> :oman: <code>oman</code> </td>
 
-</tr>
+<td> :on: <code>on</code> </td>
 
-<tr>
+<td> :oncoming_automobile: <code>oncoming_automobile</code> </td>
 
-<td> :sailboat:
+<td> :oncoming_bus: <code>oncoming_bus</code> </td>
 
-<code>sailboat</code> 
-</td>
+<td> :oncoming_police_car: <code>oncoming_police_car</code> </td>
 
-<td> :sake:
 
-<code>sake</code> 
-</td>
+</tr>
 
-<td> :salt:
+<tr>
 
-<code>salt</code> 
-</td>
+<td> :oncoming_taxi: <code>oncoming_taxi</code> </td>
 
-<td> :samoa:
+<td> :one: <code>one</code> </td>
 
-<code>samoa</code> 
-</td>
+<td> :one_piece_swimsuit: <code>one_piece_swimsuit</code> </td>
 
-<td> :san_marino:
+<td> :onion: <code>onion</code> </td>
 
-<code>san_marino</code> 
-</td>
+<td> :open_book: <code>open_book</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :sandal:
 
-<code>sandal</code> 
-</td>
+<td> :open_file_folder: <code>open_file_folder</code> </td>
 
-<td> :sandwich:
+<td> :open_hands: <code>open_hands</code> </td>
 
-<code>sandwich</code> 
-</td>
+<td> :open_mouth: <code>open_mouth</code> </td>
 
-<td> :santa:
+<td> :open_umbrella: <code>open_umbrella</code> </td>
 
-<code>santa</code> 
-</td>
+<td> :ophiuchus: <code>ophiuchus</code> </td>
 
-<td> :sao_tome_principe:
 
-<code>sao_tome_principe</code> 
-</td>
-
-<td> :sari:
+</tr>
 
-<code>sari</code> 
-</td>
+<tr>
 
+<td> :orange: <code>orange</code> </td>
 
-</tr>
+<td> :orange_book: <code>orange_book</code> </td>
 
-<tr>
+<td> :orange_circle: <code>orange_circle</code> </td>
 
-<td> :sassy_man:
+<td> :orange_heart: <code>orange_heart</code> </td>
 
-<code>sassy_man</code> 
-</td>
+<td> :orange_square: <code>orange_square</code> </td>
 
-<td> :sassy_woman:
 
-<code>sassy_woman</code> 
-</td>
+</tr>
 
-<td> :satellite:
+<tr>
 
-<code>satellite</code> 
-</td>
+<td> :orangutan: <code>orangutan</code> </td>
 
-<td> :satisfied:
+<td> :orthodox_cross: <code>orthodox_cross</code> </td>
 
-<code>satisfied</code> 
-</td>
+<td> :otter: <code>otter</code> </td>
 
-<td> :saudi_arabia:
+<td> :outbox_tray: <code>outbox_tray</code> </td>
 
-<code>saudi_arabia</code> 
-</td>
+<td> :owl: <code>owl</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :sauna_man:
 
-<code>sauna_man</code> 
-</td>
+<td> :ox: <code>ox</code> </td>
 
-<td> :sauna_person:
+<td> :oyster: <code>oyster</code> </td>
 
-<code>sauna_person</code> 
-</td>
+<td> :package: <code>package</code> </td>
 
-<td> :sauna_woman:
+<td> :page_facing_up: <code>page_facing_up</code> </td>
 
-<code>sauna_woman</code> 
-</td>
+<td> :page_with_curl: <code>page_with_curl</code> </td>
 
-<td> :sauropod:
 
-<code>sauropod</code> 
-</td>
-
-<td> :saxophone:
+</tr>
 
-<code>saxophone</code> 
-</td>
+<tr>
 
+<td> :pager: <code>pager</code> </td>
 
-</tr>
+<td> :paintbrush: <code>paintbrush</code> </td>
 
-<tr>
+<td> :pakistan: <code>pakistan</code> </td>
 
-<td> :scarf:
+<td> :palau: <code>palau</code> </td>
 
-<code>scarf</code> 
-</td>
+<td> :palestinian_territories: <code>palestinian_territories</code> </td>
 
-<td> :school:
 
-<code>school</code> 
-</td>
+</tr>
 
-<td> :school_satchel:
+<tr>
 
-<code>school_satchel</code> 
-</td>
+<td> :palm_tree: <code>palm_tree</code> </td>
 
-<td> :scientist:
+<td> :palms_up_together: <code>palms_up_together</code> </td>
 
-<code>scientist</code> 
-</td>
+<td> :panama: <code>panama</code> </td>
 
-<td> :scissors:
+<td> :pancakes: <code>pancakes</code> </td>
 
-<code>scissors</code> 
-</td>
+<td> :panda_face: <code>panda_face</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :scorpion:
 
-<code>scorpion</code> 
-</td>
+<td> :paperclip: <code>paperclip</code> </td>
 
-<td> :scorpius:
+<td> :paperclips: <code>paperclips</code> </td>
 
-<code>scorpius</code> 
-</td>
+<td> :papua_new_guinea: <code>papua_new_guinea</code> </td>
 
-<td> :scotland:
+<td> :parachute: <code>parachute</code> </td>
 
-<code>scotland</code> 
-</td>
+<td> :paraguay: <code>paraguay</code> </td>
 
-<td> :scream:
 
-<code>scream</code> 
-</td>
-
-<td> :scream_cat:
+</tr>
 
-<code>scream_cat</code> 
-</td>
+<tr>
 
+<td> :parasol_on_ground: <code>parasol_on_ground</code> </td>
 
-</tr>
+<td> :parking: <code>parking</code> </td>
 
-<tr>
+<td> :parrot: <code>parrot</code> </td>
 
-<td> :scroll:
+<td> :part_alternation_mark: <code>part_alternation_mark</code> </td>
 
-<code>scroll</code> 
-</td>
+<td> :partly_sunny: <code>partly_sunny</code> </td>
 
-<td> :seat:
 
-<code>seat</code> 
-</td>
+</tr>
 
-<td> :secret:
+<tr>
 
-<code>secret</code> 
-</td>
+<td> :partying_face: <code>partying_face</code> </td>
 
-<td> :see_no_evil:
+<td> :passenger_ship: <code>passenger_ship</code> </td>
 
-<code>see_no_evil</code> 
-</td>
+<td> :passport_control: <code>passport_control</code> </td>
 
-<td> :seedling:
+<td> :pause_button: <code>pause_button</code> </td>
 
-<code>seedling</code> 
-</td>
+<td> :paw_prints: <code>paw_prints</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :selfie:
 
-<code>selfie</code> 
-</td>
+<td> :peace_symbol: <code>peace_symbol</code> </td>
 
-<td> :senegal:
+<td> :peach: <code>peach</code> </td>
 
-<code>senegal</code> 
-</td>
+<td> :peacock: <code>peacock</code> </td>
 
-<td> :serbia:
+<td> :peanuts: <code>peanuts</code> </td>
 
-<code>serbia</code> 
-</td>
+<td> :pear: <code>pear</code> </td>
 
-<td> :service_dog:
 
-<code>service_dog</code> 
-</td>
-
-<td> :seven:
+</tr>
 
-<code>seven</code> 
-</td>
+<tr>
 
+<td> :pen: <code>pen</code> </td>
 
-</tr>
+<td> :pencil: <code>pencil</code> </td>
 
-<tr>
+<td> :pencil2: <code>pencil2</code> </td>
 
-<td> :seychelles:
+<td> :penguin: <code>penguin</code> </td>
 
-<code>seychelles</code> 
-</td>
+<td> :pensive: <code>pensive</code> </td>
 
-<td> :shallow_pan_of_food:
 
-<code>shallow_pan_of_food</code> 
-</td>
+</tr>
 
-<td> :shamrock:
+<tr>
 
-<code>shamrock</code> 
-</td>
+<td> :people_holding_hands: <code>people_holding_hands</code> </td>
 
-<td> :shark:
+<td> :performing_arts: <code>performing_arts</code> </td>
 
-<code>shark</code> 
-</td>
+<td> :persevere: <code>persevere</code> </td>
 
-<td> :shaved_ice:
+<td> :person_bald: <code>person_bald</code> </td>
 
-<code>shaved_ice</code> 
-</td>
+<td> :person_curly_hair: <code>person_curly_hair</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :sheep:
 
-<code>sheep</code> 
-</td>
+<td> :person_fencing: <code>person_fencing</code> </td>
 
-<td> :shell:
+<td> :person_in_manual_wheelchair: <code>person_in_manual_wheelchair</code> </td>
 
-<code>shell</code> 
-</td>
+<td> :person_in_motorized_wheelchair: <code>person_in_motorized_wheelchair</code> </td>
 
-<td> :shield:
+<td> :person_red_hair: <code>person_red_hair</code> </td>
 
-<code>shield</code> 
-</td>
+<td> :person_white_hair: <code>person_white_hair</code> </td>
 
-<td> :shinto_shrine:
 
-<code>shinto_shrine</code> 
-</td>
-
-<td> :ship:
+</tr>
 
-<code>ship</code> 
-</td>
+<tr>
 
+<td> :person_with_probing_cane: <code>person_with_probing_cane</code> </td>
 
-</tr>
+<td> :person_with_turban: <code>person_with_turban</code> </td>
 
-<tr>
+<td> :peru: <code>peru</code> </td>
 
-<td> :shipit:
+<td> :petri_dish: <code>petri_dish</code> </td>
 
-<code>shipit</code> 
-</td>
+<td> :philippines: <code>philippines</code> </td>
 
-<td> :shirt:
 
-<code>shirt</code> 
-</td>
+</tr>
 
-<td> :shit:
+<tr>
 
-<code>shit</code> 
-</td>
+<td> :phone: <code>phone</code> </td>
 
-<td> :shoe:
+<td> :pick: <code>pick</code> </td>
 
-<code>shoe</code> 
-</td>
+<td> :pie: <code>pie</code> </td>
 
-<td> :shopping:
+<td> :pig: <code>pig</code> </td>
 
-<code>shopping</code> 
-</td>
+<td> :pig2: <code>pig2</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :shopping_cart:
 
-<code>shopping_cart</code> 
-</td>
+<td> :pig_nose: <code>pig_nose</code> </td>
 
-<td> :shorts:
+<td> :pill: <code>pill</code> </td>
 
-<code>shorts</code> 
-</td>
+<td> :pilot: <code>pilot</code> </td>
 
-<td> :shower:
+<td> :pinching_hand: <code>pinching_hand</code> </td>
 
-<code>shower</code> 
-</td>
+<td> :pineapple: <code>pineapple</code> </td>
 
-<td> :shrimp:
 
-<code>shrimp</code> 
-</td>
-
-<td> :shrug:
+</tr>
 
-<code>shrug</code> 
-</td>
+<tr>
 
+<td> :ping_pong: <code>ping_pong</code> </td>
 
-</tr>
+<td> :pirate_flag: <code>pirate_flag</code> </td>
 
-<tr>
+<td> :pisces: <code>pisces</code> </td>
 
-<td> :shushing_face:
+<td> :pitcairn_islands: <code>pitcairn_islands</code> </td>
 
-<code>shushing_face</code> 
-</td>
+<td> :pizza: <code>pizza</code> </td>
 
-<td> :sierra_leone:
 
-<code>sierra_leone</code> 
-</td>
+</tr>
 
-<td> :signal_strength:
+<tr>
 
-<code>signal_strength</code> 
-</td>
+<td> :place_of_worship: <code>place_of_worship</code> </td>
 
-<td> :singapore:
+<td> :plate_with_cutlery: <code>plate_with_cutlery</code> </td>
 
-<code>singapore</code> 
-</td>
+<td> :play_or_pause_button: <code>play_or_pause_button</code> </td>
 
-<td> :singer:
+<td> :pleading_face: <code>pleading_face</code> </td>
 
-<code>singer</code> 
-</td>
+<td> :point_down: <code>point_down</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :sint_maarten:
 
-<code>sint_maarten</code> 
-</td>
+<td> :point_left: <code>point_left</code> </td>
 
-<td> :six:
+<td> :point_right: <code>point_right</code> </td>
 
-<code>six</code> 
-</td>
+<td> :point_up: <code>point_up</code> </td>
 
-<td> :six_pointed_star:
+<td> :point_up_2: <code>point_up_2</code> </td>
 
-<code>six_pointed_star</code> 
-</td>
+<td> :poland: <code>poland</code> </td>
 
-<td> :skateboard:
 
-<code>skateboard</code> 
-</td>
-
-<td> :ski:
+</tr>
 
-<code>ski</code> 
-</td>
+<tr>
 
+<td> :police_car: <code>police_car</code> </td>
 
-</tr>
+<td> :police_officer: <code>police_officer</code> </td>
 
-<tr>
+<td> :policeman: <code>policeman</code> </td>
 
-<td> :skier:
+<td> :policewoman: <code>policewoman</code> </td>
 
-<code>skier</code> 
-</td>
+<td> :poodle: <code>poodle</code> </td>
 
-<td> :skull:
 
-<code>skull</code> 
-</td>
+</tr>
 
-<td> :skull_and_crossbones:
+<tr>
 
-<code>skull_and_crossbones</code> 
-</td>
+<td> :poop: <code>poop</code> </td>
 
-<td> :skunk:
+<td> :popcorn: <code>popcorn</code> </td>
 
-<code>skunk</code> 
-</td>
+<td> :portugal: <code>portugal</code> </td>
 
-<td> :sled:
+<td> :post_office: <code>post_office</code> </td>
 
-<code>sled</code> 
-</td>
+<td> :postal_horn: <code>postal_horn</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :sleeping:
 
-<code>sleeping</code> 
-</td>
+<td> :postbox: <code>postbox</code> </td>
 
-<td> :sleeping_bed:
+<td> :potable_water: <code>potable_water</code> </td>
 
-<code>sleeping_bed</code> 
-</td>
+<td> :potato: <code>potato</code> </td>
 
-<td> :sleepy:
+<td> :pouch: <code>pouch</code> </td>
 
-<code>sleepy</code> 
-</td>
+<td> :poultry_leg: <code>poultry_leg</code> </td>
 
-<td> :slightly_frowning_face:
 
-<code>slightly_frowning_face</code> 
-</td>
-
-<td> :slightly_smiling_face:
+</tr>
 
-<code>slightly_smiling_face</code> 
-</td>
+<tr>
 
+<td> :pound: <code>pound</code> </td>
 
-</tr>
+<td> :pout: <code>pout</code> </td>
 
-<tr>
+<td> :pouting_cat: <code>pouting_cat</code> </td>
 
-<td> :slot_machine:
+<td> :pouting_face: <code>pouting_face</code> </td>
 
-<code>slot_machine</code> 
-</td>
+<td> :pouting_man: <code>pouting_man</code> </td>
 
-<td> :sloth:
 
-<code>sloth</code> 
-</td>
+</tr>
 
-<td> :slovakia:
+<tr>
 
-<code>slovakia</code> 
-</td>
+<td> :pouting_woman: <code>pouting_woman</code> </td>
 
-<td> :slovenia:
+<td> :pray: <code>pray</code> </td>
 
-<code>slovenia</code> 
-</td>
+<td> :prayer_beads: <code>prayer_beads</code> </td>
 
-<td> :small_airplane:
+<td> :pregnant_woman: <code>pregnant_woman</code> </td>
 
-<code>small_airplane</code> 
-</td>
+<td> :pretzel: <code>pretzel</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :small_blue_diamond:
 
-<code>small_blue_diamond</code> 
-</td>
+<td> :previous_track_button: <code>previous_track_button</code> </td>
 
-<td> :small_orange_diamond:
+<td> :prince: <code>prince</code> </td>
 
-<code>small_orange_diamond</code> 
-</td>
+<td> :princess: <code>princess</code> </td>
 
-<td> :small_red_triangle:
+<td> :printer: <code>printer</code> </td>
 
-<code>small_red_triangle</code> 
-</td>
+<td> :probing_cane: <code>probing_cane</code> </td>
 
-<td> :small_red_triangle_down:
 
-<code>small_red_triangle_down</code> 
-</td>
-
-<td> :smile:
+</tr>
 
-<code>smile</code> 
-</td>
+<tr>
 
+<td> :puerto_rico: <code>puerto_rico</code> </td>
 
-</tr>
+<td> :punch: <code>punch</code> </td>
 
-<tr>
+<td> :purple_circle: <code>purple_circle</code> </td>
 
-<td> :smile_cat:
+<td> :purple_heart: <code>purple_heart</code> </td>
 
-<code>smile_cat</code> 
-</td>
+<td> :purple_square: <code>purple_square</code> </td>
 
-<td> :smiley:
 
-<code>smiley</code> 
-</td>
+</tr>
 
-<td> :smiley_cat:
+<tr>
 
-<code>smiley_cat</code> 
-</td>
+<td> :purse: <code>purse</code> </td>
 
-<td> :smiling_face_with_three_hearts:
+<td> :pushpin: <code>pushpin</code> </td>
 
-<code>smiling_face_with_three_hearts</code> 
-</td>
+<td> :put_litter_in_its_place: <code>put_litter_in_its_place</code> </td>
 
-<td> :smiling_imp:
+<td> :qatar: <code>qatar</code> </td>
 
-<code>smiling_imp</code> 
-</td>
+<td> :question: <code>question</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :smirk:
 
-<code>smirk</code> 
-</td>
+<td> :rabbit: <code>rabbit</code> </td>
 
-<td> :smirk_cat:
+<td> :rabbit2: <code>rabbit2</code> </td>
 
-<code>smirk_cat</code> 
-</td>
+<td> :raccoon: <code>raccoon</code> </td>
 
-<td> :smoking:
+<td> :racehorse: <code>racehorse</code> </td>
 
-<code>smoking</code> 
-</td>
+<td> :racing_car: <code>racing_car</code> </td>
 
-<td> :snail:
 
-<code>snail</code> 
-</td>
-
-<td> :snake:
+</tr>
 
-<code>snake</code> 
-</td>
+<tr>
 
+<td> :radio: <code>radio</code> </td>
 
-</tr>
+<td> :radio_button: <code>radio_button</code> </td>
 
-<tr>
+<td> :radioactive: <code>radioactive</code> </td>
 
-<td> :sneezing_face:
+<td> :rage: <code>rage</code> </td>
 
-<code>sneezing_face</code> 
-</td>
+<td> :rage1: <code>rage1</code> </td>
 
-<td> :snowboarder:
 
-<code>snowboarder</code> 
-</td>
+</tr>
 
-<td> :snowflake:
+<tr>
 
-<code>snowflake</code> 
-</td>
+<td> :rage2: <code>rage2</code> </td>
 
-<td> :snowman:
+<td> :rage3: <code>rage3</code> </td>
 
-<code>snowman</code> 
-</td>
+<td> :rage4: <code>rage4</code> </td>
 
-<td> :snowman_with_snow:
+<td> :railway_car: <code>railway_car</code> </td>
 
-<code>snowman_with_snow</code> 
-</td>
+<td> :railway_track: <code>railway_track</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :soap:
 
-<code>soap</code> 
-</td>
+<td> :rainbow: <code>rainbow</code> </td>
 
-<td> :sob:
+<td> :rainbow_flag: <code>rainbow_flag</code> </td>
 
-<code>sob</code> 
-</td>
+<td> :raised_back_of_hand: <code>raised_back_of_hand</code> </td>
 
-<td> :soccer:
+<td> :raised_eyebrow: <code>raised_eyebrow</code> </td>
 
-<code>soccer</code> 
-</td>
+<td> :raised_hand: <code>raised_hand</code> </td>
 
-<td> :socks:
 
-<code>socks</code> 
-</td>
-
-<td> :softball:
+</tr>
 
-<code>softball</code> 
-</td>
+<tr>
 
+<td> :raised_hand_with_fingers_splayed: <code>raised_hand_with_fingers_splayed</code> </td>
 
-</tr>
+<td> :raised_hands: <code>raised_hands</code> </td>
 
-<tr>
+<td> :raising_hand: <code>raising_hand</code> </td>
 
-<td> :solomon_islands:
+<td> :raising_hand_man: <code>raising_hand_man</code> </td>
 
-<code>solomon_islands</code> 
-</td>
+<td> :raising_hand_woman: <code>raising_hand_woman</code> </td>
 
-<td> :somalia:
 
-<code>somalia</code> 
-</td>
+</tr>
 
-<td> :soon:
+<tr>
 
-<code>soon</code> 
-</td>
+<td> :ram: <code>ram</code> </td>
 
-<td> :sos:
+<td> :ramen: <code>ramen</code> </td>
 
-<code>sos</code> 
-</td>
+<td> :rat: <code>rat</code> </td>
 
-<td> :sound:
+<td> :razor: <code>razor</code> </td>
 
-<code>sound</code> 
-</td>
+<td> :receipt: <code>receipt</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :south_africa:
 
-<code>south_africa</code> 
-</td>
+<td> :record_button: <code>record_button</code> </td>
 
-<td> :south_georgia_south_sandwich_islands:
+<td> :recycle: <code>recycle</code> </td>
 
-<code>south_georgia_south_sandwich_islands</code> 
-</td>
+<td> :red_car: <code>red_car</code> </td>
 
-<td> :south_sudan:
+<td> :red_circle: <code>red_circle</code> </td>
 
-<code>south_sudan</code> 
-</td>
+<td> :red_envelope: <code>red_envelope</code> </td>
 
-<td> :space_invader:
 
-<code>space_invader</code> 
-</td>
-
-<td> :spades:
+</tr>
 
-<code>spades</code> 
-</td>
+<tr>
 
+<td> :red_haired_man: <code>red_haired_man</code> </td>
 
-</tr>
+<td> :red_haired_woman: <code>red_haired_woman</code> </td>
 
-<tr>
+<td> :red_square: <code>red_square</code> </td>
 
-<td> :spaghetti:
+<td> :registered: <code>registered</code> </td>
 
-<code>spaghetti</code> 
-</td>
+<td> :relaxed: <code>relaxed</code> </td>
 
-<td> :sparkle:
 
-<code>sparkle</code> 
-</td>
+</tr>
 
-<td> :sparkler:
+<tr>
 
-<code>sparkler</code> 
-</td>
+<td> :relieved: <code>relieved</code> </td>
 
-<td> :sparkles:
+<td> :reminder_ribbon: <code>reminder_ribbon</code> </td>
 
-<code>sparkles</code> 
-</td>
+<td> :repeat: <code>repeat</code> </td>
 
-<td> :sparkling_heart:
+<td> :repeat_one: <code>repeat_one</code> </td>
 
-<code>sparkling_heart</code> 
-</td>
+<td> :rescue_worker_helmet: <code>rescue_worker_helmet</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :speak_no_evil:
 
-<code>speak_no_evil</code> 
-</td>
+<td> :restroom: <code>restroom</code> </td>
 
-<td> :speaker:
+<td> :reunion: <code>reunion</code> </td>
 
-<code>speaker</code> 
-</td>
+<td> :revolving_hearts: <code>revolving_hearts</code> </td>
 
-<td> :speaking_head:
+<td> :rewind: <code>rewind</code> </td>
 
-<code>speaking_head</code> 
-</td>
+<td> :rhinoceros: <code>rhinoceros</code> </td>
 
-<td> :speech_balloon:
 
-<code>speech_balloon</code> 
-</td>
-
-<td> :speedboat:
+</tr>
 
-<code>speedboat</code> 
-</td>
+<tr>
 
+<td> :ribbon: <code>ribbon</code> </td>
 
-</tr>
+<td> :rice: <code>rice</code> </td>
 
-<tr>
+<td> :rice_ball: <code>rice_ball</code> </td>
 
-<td> :spider:
+<td> :rice_cracker: <code>rice_cracker</code> </td>
 
-<code>spider</code> 
-</td>
+<td> :rice_scene: <code>rice_scene</code> </td>
 
-<td> :spider_web:
 
-<code>spider_web</code> 
-</td>
+</tr>
 
-<td> :spiral_calendar:
+<tr>
 
-<code>spiral_calendar</code> 
-</td>
+<td> :right_anger_bubble: <code>right_anger_bubble</code> </td>
 
-<td> :spiral_notepad:
+<td> :ring: <code>ring</code> </td>
 
-<code>spiral_notepad</code> 
-</td>
+<td> :ringed_planet: <code>ringed_planet</code> </td>
 
-<td> :sponge:
+<td> :robot: <code>robot</code> </td>
 
-<code>sponge</code> 
-</td>
+<td> :rocket: <code>rocket</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :spoon:
-
-<code>spoon</code> 
-</td>
 
-<td> :squid:
+<td> :rofl: <code>rofl</code> </td>
 
-<code>squid</code> 
-</td>
+<td> :roll_eyes: <code>roll_eyes</code> </td>
 
-<td> :sri_lanka:
+<td> :roll_of_paper: <code>roll_of_paper</code> </td>
 
-<code>sri_lanka</code> 
-</td>
+<td> :roller_coaster: <code>roller_coaster</code> </td>
 
-<td> :st_barthelemy:
+<td> :romania: <code>romania</code> </td>
 
-<code>st_barthelemy</code> 
-</td>
 
-<td> :st_helena:
+</tr>
 
-<code>st_helena</code> 
-</td>
+<tr>
 
+<td> :rooster: <code>rooster</code> </td>
 
-</tr>
+<td> :rose: <code>rose</code> </td>
 
-<tr>
+<td> :rosette: <code>rosette</code> </td>
 
-<td> :st_kitts_nevis:
+<td> :rotating_light: <code>rotating_light</code> </td>
 
-<code>st_kitts_nevis</code> 
-</td>
+<td> :round_pushpin: <code>round_pushpin</code> </td>
 
-<td> :st_lucia:
 
-<code>st_lucia</code> 
-</td>
+</tr>
 
-<td> :st_martin:
+<tr>
 
-<code>st_martin</code> 
-</td>
+<td> :rowboat: <code>rowboat</code> </td>
 
-<td> :st_pierre_miquelon:
+<td> :rowing_man: <code>rowing_man</code> </td>
 
-<code>st_pierre_miquelon</code> 
-</td>
+<td> :rowing_woman: <code>rowing_woman</code> </td>
 
-<td> :st_vincent_grenadines:
+<td> :ru: <code>ru</code> </td>
 
-<code>st_vincent_grenadines</code> 
-</td>
+<td> :rugby_football: <code>rugby_football</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :stadium:
-
-<code>stadium</code> 
-</td>
 
-<td> :standing_man:
+<td> :runner: <code>runner</code> </td>
 
-<code>standing_man</code> 
-</td>
+<td> :running: <code>running</code> </td>
 
-<td> :standing_person:
+<td> :running_man: <code>running_man</code> </td>
 
-<code>standing_person</code> 
-</td>
+<td> :running_shirt_with_sash: <code>running_shirt_with_sash</code> </td>
 
-<td> :standing_woman:
+<td> :running_woman: <code>running_woman</code> </td>
 
-<code>standing_woman</code> 
-</td>
 
-<td> :star:
+</tr>
 
-<code>star</code> 
-</td>
+<tr>
 
+<td> :rwanda: <code>rwanda</code> </td>
 
-</tr>
+<td> :sa: <code>sa</code> </td>
 
-<tr>
+<td> :safety_pin: <code>safety_pin</code> </td>
 
-<td> :star2:
+<td> :safety_vest: <code>safety_vest</code> </td>
 
-<code>star2</code> 
-</td>
+<td> :sagittarius: <code>sagittarius</code> </td>
 
-<td> :star_and_crescent:
 
-<code>star_and_crescent</code> 
-</td>
+</tr>
 
-<td> :star_of_david:
+<tr>
 
-<code>star_of_david</code> 
-</td>
+<td> :sailboat: <code>sailboat</code> </td>
 
-<td> :star_struck:
+<td> :sake: <code>sake</code> </td>
 
-<code>star_struck</code> 
-</td>
+<td> :salt: <code>salt</code> </td>
 
-<td> :stars:
+<td> :samoa: <code>samoa</code> </td>
 
-<code>stars</code> 
-</td>
+<td> :san_marino: <code>san_marino</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :station:
-
-<code>station</code> 
-</td>
 
-<td> :statue_of_liberty:
+<td> :sandal: <code>sandal</code> </td>
 
-<code>statue_of_liberty</code> 
-</td>
+<td> :sandwich: <code>sandwich</code> </td>
 
-<td> :steam_locomotive:
+<td> :santa: <code>santa</code> </td>
 
-<code>steam_locomotive</code> 
-</td>
+<td> :sao_tome_principe: <code>sao_tome_principe</code> </td>
 
-<td> :stethoscope:
+<td> :sari: <code>sari</code> </td>
 
-<code>stethoscope</code> 
-</td>
 
-<td> :stew:
+</tr>
 
-<code>stew</code> 
-</td>
+<tr>
 
+<td> :sassy_man: <code>sassy_man</code> </td>
 
-</tr>
+<td> :sassy_woman: <code>sassy_woman</code> </td>
 
-<tr>
+<td> :satellite: <code>satellite</code> </td>
 
-<td> :stop_button:
+<td> :satisfied: <code>satisfied</code> </td>
 
-<code>stop_button</code> 
-</td>
+<td> :saudi_arabia: <code>saudi_arabia</code> </td>
 
-<td> :stop_sign:
 
-<code>stop_sign</code> 
-</td>
+</tr>
 
-<td> :stopwatch:
+<tr>
 
-<code>stopwatch</code> 
-</td>
+<td> :sauna_man: <code>sauna_man</code> </td>
 
-<td> :straight_ruler:
+<td> :sauna_person: <code>sauna_person</code> </td>
 
-<code>straight_ruler</code> 
-</td>
+<td> :sauna_woman: <code>sauna_woman</code> </td>
 
-<td> :strawberry:
+<td> :sauropod: <code>sauropod</code> </td>
 
-<code>strawberry</code> 
-</td>
+<td> :saxophone: <code>saxophone</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :stuck_out_tongue:
-
-<code>stuck_out_tongue</code> 
-</td>
 
-<td> :stuck_out_tongue_closed_eyes:
+<td> :scarf: <code>scarf</code> </td>
 
-<code>stuck_out_tongue_closed_eyes</code> 
-</td>
+<td> :school: <code>school</code> </td>
 
-<td> :stuck_out_tongue_winking_eye:
+<td> :school_satchel: <code>school_satchel</code> </td>
 
-<code>stuck_out_tongue_winking_eye</code> 
-</td>
+<td> :scientist: <code>scientist</code> </td>
 
-<td> :student:
+<td> :scissors: <code>scissors</code> </td>
 
-<code>student</code> 
-</td>
 
-<td> :studio_microphone:
+</tr>
 
-<code>studio_microphone</code> 
-</td>
+<tr>
 
+<td> :scorpion: <code>scorpion</code> </td>
 
-</tr>
+<td> :scorpius: <code>scorpius</code> </td>
 
-<tr>
+<td> :scotland: <code>scotland</code> </td>
 
-<td> :stuffed_flatbread:
+<td> :scream: <code>scream</code> </td>
 
-<code>stuffed_flatbread</code> 
-</td>
+<td> :scream_cat: <code>scream_cat</code> </td>
 
-<td> :sudan:
 
-<code>sudan</code> 
-</td>
+</tr>
 
-<td> :sun_behind_large_cloud:
+<tr>
 
-<code>sun_behind_large_cloud</code> 
-</td>
+<td> :scroll: <code>scroll</code> </td>
 
-<td> :sun_behind_rain_cloud:
+<td> :seat: <code>seat</code> </td>
 
-<code>sun_behind_rain_cloud</code> 
-</td>
+<td> :secret: <code>secret</code> </td>
 
-<td> :sun_behind_small_cloud:
+<td> :see_no_evil: <code>see_no_evil</code> </td>
 
-<code>sun_behind_small_cloud</code> 
-</td>
+<td> :seedling: <code>seedling</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :sun_with_face:
-
-<code>sun_with_face</code> 
-</td>
 
-<td> :sunflower:
+<td> :selfie: <code>selfie</code> </td>
 
-<code>sunflower</code> 
-</td>
+<td> :senegal: <code>senegal</code> </td>
 
-<td> :sunglasses:
+<td> :serbia: <code>serbia</code> </td>
 
-<code>sunglasses</code> 
-</td>
+<td> :service_dog: <code>service_dog</code> </td>
 
-<td> :sunny:
+<td> :seven: <code>seven</code> </td>
 
-<code>sunny</code> 
-</td>
 
-<td> :sunrise:
+</tr>
 
-<code>sunrise</code> 
-</td>
+<tr>
 
+<td> :seychelles: <code>seychelles</code> </td>
 
-</tr>
+<td> :shallow_pan_of_food: <code>shallow_pan_of_food</code> </td>
 
-<tr>
+<td> :shamrock: <code>shamrock</code> </td>
 
-<td> :sunrise_over_mountains:
+<td> :shark: <code>shark</code> </td>
 
-<code>sunrise_over_mountains</code> 
-</td>
+<td> :shaved_ice: <code>shaved_ice</code> </td>
 
-<td> :superhero:
 
-<code>superhero</code> 
-</td>
+</tr>
 
-<td> :superhero_man:
+<tr>
 
-<code>superhero_man</code> 
-</td>
+<td> :sheep: <code>sheep</code> </td>
 
-<td> :superhero_woman:
+<td> :shell: <code>shell</code> </td>
 
-<code>superhero_woman</code> 
-</td>
+<td> :shield: <code>shield</code> </td>
 
-<td> :supervillain:
+<td> :shinto_shrine: <code>shinto_shrine</code> </td>
 
-<code>supervillain</code> 
-</td>
+<td> :ship: <code>ship</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :supervillain_man:
-
-<code>supervillain_man</code> 
-</td>
 
-<td> :supervillain_woman:
+<td> :shipit: <code>shipit</code> </td>
 
-<code>supervillain_woman</code> 
-</td>
+<td> :shirt: <code>shirt</code> </td>
 
-<td> :surfer:
+<td> :shit: <code>shit</code> </td>
 
-<code>surfer</code> 
-</td>
+<td> :shoe: <code>shoe</code> </td>
 
-<td> :surfing_man:
+<td> :shopping: <code>shopping</code> </td>
 
-<code>surfing_man</code> 
-</td>
 
-<td> :surfing_woman:
+</tr>
 
-<code>surfing_woman</code> 
-</td>
+<tr>
 
+<td> :shopping_cart: <code>shopping_cart</code> </td>
 
-</tr>
+<td> :shorts: <code>shorts</code> </td>
 
-<tr>
+<td> :shower: <code>shower</code> </td>
 
-<td> :suriname:
+<td> :shrimp: <code>shrimp</code> </td>
 
-<code>suriname</code> 
-</td>
+<td> :shrug: <code>shrug</code> </td>
 
-<td> :sushi:
 
-<code>sushi</code> 
-</td>
+</tr>
 
-<td> :suspect:
+<tr>
 
-<code>suspect</code> 
-</td>
+<td> :shushing_face: <code>shushing_face</code> </td>
 
-<td> :suspension_railway:
+<td> :sierra_leone: <code>sierra_leone</code> </td>
 
-<code>suspension_railway</code> 
-</td>
+<td> :signal_strength: <code>signal_strength</code> </td>
 
-<td> :svalbard_jan_mayen:
+<td> :singapore: <code>singapore</code> </td>
 
-<code>svalbard_jan_mayen</code> 
-</td>
+<td> :singer: <code>singer</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :swan:
-
-<code>swan</code> 
-</td>
 
-<td> :swaziland:
+<td> :sint_maarten: <code>sint_maarten</code> </td>
 
-<code>swaziland</code> 
-</td>
+<td> :six: <code>six</code> </td>
 
-<td> :sweat:
+<td> :six_pointed_star: <code>six_pointed_star</code> </td>
 
-<code>sweat</code> 
-</td>
+<td> :skateboard: <code>skateboard</code> </td>
 
-<td> :sweat_drops:
+<td> :ski: <code>ski</code> </td>
 
-<code>sweat_drops</code> 
-</td>
 
-<td> :sweat_smile:
+</tr>
 
-<code>sweat_smile</code> 
-</td>
+<tr>
 
+<td> :skier: <code>skier</code> </td>
 
-</tr>
+<td> :skull: <code>skull</code> </td>
 
-<tr>
+<td> :skull_and_crossbones: <code>skull_and_crossbones</code> </td>
 
-<td> :sweden:
+<td> :skunk: <code>skunk</code> </td>
 
-<code>sweden</code> 
-</td>
+<td> :sled: <code>sled</code> </td>
 
-<td> :sweet_potato:
 
-<code>sweet_potato</code> 
-</td>
+</tr>
 
-<td> :swim_brief:
+<tr>
 
-<code>swim_brief</code> 
-</td>
+<td> :sleeping: <code>sleeping</code> </td>
 
-<td> :swimmer:
+<td> :sleeping_bed: <code>sleeping_bed</code> </td>
 
-<code>swimmer</code> 
-</td>
+<td> :sleepy: <code>sleepy</code> </td>
 
-<td> :swimming_man:
+<td> :slightly_frowning_face: <code>slightly_frowning_face</code> </td>
 
-<code>swimming_man</code> 
-</td>
+<td> :slightly_smiling_face: <code>slightly_smiling_face</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :swimming_woman:
-
-<code>swimming_woman</code> 
-</td>
 
-<td> :switzerland:
+<td> :slot_machine: <code>slot_machine</code> </td>
 
-<code>switzerland</code> 
-</td>
+<td> :sloth: <code>sloth</code> </td>
 
-<td> :symbols:
+<td> :slovakia: <code>slovakia</code> </td>
 
-<code>symbols</code> 
-</td>
+<td> :slovenia: <code>slovenia</code> </td>
 
-<td> :synagogue:
+<td> :small_airplane: <code>small_airplane</code> </td>
 
-<code>synagogue</code> 
-</td>
 
-<td> :syria:
+</tr>
 
-<code>syria</code> 
-</td>
+<tr>
 
+<td> :small_blue_diamond: <code>small_blue_diamond</code> </td>
 
-</tr>
+<td> :small_orange_diamond: <code>small_orange_diamond</code> </td>
 
-<tr>
+<td> :small_red_triangle: <code>small_red_triangle</code> </td>
 
-<td> :syringe:
+<td> :small_red_triangle_down: <code>small_red_triangle_down</code> </td>
 
-<code>syringe</code> 
-</td>
+<td> :smile: <code>smile</code> </td>
 
-<td> :t-rex:
 
-<code>t-rex</code> 
-</td>
+</tr>
 
-<td> :taco:
+<tr>
 
-<code>taco</code> 
-</td>
+<td> :smile_cat: <code>smile_cat</code> </td>
 
-<td> :tada:
+<td> :smiley: <code>smiley</code> </td>
 
-<code>tada</code> 
-</td>
+<td> :smiley_cat: <code>smiley_cat</code> </td>
 
-<td> :taiwan:
+<td> :smiling_face_with_three_hearts: <code>smiling_face_with_three_hearts</code> </td>
 
-<code>taiwan</code> 
-</td>
+<td> :smiling_imp: <code>smiling_imp</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :tajikistan:
-
-<code>tajikistan</code> 
-</td>
 
-<td> :takeout_box:
+<td> :smirk: <code>smirk</code> </td>
 
-<code>takeout_box</code> 
-</td>
+<td> :smirk_cat: <code>smirk_cat</code> </td>
 
-<td> :tanabata_tree:
+<td> :smoking: <code>smoking</code> </td>
 
-<code>tanabata_tree</code> 
-</td>
+<td> :snail: <code>snail</code> </td>
 
-<td> :tangerine:
+<td> :snake: <code>snake</code> </td>
 
-<code>tangerine</code> 
-</td>
 
-<td> :tanzania:
+</tr>
 
-<code>tanzania</code> 
-</td>
+<tr>
 
+<td> :sneezing_face: <code>sneezing_face</code> </td>
 
-</tr>
+<td> :snowboarder: <code>snowboarder</code> </td>
 
-<tr>
+<td> :snowflake: <code>snowflake</code> </td>
 
-<td> :taurus:
+<td> :snowman: <code>snowman</code> </td>
 
-<code>taurus</code> 
-</td>
+<td> :snowman_with_snow: <code>snowman_with_snow</code> </td>
 
-<td> :taxi:
 
-<code>taxi</code> 
-</td>
+</tr>
 
-<td> :tea:
+<tr>
 
-<code>tea</code> 
-</td>
+<td> :soap: <code>soap</code> </td>
 
-<td> :teacher:
+<td> :sob: <code>sob</code> </td>
 
-<code>teacher</code> 
-</td>
+<td> :soccer: <code>soccer</code> </td>
 
-<td> :technologist:
+<td> :socks: <code>socks</code> </td>
 
-<code>technologist</code> 
-</td>
+<td> :softball: <code>softball</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :teddy_bear:
-
-<code>teddy_bear</code> 
-</td>
 
-<td> :telephone:
+<td> :solomon_islands: <code>solomon_islands</code> </td>
 
-<code>telephone</code> 
-</td>
+<td> :somalia: <code>somalia</code> </td>
 
-<td> :telephone_receiver:
+<td> :soon: <code>soon</code> </td>
 
-<code>telephone_receiver</code> 
-</td>
+<td> :sos: <code>sos</code> </td>
 
-<td> :telescope:
+<td> :sound: <code>sound</code> </td>
 
-<code>telescope</code> 
-</td>
 
-<td> :tennis:
+</tr>
 
-<code>tennis</code> 
-</td>
+<tr>
 
+<td> :south_africa: <code>south_africa</code> </td>
 
-</tr>
+<td> :south_georgia_south_sandwich_islands: <code>south_georgia_south_sandwich_islands</code> </td>
 
-<tr>
+<td> :south_sudan: <code>south_sudan</code> </td>
 
-<td> :tent:
+<td> :space_invader: <code>space_invader</code> </td>
 
-<code>tent</code> 
-</td>
+<td> :spades: <code>spades</code> </td>
 
-<td> :test_tube:
 
-<code>test_tube</code> 
-</td>
+</tr>
 
-<td> :thailand:
+<tr>
 
-<code>thailand</code> 
-</td>
+<td> :spaghetti: <code>spaghetti</code> </td>
 
-<td> :thermometer:
+<td> :sparkle: <code>sparkle</code> </td>
 
-<code>thermometer</code> 
-</td>
+<td> :sparkler: <code>sparkler</code> </td>
 
-<td> :thinking:
+<td> :sparkles: <code>sparkles</code> </td>
 
-<code>thinking</code> 
-</td>
+<td> :sparkling_heart: <code>sparkling_heart</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :thought_balloon:
-
-<code>thought_balloon</code> 
-</td>
 
-<td> :thread:
+<td> :speak_no_evil: <code>speak_no_evil</code> </td>
 
-<code>thread</code> 
-</td>
+<td> :speaker: <code>speaker</code> </td>
 
-<td> :three:
+<td> :speaking_head: <code>speaking_head</code> </td>
 
-<code>three</code> 
-</td>
+<td> :speech_balloon: <code>speech_balloon</code> </td>
 
-<td> :thumbsdown:
+<td> :speedboat: <code>speedboat</code> </td>
 
-<code>thumbsdown</code> 
-</td>
 
-<td> :thumbsup:
+</tr>
 
-<code>thumbsup</code> 
-</td>
+<tr>
 
+<td> :spider: <code>spider</code> </td>
 
-</tr>
+<td> :spider_web: <code>spider_web</code> </td>
 
-<tr>
+<td> :spiral_calendar: <code>spiral_calendar</code> </td>
 
-<td> :ticket:
+<td> :spiral_notepad: <code>spiral_notepad</code> </td>
 
-<code>ticket</code> 
-</td>
+<td> :sponge: <code>sponge</code> </td>
 
-<td> :tickets:
 
-<code>tickets</code> 
-</td>
+</tr>
 
-<td> :tiger:
+<tr>
 
-<code>tiger</code> 
-</td>
+<td> :spoon: <code>spoon</code> </td>
 
-<td> :tiger2:
+<td> :squid: <code>squid</code> </td>
 
-<code>tiger2</code> 
-</td>
+<td> :sri_lanka: <code>sri_lanka</code> </td>
 
-<td> :timer_clock:
+<td> :st_barthelemy: <code>st_barthelemy</code> </td>
 
-<code>timer_clock</code> 
-</td>
+<td> :st_helena: <code>st_helena</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :timor_leste:
-
-<code>timor_leste</code> 
-</td>
 
-<td> :tipping_hand_man:
+<td> :st_kitts_nevis: <code>st_kitts_nevis</code> </td>
 
-<code>tipping_hand_man</code> 
-</td>
+<td> :st_lucia: <code>st_lucia</code> </td>
 
-<td> :tipping_hand_person:
+<td> :st_martin: <code>st_martin</code> </td>
 
-<code>tipping_hand_person</code> 
-</td>
+<td> :st_pierre_miquelon: <code>st_pierre_miquelon</code> </td>
 
-<td> :tipping_hand_woman:
+<td> :st_vincent_grenadines: <code>st_vincent_grenadines</code> </td>
 
-<code>tipping_hand_woman</code> 
-</td>
 
-<td> :tired_face:
+</tr>
 
-<code>tired_face</code> 
-</td>
+<tr>
 
+<td> :stadium: <code>stadium</code> </td>
 
-</tr>
+<td> :standing_man: <code>standing_man</code> </td>
 
-<tr>
+<td> :standing_person: <code>standing_person</code> </td>
 
-<td> :tm:
+<td> :standing_woman: <code>standing_woman</code> </td>
 
-<code>tm</code> 
-</td>
+<td> :star: <code>star</code> </td>
 
-<td> :togo:
 
-<code>togo</code> 
-</td>
+</tr>
 
-<td> :toilet:
+<tr>
 
-<code>toilet</code> 
-</td>
+<td> :star2: <code>star2</code> </td>
 
-<td> :tokelau:
+<td> :star_and_crescent: <code>star_and_crescent</code> </td>
 
-<code>tokelau</code> 
-</td>
+<td> :star_of_david: <code>star_of_david</code> </td>
 
-<td> :tokyo_tower:
+<td> :star_struck: <code>star_struck</code> </td>
 
-<code>tokyo_tower</code> 
-</td>
+<td> :stars: <code>stars</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :tomato:
-
-<code>tomato</code> 
-</td>
 
-<td> :tonga:
+<td> :station: <code>station</code> </td>
 
-<code>tonga</code> 
-</td>
+<td> :statue_of_liberty: <code>statue_of_liberty</code> </td>
 
-<td> :tongue:
+<td> :steam_locomotive: <code>steam_locomotive</code> </td>
 
-<code>tongue</code> 
-</td>
+<td> :stethoscope: <code>stethoscope</code> </td>
 
-<td> :toolbox:
+<td> :stew: <code>stew</code> </td>
 
-<code>toolbox</code> 
-</td>
 
-<td> :tooth:
+</tr>
 
-<code>tooth</code> 
-</td>
+<tr>
 
+<td> :stop_button: <code>stop_button</code> </td>
 
-</tr>
+<td> :stop_sign: <code>stop_sign</code> </td>
 
-<tr>
+<td> :stopwatch: <code>stopwatch</code> </td>
 
-<td> :top:
+<td> :straight_ruler: <code>straight_ruler</code> </td>
 
-<code>top</code> 
-</td>
+<td> :strawberry: <code>strawberry</code> </td>
 
-<td> :tophat:
 
-<code>tophat</code> 
-</td>
+</tr>
 
-<td> :tornado:
+<tr>
 
-<code>tornado</code> 
-</td>
+<td> :stuck_out_tongue: <code>stuck_out_tongue</code> </td>
 
-<td> :tr:
+<td> :stuck_out_tongue_closed_eyes: <code>stuck_out_tongue_closed_eyes</code> </td>
 
-<code>tr</code> 
-</td>
+<td> :stuck_out_tongue_winking_eye: <code>stuck_out_tongue_winking_eye</code> </td>
 
-<td> :trackball:
+<td> :student: <code>student</code> </td>
 
-<code>trackball</code> 
-</td>
+<td> :studio_microphone: <code>studio_microphone</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :tractor:
-
-<code>tractor</code> 
-</td>
 
-<td> :traffic_light:
+<td> :stuffed_flatbread: <code>stuffed_flatbread</code> </td>
 
-<code>traffic_light</code> 
-</td>
+<td> :sudan: <code>sudan</code> </td>
 
-<td> :train:
+<td> :sun_behind_large_cloud: <code>sun_behind_large_cloud</code> </td>
 
-<code>train</code> 
-</td>
+<td> :sun_behind_rain_cloud: <code>sun_behind_rain_cloud</code> </td>
 
-<td> :train2:
+<td> :sun_behind_small_cloud: <code>sun_behind_small_cloud</code> </td>
 
-<code>train2</code> 
-</td>
 
-<td> :tram:
+</tr>
 
-<code>tram</code> 
-</td>
+<tr>
 
+<td> :sun_with_face: <code>sun_with_face</code> </td>
 
-</tr>
+<td> :sunflower: <code>sunflower</code> </td>
 
-<tr>
+<td> :sunglasses: <code>sunglasses</code> </td>
 
-<td> :triangular_flag_on_post:
+<td> :sunny: <code>sunny</code> </td>
 
-<code>triangular_flag_on_post</code> 
-</td>
+<td> :sunrise: <code>sunrise</code> </td>
 
-<td> :triangular_ruler:
 
-<code>triangular_ruler</code> 
-</td>
+</tr>
 
-<td> :trident:
+<tr>
 
-<code>trident</code> 
-</td>
+<td> :sunrise_over_mountains: <code>sunrise_over_mountains</code> </td>
 
-<td> :trinidad_tobago:
+<td> :superhero: <code>superhero</code> </td>
 
-<code>trinidad_tobago</code> 
-</td>
+<td> :superhero_man: <code>superhero_man</code> </td>
 
-<td> :tristan_da_cunha:
+<td> :superhero_woman: <code>superhero_woman</code> </td>
 
-<code>tristan_da_cunha</code> 
-</td>
+<td> :supervillain: <code>supervillain</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :triumph:
-
-<code>triumph</code> 
-</td>
 
-<td> :trolleybus:
+<td> :supervillain_man: <code>supervillain_man</code> </td>
 
-<code>trolleybus</code> 
-</td>
+<td> :supervillain_woman: <code>supervillain_woman</code> </td>
 
-<td> :trollface:
+<td> :surfer: <code>surfer</code> </td>
 
-<code>trollface</code> 
-</td>
+<td> :surfing_man: <code>surfing_man</code> </td>
 
-<td> :trophy:
+<td> :surfing_woman: <code>surfing_woman</code> </td>
 
-<code>trophy</code> 
-</td>
 
-<td> :tropical_drink:
+</tr>
 
-<code>tropical_drink</code> 
-</td>
+<tr>
 
+<td> :suriname: <code>suriname</code> </td>
 
-</tr>
+<td> :sushi: <code>sushi</code> </td>
 
-<tr>
+<td> :suspect: <code>suspect</code> </td>
 
-<td> :tropical_fish:
+<td> :suspension_railway: <code>suspension_railway</code> </td>
 
-<code>tropical_fish</code> 
-</td>
+<td> :svalbard_jan_mayen: <code>svalbard_jan_mayen</code> </td>
 
-<td> :truck:
 
-<code>truck</code> 
-</td>
+</tr>
 
-<td> :trumpet:
+<tr>
 
-<code>trumpet</code> 
-</td>
+<td> :swan: <code>swan</code> </td>
 
-<td> :tshirt:
+<td> :swaziland: <code>swaziland</code> </td>
 
-<code>tshirt</code> 
-</td>
+<td> :sweat: <code>sweat</code> </td>
 
-<td> :tulip:
+<td> :sweat_drops: <code>sweat_drops</code> </td>
 
-<code>tulip</code> 
-</td>
+<td> :sweat_smile: <code>sweat_smile</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :tumbler_glass:
-
-<code>tumbler_glass</code> 
-</td>
 
-<td> :tunisia:
+<td> :sweden: <code>sweden</code> </td>
 
-<code>tunisia</code> 
-</td>
+<td> :sweet_potato: <code>sweet_potato</code> </td>
 
-<td> :turkey:
+<td> :swim_brief: <code>swim_brief</code> </td>
 
-<code>turkey</code> 
-</td>
+<td> :swimmer: <code>swimmer</code> </td>
 
-<td> :turkmenistan:
+<td> :swimming_man: <code>swimming_man</code> </td>
 
-<code>turkmenistan</code> 
-</td>
 
-<td> :turks_caicos_islands:
+</tr>
 
-<code>turks_caicos_islands</code> 
-</td>
+<tr>
 
+<td> :swimming_woman: <code>swimming_woman</code> </td>
 
-</tr>
+<td> :switzerland: <code>switzerland</code> </td>
 
-<tr>
+<td> :symbols: <code>symbols</code> </td>
 
-<td> :turtle:
+<td> :synagogue: <code>synagogue</code> </td>
 
-<code>turtle</code> 
-</td>
+<td> :syria: <code>syria</code> </td>
 
-<td> :tuvalu:
 
-<code>tuvalu</code> 
-</td>
+</tr>
 
-<td> :tv:
+<tr>
 
-<code>tv</code> 
-</td>
+<td> :syringe: <code>syringe</code> </td>
 
-<td> :twisted_rightwards_arrows:
+<td> :t-rex: <code>t-rex</code> </td>
 
-<code>twisted_rightwards_arrows</code> 
-</td>
+<td> :taco: <code>taco</code> </td>
 
-<td> :two:
+<td> :tada: <code>tada</code> </td>
 
-<code>two</code> 
-</td>
+<td> :taiwan: <code>taiwan</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :two_hearts:
-
-<code>two_hearts</code> 
-</td>
 
-<td> :two_men_holding_hands:
+<td> :tajikistan: <code>tajikistan</code> </td>
 
-<code>two_men_holding_hands</code> 
-</td>
+<td> :takeout_box: <code>takeout_box</code> </td>
 
-<td> :two_women_holding_hands:
+<td> :tanabata_tree: <code>tanabata_tree</code> </td>
 
-<code>two_women_holding_hands</code> 
-</td>
+<td> :tangerine: <code>tangerine</code> </td>
 
-<td> :u5272:
+<td> :tanzania: <code>tanzania</code> </td>
 
-<code>u5272</code> 
-</td>
 
-<td> :u5408:
+</tr>
 
-<code>u5408</code> 
-</td>
+<tr>
 
+<td> :taurus: <code>taurus</code> </td>
 
-</tr>
+<td> :taxi: <code>taxi</code> </td>
 
-<tr>
+<td> :tea: <code>tea</code> </td>
 
-<td> :u55b6:
+<td> :teacher: <code>teacher</code> </td>
 
-<code>u55b6</code> 
-</td>
+<td> :technologist: <code>technologist</code> </td>
 
-<td> :u6307:
 
-<code>u6307</code> 
-</td>
+</tr>
 
-<td> :u6708:
+<tr>
 
-<code>u6708</code> 
-</td>
+<td> :teddy_bear: <code>teddy_bear</code> </td>
 
-<td> :u6709:
+<td> :telephone: <code>telephone</code> </td>
 
-<code>u6709</code> 
-</td>
+<td> :telephone_receiver: <code>telephone_receiver</code> </td>
 
-<td> :u6e80:
+<td> :telescope: <code>telescope</code> </td>
 
-<code>u6e80</code> 
-</td>
+<td> :tennis: <code>tennis</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :u7121:
-
-<code>u7121</code> 
-</td>
 
-<td> :u7533:
+<td> :tent: <code>tent</code> </td>
 
-<code>u7533</code> 
-</td>
+<td> :test_tube: <code>test_tube</code> </td>
 
-<td> :u7981:
+<td> :thailand: <code>thailand</code> </td>
 
-<code>u7981</code> 
-</td>
+<td> :thermometer: <code>thermometer</code> </td>
 
-<td> :u7a7a:
+<td> :thinking: <code>thinking</code> </td>
 
-<code>u7a7a</code> 
-</td>
 
-<td> :uganda:
+</tr>
 
-<code>uganda</code> 
-</td>
+<tr>
 
+<td> :thought_balloon: <code>thought_balloon</code> </td>
 
-</tr>
+<td> :thread: <code>thread</code> </td>
 
-<tr>
+<td> :three: <code>three</code> </td>
 
-<td> :uk:
+<td> :thumbsdown: <code>thumbsdown</code> </td>
 
-<code>uk</code> 
-</td>
+<td> :thumbsup: <code>thumbsup</code> </td>
 
-<td> :ukraine:
 
-<code>ukraine</code> 
-</td>
+</tr>
 
-<td> :umbrella:
+<tr>
 
-<code>umbrella</code> 
-</td>
+<td> :ticket: <code>ticket</code> </td>
 
-<td> :unamused:
+<td> :tickets: <code>tickets</code> </td>
 
-<code>unamused</code> 
-</td>
+<td> :tiger: <code>tiger</code> </td>
 
-<td> :underage:
+<td> :tiger2: <code>tiger2</code> </td>
 
-<code>underage</code> 
-</td>
+<td> :timer_clock: <code>timer_clock</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :unicorn:
-
-<code>unicorn</code> 
-</td>
 
-<td> :united_arab_emirates:
+<td> :timor_leste: <code>timor_leste</code> </td>
 
-<code>united_arab_emirates</code> 
-</td>
+<td> :tipping_hand_man: <code>tipping_hand_man</code> </td>
 
-<td> :united_nations:
+<td> :tipping_hand_person: <code>tipping_hand_person</code> </td>
 
-<code>united_nations</code> 
-</td>
+<td> :tipping_hand_woman: <code>tipping_hand_woman</code> </td>
 
-<td> :unlock:
+<td> :tired_face: <code>tired_face</code> </td>
 
-<code>unlock</code> 
-</td>
 
-<td> :up:
+</tr>
 
-<code>up</code> 
-</td>
+<tr>
 
+<td> :tm: <code>tm</code> </td>
 
-</tr>
+<td> :togo: <code>togo</code> </td>
 
-<tr>
+<td> :toilet: <code>toilet</code> </td>
 
-<td> :upside_down_face:
+<td> :tokelau: <code>tokelau</code> </td>
 
-<code>upside_down_face</code> 
-</td>
+<td> :tokyo_tower: <code>tokyo_tower</code> </td>
 
-<td> :uruguay:
 
-<code>uruguay</code> 
-</td>
+</tr>
 
-<td> :us:
+<tr>
 
-<code>us</code> 
-</td>
+<td> :tomato: <code>tomato</code> </td>
 
-<td> :us_outlying_islands:
+<td> :tonga: <code>tonga</code> </td>
 
-<code>us_outlying_islands</code> 
-</td>
+<td> :tongue: <code>tongue</code> </td>
 
-<td> :us_virgin_islands:
+<td> :toolbox: <code>toolbox</code> </td>
 
-<code>us_virgin_islands</code> 
-</td>
+<td> :tooth: <code>tooth</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :uzbekistan:
-
-<code>uzbekistan</code> 
-</td>
 
-<td> :v:
+<td> :top: <code>top</code> </td>
 
-<code>v</code> 
-</td>
+<td> :tophat: <code>tophat</code> </td>
 
-<td> :vampire:
+<td> :tornado: <code>tornado</code> </td>
 
-<code>vampire</code> 
-</td>
+<td> :tr: <code>tr</code> </td>
 
-<td> :vampire_man:
+<td> :trackball: <code>trackball</code> </td>
 
-<code>vampire_man</code> 
-</td>
 
-<td> :vampire_woman:
+</tr>
 
-<code>vampire_woman</code> 
-</td>
+<tr>
 
+<td> :tractor: <code>tractor</code> </td>
 
-</tr>
+<td> :traffic_light: <code>traffic_light</code> </td>
 
-<tr>
+<td> :train: <code>train</code> </td>
 
-<td> :vanuatu:
+<td> :train2: <code>train2</code> </td>
 
-<code>vanuatu</code> 
-</td>
+<td> :tram: <code>tram</code> </td>
 
-<td> :vatican_city:
 
-<code>vatican_city</code> 
-</td>
+</tr>
 
-<td> :venezuela:
+<tr>
 
-<code>venezuela</code> 
-</td>
+<td> :triangular_flag_on_post: <code>triangular_flag_on_post</code> </td>
 
-<td> :vertical_traffic_light:
+<td> :triangular_ruler: <code>triangular_ruler</code> </td>
 
-<code>vertical_traffic_light</code> 
-</td>
+<td> :trident: <code>trident</code> </td>
 
-<td> :vhs:
+<td> :trinidad_tobago: <code>trinidad_tobago</code> </td>
 
-<code>vhs</code> 
-</td>
+<td> :tristan_da_cunha: <code>tristan_da_cunha</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :vibration_mode:
-
-<code>vibration_mode</code> 
-</td>
 
-<td> :video_camera:
+<td> :triumph: <code>triumph</code> </td>
 
-<code>video_camera</code> 
-</td>
+<td> :trolleybus: <code>trolleybus</code> </td>
 
-<td> :video_game:
+<td> :trollface: <code>trollface</code> </td>
 
-<code>video_game</code> 
-</td>
+<td> :trophy: <code>trophy</code> </td>
 
-<td> :vietnam:
+<td> :tropical_drink: <code>tropical_drink</code> </td>
 
-<code>vietnam</code> 
-</td>
 
-<td> :violin:
+</tr>
 
-<code>violin</code> 
-</td>
+<tr>
 
+<td> :tropical_fish: <code>tropical_fish</code> </td>
 
-</tr>
+<td> :truck: <code>truck</code> </td>
 
-<tr>
+<td> :trumpet: <code>trumpet</code> </td>
 
-<td> :virgo:
+<td> :tshirt: <code>tshirt</code> </td>
 
-<code>virgo</code> 
-</td>
+<td> :tulip: <code>tulip</code> </td>
 
-<td> :volcano:
 
-<code>volcano</code> 
-</td>
+</tr>
 
-<td> :volleyball:
+<tr>
 
-<code>volleyball</code> 
-</td>
+<td> :tumbler_glass: <code>tumbler_glass</code> </td>
 
-<td> :vomiting_face:
+<td> :tunisia: <code>tunisia</code> </td>
 
-<code>vomiting_face</code> 
-</td>
+<td> :turkey: <code>turkey</code> </td>
 
-<td> :vs:
+<td> :turkmenistan: <code>turkmenistan</code> </td>
 
-<code>vs</code> 
-</td>
+<td> :turks_caicos_islands: <code>turks_caicos_islands</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :vulcan_salute:
-
-<code>vulcan_salute</code> 
-</td>
 
-<td> :waffle:
+<td> :turtle: <code>turtle</code> </td>
 
-<code>waffle</code> 
-</td>
+<td> :tuvalu: <code>tuvalu</code> </td>
 
-<td> :wales:
+<td> :tv: <code>tv</code> </td>
 
-<code>wales</code> 
-</td>
+<td> :twisted_rightwards_arrows: <code>twisted_rightwards_arrows</code> </td>
 
-<td> :walking:
+<td> :two: <code>two</code> </td>
 
-<code>walking</code> 
-</td>
 
-<td> :walking_man:
+</tr>
 
-<code>walking_man</code> 
-</td>
+<tr>
 
+<td> :two_hearts: <code>two_hearts</code> </td>
 
-</tr>
+<td> :two_men_holding_hands: <code>two_men_holding_hands</code> </td>
 
-<tr>
+<td> :two_women_holding_hands: <code>two_women_holding_hands</code> </td>
 
-<td> :walking_woman:
+<td> :u5272: <code>u5272</code> </td>
 
-<code>walking_woman</code> 
-</td>
+<td> :u5408: <code>u5408</code> </td>
 
-<td> :wallis_futuna:
 
-<code>wallis_futuna</code> 
-</td>
+</tr>
 
-<td> :waning_crescent_moon:
+<tr>
 
-<code>waning_crescent_moon</code> 
-</td>
+<td> :u55b6: <code>u55b6</code> </td>
 
-<td> :waning_gibbous_moon:
+<td> :u6307: <code>u6307</code> </td>
 
-<code>waning_gibbous_moon</code> 
-</td>
+<td> :u6708: <code>u6708</code> </td>
 
-<td> :warning:
+<td> :u6709: <code>u6709</code> </td>
 
-<code>warning</code> 
-</td>
+<td> :u6e80: <code>u6e80</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :wastebasket:
-
-<code>wastebasket</code> 
-</td>
 
-<td> :watch:
+<td> :u7121: <code>u7121</code> </td>
 
-<code>watch</code> 
-</td>
+<td> :u7533: <code>u7533</code> </td>
 
-<td> :water_buffalo:
+<td> :u7981: <code>u7981</code> </td>
 
-<code>water_buffalo</code> 
-</td>
+<td> :u7a7a: <code>u7a7a</code> </td>
 
-<td> :water_polo:
+<td> :uganda: <code>uganda</code> </td>
 
-<code>water_polo</code> 
-</td>
 
-<td> :watermelon:
+</tr>
 
-<code>watermelon</code> 
-</td>
+<tr>
 
+<td> :uk: <code>uk</code> </td>
 
-</tr>
+<td> :ukraine: <code>ukraine</code> </td>
 
-<tr>
+<td> :umbrella: <code>umbrella</code> </td>
 
-<td> :wave:
+<td> :unamused: <code>unamused</code> </td>
 
-<code>wave</code> 
-</td>
+<td> :underage: <code>underage</code> </td>
 
-<td> :wavy_dash:
 
-<code>wavy_dash</code> 
-</td>
+</tr>
 
-<td> :waxing_crescent_moon:
+<tr>
 
-<code>waxing_crescent_moon</code> 
-</td>
+<td> :unicorn: <code>unicorn</code> </td>
 
-<td> :waxing_gibbous_moon:
+<td> :united_arab_emirates: <code>united_arab_emirates</code> </td>
 
-<code>waxing_gibbous_moon</code> 
-</td>
+<td> :united_nations: <code>united_nations</code> </td>
 
-<td> :wc:
+<td> :unlock: <code>unlock</code> </td>
 
-<code>wc</code> 
-</td>
+<td> :up: <code>up</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :weary:
-
-<code>weary</code> 
-</td>
 
-<td> :wedding:
+<td> :upside_down_face: <code>upside_down_face</code> </td>
 
-<code>wedding</code> 
-</td>
+<td> :uruguay: <code>uruguay</code> </td>
 
-<td> :weight_lifting:
+<td> :us: <code>us</code> </td>
 
-<code>weight_lifting</code> 
-</td>
+<td> :us_outlying_islands: <code>us_outlying_islands</code> </td>
 
-<td> :weight_lifting_man:
+<td> :us_virgin_islands: <code>us_virgin_islands</code> </td>
 
-<code>weight_lifting_man</code> 
-</td>
 
-<td> :weight_lifting_woman:
+</tr>
 
-<code>weight_lifting_woman</code> 
-</td>
+<tr>
 
+<td> :uzbekistan: <code>uzbekistan</code> </td>
 
-</tr>
+<td> :v: <code>v</code> </td>
 
-<tr>
+<td> :vampire: <code>vampire</code> </td>
 
-<td> :western_sahara:
+<td> :vampire_man: <code>vampire_man</code> </td>
 
-<code>western_sahara</code> 
-</td>
+<td> :vampire_woman: <code>vampire_woman</code> </td>
 
-<td> :whale:
 
-<code>whale</code> 
-</td>
+</tr>
 
-<td> :whale2:
+<tr>
 
-<code>whale2</code> 
-</td>
+<td> :vanuatu: <code>vanuatu</code> </td>
 
-<td> :wheel_of_dharma:
+<td> :vatican_city: <code>vatican_city</code> </td>
 
-<code>wheel_of_dharma</code> 
-</td>
+<td> :venezuela: <code>venezuela</code> </td>
 
-<td> :wheelchair:
+<td> :vertical_traffic_light: <code>vertical_traffic_light</code> </td>
 
-<code>wheelchair</code> 
-</td>
+<td> :vhs: <code>vhs</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :white_check_mark:
-
-<code>white_check_mark</code> 
-</td>
 
-<td> :white_circle:
+<td> :vibration_mode: <code>vibration_mode</code> </td>
 
-<code>white_circle</code> 
-</td>
+<td> :video_camera: <code>video_camera</code> </td>
 
-<td> :white_flag:
+<td> :video_game: <code>video_game</code> </td>
 
-<code>white_flag</code> 
-</td>
+<td> :vietnam: <code>vietnam</code> </td>
 
-<td> :white_flower:
+<td> :violin: <code>violin</code> </td>
 
-<code>white_flower</code> 
-</td>
 
-<td> :white_haired_man:
+</tr>
 
-<code>white_haired_man</code> 
-</td>
+<tr>
 
+<td> :virgo: <code>virgo</code> </td>
 
-</tr>
+<td> :volcano: <code>volcano</code> </td>
 
-<tr>
+<td> :volleyball: <code>volleyball</code> </td>
 
-<td> :white_haired_woman:
+<td> :vomiting_face: <code>vomiting_face</code> </td>
 
-<code>white_haired_woman</code> 
-</td>
+<td> :vs: <code>vs</code> </td>
 
-<td> :white_heart:
 
-<code>white_heart</code> 
-</td>
+</tr>
 
-<td> :white_large_square:
+<tr>
 
-<code>white_large_square</code> 
-</td>
+<td> :vulcan_salute: <code>vulcan_salute</code> </td>
 
-<td> :white_medium_small_square:
+<td> :waffle: <code>waffle</code> </td>
 
-<code>white_medium_small_square</code> 
-</td>
+<td> :wales: <code>wales</code> </td>
 
-<td> :white_medium_square:
+<td> :walking: <code>walking</code> </td>
 
-<code>white_medium_square</code> 
-</td>
+<td> :walking_man: <code>walking_man</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :white_small_square:
-
-<code>white_small_square</code> 
-</td>
 
-<td> :white_square_button:
+<td> :walking_woman: <code>walking_woman</code> </td>
 
-<code>white_square_button</code> 
-</td>
+<td> :wallis_futuna: <code>wallis_futuna</code> </td>
 
-<td> :wilted_flower:
+<td> :waning_crescent_moon: <code>waning_crescent_moon</code> </td>
 
-<code>wilted_flower</code> 
-</td>
+<td> :waning_gibbous_moon: <code>waning_gibbous_moon</code> </td>
 
-<td> :wind_chime:
+<td> :warning: <code>warning</code> </td>
 
-<code>wind_chime</code> 
-</td>
 
-<td> :wind_face:
+</tr>
 
-<code>wind_face</code> 
-</td>
+<tr>
 
+<td> :wastebasket: <code>wastebasket</code> </td>
 
-</tr>
+<td> :watch: <code>watch</code> </td>
 
-<tr>
+<td> :water_buffalo: <code>water_buffalo</code> </td>
 
-<td> :wine_glass:
+<td> :water_polo: <code>water_polo</code> </td>
 
-<code>wine_glass</code> 
-</td>
+<td> :watermelon: <code>watermelon</code> </td>
 
-<td> :wink:
 
-<code>wink</code> 
-</td>
+</tr>
 
-<td> :wolf:
+<tr>
 
-<code>wolf</code> 
-</td>
+<td> :wave: <code>wave</code> </td>
 
-<td> :woman:
+<td> :wavy_dash: <code>wavy_dash</code> </td>
 
-<code>woman</code> 
-</td>
+<td> :waxing_crescent_moon: <code>waxing_crescent_moon</code> </td>
 
-<td> :woman_artist:
+<td> :waxing_gibbous_moon: <code>waxing_gibbous_moon</code> </td>
 
-<code>woman_artist</code> 
-</td>
+<td> :wc: <code>wc</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :woman_astronaut:
-
-<code>woman_astronaut</code> 
-</td>
 
-<td> :woman_cartwheeling:
+<td> :weary: <code>weary</code> </td>
 
-<code>woman_cartwheeling</code> 
-</td>
+<td> :wedding: <code>wedding</code> </td>
 
-<td> :woman_cook:
+<td> :weight_lifting: <code>weight_lifting</code> </td>
 
-<code>woman_cook</code> 
-</td>
+<td> :weight_lifting_man: <code>weight_lifting_man</code> </td>
 
-<td> :woman_dancing:
+<td> :weight_lifting_woman: <code>weight_lifting_woman</code> </td>
 
-<code>woman_dancing</code> 
-</td>
 
-<td> :woman_facepalming:
+</tr>
 
-<code>woman_facepalming</code> 
-</td>
+<tr>
 
+<td> :western_sahara: <code>western_sahara</code> </td>
 
-</tr>
+<td> :whale: <code>whale</code> </td>
 
-<tr>
+<td> :whale2: <code>whale2</code> </td>
 
-<td> :woman_factory_worker:
+<td> :wheel_of_dharma: <code>wheel_of_dharma</code> </td>
 
-<code>woman_factory_worker</code> 
-</td>
+<td> :wheelchair: <code>wheelchair</code> </td>
 
-<td> :woman_farmer:
 
-<code>woman_farmer</code> 
-</td>
+</tr>
 
-<td> :woman_firefighter:
+<tr>
 
-<code>woman_firefighter</code> 
-</td>
+<td> :white_check_mark: <code>white_check_mark</code> </td>
 
-<td> :woman_health_worker:
+<td> :white_circle: <code>white_circle</code> </td>
 
-<code>woman_health_worker</code> 
-</td>
+<td> :white_flag: <code>white_flag</code> </td>
 
-<td> :woman_in_manual_wheelchair:
+<td> :white_flower: <code>white_flower</code> </td>
 
-<code>woman_in_manual_wheelchair</code> 
-</td>
+<td> :white_haired_man: <code>white_haired_man</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :woman_in_motorized_wheelchair:
-
-<code>woman_in_motorized_wheelchair</code> 
-</td>
 
-<td> :woman_judge:
+<td> :white_haired_woman: <code>white_haired_woman</code> </td>
 
-<code>woman_judge</code> 
-</td>
+<td> :white_heart: <code>white_heart</code> </td>
 
-<td> :woman_juggling:
+<td> :white_large_square: <code>white_large_square</code> </td>
 
-<code>woman_juggling</code> 
-</td>
+<td> :white_medium_small_square: <code>white_medium_small_square</code> </td>
 
-<td> :woman_mechanic:
+<td> :white_medium_square: <code>white_medium_square</code> </td>
 
-<code>woman_mechanic</code> 
-</td>
 
-<td> :woman_office_worker:
+</tr>
 
-<code>woman_office_worker</code> 
-</td>
+<tr>
 
+<td> :white_small_square: <code>white_small_square</code> </td>
 
-</tr>
+<td> :white_square_button: <code>white_square_button</code> </td>
 
-<tr>
+<td> :wilted_flower: <code>wilted_flower</code> </td>
 
-<td> :woman_pilot:
+<td> :wind_chime: <code>wind_chime</code> </td>
 
-<code>woman_pilot</code> 
-</td>
+<td> :wind_face: <code>wind_face</code> </td>
 
-<td> :woman_playing_handball:
 
-<code>woman_playing_handball</code> 
-</td>
+</tr>
 
-<td> :woman_playing_water_polo:
+<tr>
 
-<code>woman_playing_water_polo</code> 
-</td>
+<td> :wine_glass: <code>wine_glass</code> </td>
 
-<td> :woman_scientist:
+<td> :wink: <code>wink</code> </td>
 
-<code>woman_scientist</code> 
-</td>
+<td> :wolf: <code>wolf</code> </td>
 
-<td> :woman_shrugging:
+<td> :woman: <code>woman</code> </td>
 
-<code>woman_shrugging</code> 
-</td>
+<td> :woman_artist: <code>woman_artist</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :woman_singer:
-
-<code>woman_singer</code> 
-</td>
 
-<td> :woman_student:
+<td> :woman_astronaut: <code>woman_astronaut</code> </td>
 
-<code>woman_student</code> 
-</td>
+<td> :woman_cartwheeling: <code>woman_cartwheeling</code> </td>
 
-<td> :woman_teacher:
+<td> :woman_cook: <code>woman_cook</code> </td>
 
-<code>woman_teacher</code> 
-</td>
+<td> :woman_dancing: <code>woman_dancing</code> </td>
 
-<td> :woman_technologist:
+<td> :woman_facepalming: <code>woman_facepalming</code> </td>
 
-<code>woman_technologist</code> 
-</td>
 
-<td> :woman_with_headscarf:
+</tr>
 
-<code>woman_with_headscarf</code> 
-</td>
+<tr>
 
+<td> :woman_factory_worker: <code>woman_factory_worker</code> </td>
 
-</tr>
+<td> :woman_farmer: <code>woman_farmer</code> </td>
 
-<tr>
+<td> :woman_firefighter: <code>woman_firefighter</code> </td>
 
-<td> :woman_with_probing_cane:
+<td> :woman_health_worker: <code>woman_health_worker</code> </td>
 
-<code>woman_with_probing_cane</code> 
-</td>
+<td> :woman_in_manual_wheelchair: <code>woman_in_manual_wheelchair</code> </td>
 
-<td> :woman_with_turban:
 
-<code>woman_with_turban</code> 
-</td>
+</tr>
 
-<td> :womans_clothes:
+<tr>
 
-<code>womans_clothes</code> 
-</td>
+<td> :woman_in_motorized_wheelchair: <code>woman_in_motorized_wheelchair</code> </td>
 
-<td> :womans_hat:
+<td> :woman_judge: <code>woman_judge</code> </td>
 
-<code>womans_hat</code> 
-</td>
+<td> :woman_juggling: <code>woman_juggling</code> </td>
 
-<td> :women_wrestling:
+<td> :woman_mechanic: <code>woman_mechanic</code> </td>
 
-<code>women_wrestling</code> 
-</td>
+<td> :woman_office_worker: <code>woman_office_worker</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :womens:
-
-<code>womens</code> 
-</td>
 
-<td> :woozy_face:
+<td> :woman_pilot: <code>woman_pilot</code> </td>
 
-<code>woozy_face</code> 
-</td>
+<td> :woman_playing_handball: <code>woman_playing_handball</code> </td>
 
-<td> :world_map:
+<td> :woman_playing_water_polo: <code>woman_playing_water_polo</code> </td>
 
-<code>world_map</code> 
-</td>
+<td> :woman_scientist: <code>woman_scientist</code> </td>
 
-<td> :worried:
+<td> :woman_shrugging: <code>woman_shrugging</code> </td>
 
-<code>worried</code> 
-</td>
 
-<td> :wrench:
+</tr>
 
-<code>wrench</code> 
-</td>
+<tr>
 
+<td> :woman_singer: <code>woman_singer</code> </td>
 
-</tr>
+<td> :woman_student: <code>woman_student</code> </td>
 
-<tr>
+<td> :woman_teacher: <code>woman_teacher</code> </td>
 
-<td> :wrestling:
+<td> :woman_technologist: <code>woman_technologist</code> </td>
 
-<code>wrestling</code> 
-</td>
+<td> :woman_with_headscarf: <code>woman_with_headscarf</code> </td>
 
-<td> :writing_hand:
 
-<code>writing_hand</code> 
-</td>
+</tr>
 
-<td> :x:
+<tr>
 
-<code>x</code> 
-</td>
+<td> :woman_with_probing_cane: <code>woman_with_probing_cane</code> </td>
 
-<td> :yarn:
+<td> :woman_with_turban: <code>woman_with_turban</code> </td>
 
-<code>yarn</code> 
-</td>
+<td> :womans_clothes: <code>womans_clothes</code> </td>
 
-<td> :yawning_face:
+<td> :womans_hat: <code>womans_hat</code> </td>
 
-<code>yawning_face</code> 
-</td>
+<td> :women_wrestling: <code>women_wrestling</code> </td>
 
 
 </tr>
 
 <tr>
-
-<td> :yellow_circle:
-
-<code>yellow_circle</code> 
-</td>
 
-<td> :yellow_heart:
+<td> :womens: <code>womens</code> </td>
 
-<code>yellow_heart</code> 
-</td>
+<td> :woozy_face: <code>woozy_face</code> </td>
 
-<td> :yellow_square:
+<td> :world_map: <code>world_map</code> </td>
 
-<code>yellow_square</code> 
-</td>
+<td> :worried: <code>worried</code> </td>
 
-<td> :yemen:
+<td> :wrench: <code>wrench</code> </td>
 
-<code>yemen</code> 
-</td>
 
-<td> :yen:
+</tr>
 
-<code>yen</code> 
-</td>
+<tr>
 
+<td> :wrestling: <code>wrestling</code> </td>
 
-</tr>
+<td> :writing_hand: <code>writing_hand</code> </td>
 
-<tr>
+<td> :x: <code>x</code> </td>
 
-<td> :yin_yang:
+<td> :yarn: <code>yarn</code> </td>
 
-<code>yin_yang</code> 
-</td>
+<td> :yawning_face: <code>yawning_face</code> </td>
 
-<td> :yo_yo:
 
-<code>yo_yo</code> 
-</td>
+</tr>
 
-<td> :yum:
+<tr>
 
-<code>yum</code> 
-</td>
+<td> :yellow_circle: <code>yellow_circle</code> </td>
 
-<td> :zambia:
+<td> :yellow_heart: <code>yellow_heart</code> </td>
 
-<code>zambia</code> 
-</td>
+<td> :yellow_square: <code>yellow_square</code> </td>
 
-<td> :zany_face:
+<td> :yemen: <code>yemen</code> </td>
 
-<code>zany_face</code> 
-</td>
+<td> :yen: <code>yen</code> </td>
 
 
 </tr>
 
 <tr>
 
-<td> :zap:
+<td> :yin_yang: <code>yin_yang</code> </td>
 
-<code>zap</code> 
-</td>
+<td> :yo_yo: <code>yo_yo</code> </td>
 
-<td> :zebra:
+<td> :yum: <code>yum</code> </td>
 
-<code>zebra</code> 
-</td>
+<td> :zambia: <code>zambia</code> </td>
 
-<td> :zero:
+<td> :zany_face: <code>zany_face</code> </td>
 
-<code>zero</code> 
-</td>
 
-<td> :zimbabwe:
-
-<code>zimbabwe</code> 
-</td>
+</tr>
 
-<td> :zipper_mouth_face:
+<tr>
 
-<code>zipper_mouth_face</code> 
-</td>
+<td> :zap: <code>zap</code> </td>
 
+<td> :zebra: <code>zebra</code> </td>
 
-</tr>
+<td> :zero: <code>zero</code> </td>
 
-<tr>
+<td> :zimbabwe: <code>zimbabwe</code> </td>
 
-<td> :zombie:
+<td> :zipper_mouth_face: <code>zipper_mouth_face</code> </td>
 
-<code>zombie</code> 
-</td>
 
-<td> :zombie_man:
+</tr>
 
-<code>zombie_man</code> 
-</td>
+<tr>
 
-<td> :zombie_woman:
+<td> :zombie: <code>zombie</code> </td>
 
-<code>zombie_woman</code> 
-</td>
+<td> :zombie_man: <code>zombie_man</code> </td>
 
-<td> :zzz:
+<td> :zombie_woman: <code>zombie_woman</code> </td>
 
-<code>zzz</code> 
-</td>
+<td> :zzz: <code>zzz</code> </td>
 
 
 </tr>
