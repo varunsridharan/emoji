@@ -1,4 +1,6 @@
 <?php
+$ins = new \DateTime();
+var_dump( $ins->getTimezone()->getName() );
 $url = 'https://api.github.com/emojis';
 $ch  = curl_init();
 curl_setopt( $ch, CURLOPT_RETURNTRANSFER, 1 );
