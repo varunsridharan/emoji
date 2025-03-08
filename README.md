@@ -5,7 +5,7 @@ You can also download emojis image file from `images/` Folder_
 <p align="center">
     <img src="https://cdn.svarun.dev/gh/varunsridharan/emoji/quote.png"/>
 </p>
-<h6 align="center"><i>Last Updated : Fri 07-Mar-2025 12:26 am </i></h6>
+<h6 align="center"><i>Last Updated : Sat 08-Mar-2025 12:20 am </i></h6>
 
 ---
 
